@@ -52,11 +52,23 @@ def div_of(fid):
     return fid.split("-")[0]
 
 
+def resolve_path(filing):
+    """A registry `file` already carries its repo prefix; a bare one does not.
+
+    Joining BASE/repo/file blindly produced BASE/repo/repo/file, so every
+    document looked missing and the TEACH rung read 0 for the whole corpus.
+    """
+    f = filing.get("file")
+    if not f:
+        return None
+    return os.path.join(BASE, f) if f.startswith(filing["repo"] + "/") \
+        else os.path.join(BASE, filing["repo"], f)
+
+
 def fres_clear(filing):
     """TEACH rung: the doctrine's file passes the plain-English gate."""
-    repo = filing["repo"]
-    fpath = os.path.join(BASE, repo, filing["file"])
-    if not os.path.exists(fpath):
+    fpath = resolve_path(filing)
+    if not fpath or not os.path.exists(fpath):
         return False
     try:
         r = subprocess.run([PLAIN_LANG, fpath], capture_output=True,

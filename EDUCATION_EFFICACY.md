@@ -4,21 +4,23 @@
 
 ## Part 1 — The verdict
 
-**0/143 filings teach on all four rungs (0%). Registry chain: VERIFIED.**
+**2/144 filings teach on all four rungs (1%). Registry chain: VERIFIED.**
 
 | Division | Filings | TEACH | PRACTICE | PROOF | CHAIN | All four |
 |----------|---------|-------|----------|-------|-------|----------|
-| the State (GOV) | 71 | 0 | 1 | 1 | 71 | 0 |
-| the Bureau (WBI) | 1 | 0 | 0 | 0 | 1 | 0 |
-| the Mind (RND) | 52 | 0 | 2 | 2 | 52 | 0 |
+| the State (GOV) | 71 | 39 | 1 | 1 | 71 | 1 |
+| the Bureau (WBI) | 1 | 1 | 0 | 0 | 1 | 0 |
+| the Mind (RND) | 53 | 7 | 3 | 3 | 53 | 1 |
 | the Ledger (ECO) | 9 | 0 | 0 | 0 | 9 | 0 |
-| the Registry (REG) | 7 | 0 | 0 | 0 | 7 | 0 |
+| the Registry (REG) | 7 | 5 | 0 | 0 | 7 | 0 |
 | the Audits (AUD) | 2 | 0 | 0 | 0 | 2 | 0 |
 
 ## Part 2 — The filings that teach (all four rungs)
 
 | Filing | What it teaches | Proof |
 |--------|-----------------|-------|
+| **GOV-77** | The Integrity Doctrine — the Seal and the Gates | govgen |
+| **RND-53** | The Teach Gap — what the language gates actually block | plain_lang, wubu_edu, govgen |
 
 ## Part 3 — The gaps (teach without proof, or practice without teach)
 
@@ -26,7 +28,7 @@
 |--------|-------|----------|-------|-------|---------|
 | **AUD-1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **AUD-3** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **CER-1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **CER-1** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **ECO-1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **ECO-2** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **ECO-3** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
@@ -37,62 +39,62 @@
 | **ECO-8** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **ECO-9** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-10** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-11** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-12** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-13** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-14** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-15** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-16** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-17** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-18** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-19** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-10** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-11** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-12** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-13** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-14** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-15** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-16** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-17** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-18** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-19** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-2** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-20** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-21** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-22** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-23** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-24** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-25** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-26** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-27** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-28** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-29** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-3** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-20** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-21** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-22** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-23** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-24** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-25** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-26** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-27** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-28** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-29** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-3** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-30** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-31** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-32** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-33** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-34** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-33** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-34** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-35** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-36** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-37** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-38** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-37** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-38** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-39** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-4** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-4** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-40** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-41** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-42** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-43** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-41** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-42** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-43** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-44** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-45** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-46** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-47** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-48** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-48** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-49** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-5** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-50** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-5** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-50** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-51** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-53** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-54** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-55** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-56** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-6** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-56** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-6** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-60** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-63** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-63** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-64** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-65** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-66** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-66** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **GOV-67** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-68** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-69** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
@@ -104,33 +106,32 @@
 | **GOV-74** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-75** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **GOV-76** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-77** | ✗ | ✓ | ✓ | ✓ | teach |
-| **GOV-8** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **GOV-9** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **REG-1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **REG-2** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **GOV-8** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **GOV-9** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **REG-1** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **REG-2** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **REG-3** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **REG-4** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **REG-4** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **REG-5** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **REG-6** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **REG-7** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **REG-6** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **REG-7** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **RND-0.1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **RND-1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **RND-16** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **RND-1** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **RND-16** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **RND-17** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-19** | ✗ | ✓ | ✓ | ✓ | teach |
 | **RND-2** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-21** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-3** | ✗ | ✓ | ✓ | ✓ | teach |
-| **RND-4** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **RND-4** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **RND-42** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-43** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-44** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-45** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **RND-5** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **RND-5** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **RND-52** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **RND-6** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **RND-7** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **RND-6** | ✓ | ✗ | ✗ | ✓ | practice, proof |
+| **RND-7** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 | **RND-ANT** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-BCT** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-BSE** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
@@ -166,10 +167,10 @@
 | **RND-TLP** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-TRM** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
 | **RND-VAC** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
-| **WBI-1** | ✗ | ✗ | ✗ | ✓ | teach, practice, proof |
+| **WBI-1** | ✓ | ✗ | ✗ | ✓ | practice, proof |
 
 ## Part 4 — The lesson
 
 Education efficacy is the government's own report card. A doctrine that reads well but ships no tool teaches words, not work. A tool with no proof teaches confidence, not truth. The four rungs are the stairs a newcomer climbs from reading to doing — and the space's whole claim is that the climb is the community's work.
 
-*EDU efficacy: 0% of the government teaches on all four rungs. Filed. Done. Next.*
+*EDU efficacy: 1% of the government teaches on all four rungs. Filed. Done. Next.*

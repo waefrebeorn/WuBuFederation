@@ -4,7 +4,7 @@
 
 ## Part 1 — The aggregate, in one view
 
-**177 filings. 7 organs. One idea: a mental government — no land, every society-cohesive religion welcome.**
+**178 filings. 7 organs. One idea: a mental government — no land, every society-cohesive religion welcome.**
 
 The project's consistency check, by the numbers:
 
@@ -13,7 +13,7 @@ The project's consistency check, by the numbers:
 | the State (doctrine) | GOV-1–77 | 76 |
 | the Bureau (intel) | WBI-1–2 | 2 |
 | the Registry (citizenship) | REG-1–7 | 7 |
-| the Mind (research) | RND-0.1–52 (+35 slug) | 79 |
+| the Mind (research) | RND-0.1–53 (+35 slug) | 80 |
 | the Ledger (economics) | ECO-1–9 | 9 |
 | the Audits (audit) | AUD-1–3 | 3 |
 
@@ -161,43 +161,44 @@ The project's consistency check, by the numbers:
 | 138 | **RND-44** | API Interoperability | RND | filed | — |
 | 139 | **RND-45** | Proof of Cooperation | RND | filed | — |
 | 140 | **RND-52** | Research Log | RND | filed | — |
-| 141 | **RND-ANT** | Anthropological Preservation Research | RND | filed | — |
-| 142 | **RND-BCT** | Banking Cooperation Tech Research | RND | filed | — |
-| 143 | **RND-BSE** | Base Economy Research | RND | filed | — |
-| 144 | **RND-CLE** | Corporate License Enforcement Research | RND | filed | — |
-| 145 | **RND-CMF** | Communication Framework Research | RND | filed | — |
-| 146 | **RND-CPL** | Cooperative Lodge Research | RND | filed | — |
-| 147 | **RND-CSM** | Coin Stamping Methods Research | RND | filed | — |
-| 148 | **RND-CTA** | Call to Action Research | RND | filed | — |
-| 149 | **RND-DFE** | Debt-Free Economy Research | RND | filed | — |
-| 150 | **RND-DOI** | Doctrine Improvement Research | RND | filed | — |
-| 151 | **RND-DSCR** | DSCR Real Estate Lending Research | RND | filed | — |
-| 152 | **RND-FUL** | Fulfillment Missions Research | RND | filed | — |
-| 153 | **RND-GAS** | Government API Standards Research | RND | filed | — |
-| 154 | **RND-GOA** | Government API Research | RND | filed | — |
-| 155 | **RND-GOS** | Global Organization Structure Research | RND | filed | — |
-| 156 | **RND-GWH** | Goodwill History Research | RND | filed | — |
-| 157 | **RND-IDO** | Identity Onboarding Research | RND | filed | — |
-| 158 | **RND-LOS** | Loss Aversion Behavioral Economics Research | RND | filed | — |
-| 159 | **RND-MCI** | Microcredit Inclusion Research | RND | filed | — |
-| 160 | **RND-MMT** | MMT Critiques Research | RND | filed | — |
-| 161 | **RND-NDM** | No-Debt Monetary Systems | RND | filed | — |
-| 162 | **RND-OBG** | Onboarding Gamification Research | RND | filed | — |
-| 163 | **RND-OBO** | Onboarding Optimization Research | RND | filed | — |
-| 164 | **RND-POP** | Population Decline Research | RND | filed | — |
-| 165 | **RND-PPT** | Purpose Tree Research | RND | filed | — |
-| 166 | **RND-PSE** | Pseudoscience Engagement Research | RND | filed | — |
-| 167 | **RND-REC** | Religious Cooperation Research | RND | filed | — |
-| 168 | **RND-SPC** | Space Economics Research | RND | filed | — |
-| 169 | **RND-SSG** | Self-Sufficient Government Research | RND | filed | — |
-| 170 | **RND-SWF** | Sovereign Wealth Fund Research | RND | filed | — |
-| 171 | **RND-TKB** | Token Banking Research | RND | filed | — |
-| 172 | **RND-TLI** | Timeline Improvement Research | RND | filed | — |
-| 173 | **RND-TLP** | Token Ledger Proof Research | RND | filed | — |
-| 174 | **RND-TRM** | Treasury Management Research | RND | filed | — |
-| 175 | **RND-VAC** | Vacancy Economics Deep Research | RND | filed | — |
-| 176 | **WBI-1** | Vigilance Report (Form WBI-1) | WBI | filed | — |
-| 177 | **WBI-2** | Bureau Doctrine (charter) | WBI | charter | — |
+| 141 | **RND-53** | The Teach Gap — what the language gates actually block | RND | filed | plain_lang, wubu_edu, govgen |
+| 142 | **RND-ANT** | Anthropological Preservation Research | RND | filed | — |
+| 143 | **RND-BCT** | Banking Cooperation Tech Research | RND | filed | — |
+| 144 | **RND-BSE** | Base Economy Research | RND | filed | — |
+| 145 | **RND-CLE** | Corporate License Enforcement Research | RND | filed | — |
+| 146 | **RND-CMF** | Communication Framework Research | RND | filed | — |
+| 147 | **RND-CPL** | Cooperative Lodge Research | RND | filed | — |
+| 148 | **RND-CSM** | Coin Stamping Methods Research | RND | filed | — |
+| 149 | **RND-CTA** | Call to Action Research | RND | filed | — |
+| 150 | **RND-DFE** | Debt-Free Economy Research | RND | filed | — |
+| 151 | **RND-DOI** | Doctrine Improvement Research | RND | filed | — |
+| 152 | **RND-DSCR** | DSCR Real Estate Lending Research | RND | filed | — |
+| 153 | **RND-FUL** | Fulfillment Missions Research | RND | filed | — |
+| 154 | **RND-GAS** | Government API Standards Research | RND | filed | — |
+| 155 | **RND-GOA** | Government API Research | RND | filed | — |
+| 156 | **RND-GOS** | Global Organization Structure Research | RND | filed | — |
+| 157 | **RND-GWH** | Goodwill History Research | RND | filed | — |
+| 158 | **RND-IDO** | Identity Onboarding Research | RND | filed | — |
+| 159 | **RND-LOS** | Loss Aversion Behavioral Economics Research | RND | filed | — |
+| 160 | **RND-MCI** | Microcredit Inclusion Research | RND | filed | — |
+| 161 | **RND-MMT** | MMT Critiques Research | RND | filed | — |
+| 162 | **RND-NDM** | No-Debt Monetary Systems | RND | filed | — |
+| 163 | **RND-OBG** | Onboarding Gamification Research | RND | filed | — |
+| 164 | **RND-OBO** | Onboarding Optimization Research | RND | filed | — |
+| 165 | **RND-POP** | Population Decline Research | RND | filed | — |
+| 166 | **RND-PPT** | Purpose Tree Research | RND | filed | — |
+| 167 | **RND-PSE** | Pseudoscience Engagement Research | RND | filed | — |
+| 168 | **RND-REC** | Religious Cooperation Research | RND | filed | — |
+| 169 | **RND-SPC** | Space Economics Research | RND | filed | — |
+| 170 | **RND-SSG** | Self-Sufficient Government Research | RND | filed | — |
+| 171 | **RND-SWF** | Sovereign Wealth Fund Research | RND | filed | — |
+| 172 | **RND-TKB** | Token Banking Research | RND | filed | — |
+| 173 | **RND-TLI** | Timeline Improvement Research | RND | filed | — |
+| 174 | **RND-TLP** | Token Ledger Proof Research | RND | filed | — |
+| 175 | **RND-TRM** | Treasury Management Research | RND | filed | — |
+| 176 | **RND-VAC** | Vacancy Economics Deep Research | RND | filed | — |
+| 177 | **WBI-1** | Vigilance Report (Form WBI-1) | WBI | filed | — |
+| 178 | **WBI-2** | Bureau Doctrine (charter) | WBI | charter | — |
 
 ## Part 3 — Every tool (the founding rule in the record)
 
@@ -247,12 +248,12 @@ Every doctrine ships a tool. The registry proves it as rows:
 ## Part 4 — The overlap (which organs carried the project)
 
 ```
-GOV  ############################################################################     (76 filings)
-WBI  ##                                                                               (2 filings)
-REG  #######                                                                          (7 filings)
-RND  ###############################################################################  (79 filings)
-ECO  #########                                                                        (9 filings)
-AUD  ###                                                                              (3 filings)
+GOV  ############################################################################      (76 filings)
+WBI  ##                                                                                (2 filings)
+REG  #######                                                                           (7 filings)
+RND  ################################################################################  (80 filings)
+ECO  #########                                                                         (9 filings)
+AUD  ###                                                                               (3 filings)
 ```
 
 The State leads (doctrine first), the Hands follow (every doctrine's tool), and the audits close the loop — the same shape as THE HISTORY's own founding day.

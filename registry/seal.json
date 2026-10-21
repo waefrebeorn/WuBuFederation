@@ -1,10 +1,10 @@
 {
   "schema": "wubu-corpus-seal-v1",
   "sealed": "2026-10-21",
-  "documents": 153,
-  "root": "b0b2ec2706a7873e0e610e1817270a9aa959e3737f7eea37e96a72f2a6e12d9c",
-  "prev_root": "b0b2ec2706a7873e0e610e1817270a9aa959e3737f7eea37e96a72f2a6e12d9c",
-  "reason": "README: federation layer documented, GOV-77 indexed",
+  "documents": 154,
+  "root": "59a20bd855d8ecde7186e94124a150917384314f316a8344538f176cb956ac23",
+  "prev_root": "fa183c947e428afd60b8551b33b53fae59d2b01a1b073f1ec2191cb115599228",
+  "reason": "RND-53: figure annotated as a pre-filing snapshot",
   "entries": [
     {
       "id": "RND-ANT",
@@ -762,6 +762,11 @@
       "sha256": "3c6c23b502498dcd48e5940dc343cdff0409e7ba8193b0a03c793c5910e5e06d"
     },
     {
+      "id": "RND-53",
+      "file": "wuburesearch/docs/teach-gap.md",
+      "sha256": "ca5d113f3aa0415a8a7e355afdee2c4fc743f3620fbe8e5e3fe594b8e61a09ef"
+    },
+    {
       "id": "RND-17",
       "file": "wuburesearch/docs/world-model.md",
       "sha256": "af72398087681af390efb210645d77835b9e2c1e7beeaa1bbbbaf9752db6495c"
@@ -773,7 +778,7 @@
     }
   ],
   "registry": {
-    "filings.json": "de0e35f50c0c12d473e2abdcdca15780a35085f0577c554aa43258e017e5d884",
+    "filings.json": "4e09f5512659aafea132b28b378954cc220f66b28a79e89718338ffc0e0e640a",
     "tools.json": "f5e8dc3a013f0d70e1cb9eb73c1b664775f87224ea49730f3ef76f62be4f79ce",
     "divisions.json": "ddfd1b9be1add084beb570cf1b03ceac391c77a5d27ec5485b724ad04d4dc831"
   }

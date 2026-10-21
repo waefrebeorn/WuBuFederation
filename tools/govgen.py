@@ -507,10 +507,14 @@ def lang_report():
     for d in sorted(docs):
         rel = os.path.relpath(d, BASE)
         # FRES gate
+        fres_num = None
         try:
             r = subprocess.run([PLAIN, d], capture_output=True, text=True, timeout=10)
             out = r.stdout
             fres_verdict = "CLEAR" if "CLEAR" in out and "no rewrite" in out else "REWRITE"
+            m = re.search(r'Flesch Reading Ease\s*:\s*([0-9.]+)', out)
+            if m:
+                fres_num = float(m.group(1))
         except Exception:
             fres_verdict = "ERR"
         # STE gate
@@ -530,7 +534,7 @@ def lang_report():
             zh = "ERR"
         if fres_verdict == "CLEAR": n_clear += 1
         if ste == "STE CLEAR": n_ste += 1
-        rows.append((rel, fres_verdict, ste, zh))
+        rows.append((rel, fres_verdict, ste, zh, fres_num))
 
     lines = ["# Corpus Language Report",
              "",
@@ -546,9 +550,23 @@ def lang_report():
              "",
              "| Doc | FRES (RND-20) | STE (RND-22) | zh (GOV-10) |",
              "|-----|---------------|--------------|-------------|"]
-    for rel, f, s, z in rows:
+    for row in rows:
+        rel, f, s, z = row[0], row[1], row[2], row[3]
         lines.append(f"| `{rel}` | {f} | {s} | {z} |")
-    lines += ["", "*Generated. Filed. Done. Next.*"]
+
+    # The fix queue: the gate is only useful if it names what to do next.
+    queue = sorted([r for r in rows if r[4] is not None and r[4] < 60],
+                   key=lambda r: r[4])
+    lines += ["", "## The fix queue — the documents furthest below the floor", "",
+              "Ranked by Flesch Reading Ease (RND-20 floor is 60). A document",
+              "reaches 60 by shortening sentences and choosing shorter words;",
+              "the floor is not met by deleting content.", "",
+              "| Rank | Doc | FRES | To the floor |", "|------|-----|------|--------------|"]
+    for i, r in enumerate(queue[:30], 1):
+        lines.append(f"| {i} | `{r[0]}` | {r[4]:.1f} | {60 - r[4]:+.1f} |")
+    lines += ["", f"{len(queue)} documents sit below the floor. The doctrine (RND-22) "
+              "requires CLEAR for new and amended filings; the rest are a queue, "
+              "not an excuse.", "", "*Generated. Filed. Done. Next.*"]
     out = os.path.join(BASE, "CORPUS-LANG.md")
     with open(out, "w") as f:
         f.write("\n".join(lines) + "\n")

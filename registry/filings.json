@@ -1423,6 +1423,25 @@
       "cross": []
     },
     {
+      "id": "RND-53",
+      "repo": "wuburesearch",
+      "file": "wuburesearch/docs/teach-gap.md",
+      "title": "The Teach Gap \u2014 what the language gates actually block",
+      "status": "filed",
+      "tools": [
+        "plain_lang",
+        "wubu_edu",
+        "govgen"
+      ],
+      "cross": [
+        "RND-20",
+        "RND-22",
+        "GOV-26",
+        "GOV-8",
+        "GOV-77"
+      ]
+    },
+    {
       "id": "RND-ANT",
       "file": "research/wiki/pages/anthropological_preservation.md",
       "repo": "research",
