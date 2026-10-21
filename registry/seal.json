@@ -1,11 +1,26 @@
 {
   "schema": "wubu-corpus-seal-v1",
   "sealed": "2026-10-21",
-  "documents": 154,
-  "root": "3841fb2791161769440cdd617358406b98dcc5017f7f19aad73467d92699938d",
-  "prev_root": "59a20bd855d8ecde7186e94124a150917384314f316a8344538f176cb956ac23",
-  "reason": "GOV-77 and RND-53 pass both language gates; STE pass applied",
+  "documents": 170,
+  "root": "0aff94e9d98c68565c6f25a589a16093accae3c66eabd36d1a53c3d820b4894a",
+  "prev_root": "3841fb2791161769440cdd617358406b98dcc5017f7f19aad73467d92699938d",
+  "reason": "GOV-78 filed: the agent door; JOINING guides and the contract sealed",
   "entries": [
+    {
+      "id": "CONTRACT:JOINING.md",
+      "file": "JOINING.md",
+      "sha256": "de57642b4dc4e868dced39c12ecd47b0a3bdffbc842c80c0f3c118b04ab8da44"
+    },
+    {
+      "id": "CONTRACT:README.md",
+      "file": "README.md",
+      "sha256": "25dcbdfca0ae2e135f470db07258cddc7624ee1e7e93f2fd7f0637834a0d853a"
+    },
+    {
+      "id": "CONTRACT:agent-protocol.json",
+      "file": "agent-protocol.json",
+      "sha256": "ce79c09e679c02024bc3e33b42468928cd1a9669a3cdb6d13c30530d8c92044d"
+    },
     {
       "id": "RND-ANT",
       "file": "research/wiki/pages/anthropological_preservation.md",
@@ -182,6 +197,16 @@
       "sha256": "02a942c874cb66c731a4cebd2fc4964fba2920386793b3ee1fa38b956f977c63"
     },
     {
+      "id": "CONTRACT:wubucitizen/JOINING.md",
+      "file": "wubucitizen/JOINING.md",
+      "sha256": "7587c7503a61251236f673e8a6adc593b305a17e40f78bbefc2716e275373993"
+    },
+    {
+      "id": "CONTRACT:wubucitizen/README.md",
+      "file": "wubucitizen/README.md",
+      "sha256": "cbd21949f50a0b0fa575115235ac15629e86f917f129ffcb6893be24c45d863a"
+    },
+    {
       "id": "CER-1",
       "file": "wubucitizen/ceremonies/template.md",
       "sha256": "db9eb9b7520d6f619860de22731890d482c8ae92847e5f36942f809ee5b668d7"
@@ -220,6 +245,26 @@
       "id": "REG-7",
       "file": "wubucitizen/docs/wid.md",
       "sha256": "140d971203df1b751620de6a03f0dae6b35c8b83bd0bacfd4c0bec811e5d71a2"
+    },
+    {
+      "id": "CONTRACT:wubucore/JOINING.md",
+      "file": "wubucore/JOINING.md",
+      "sha256": "d5c2ceff9f678c0b3384bd9dda33500510924069674d7009fb2dc4f0ef4cbd5d"
+    },
+    {
+      "id": "CONTRACT:wubucore/README.md",
+      "file": "wubucore/README.md",
+      "sha256": "7284d4e754c74382a2df182b6c98cef337a5767a4badbb23b8759ba51e56a65f"
+    },
+    {
+      "id": "CONTRACT:wubuecon/JOINING.md",
+      "file": "wubuecon/JOINING.md",
+      "sha256": "34c539cd8974ff855cef440318f08e3a726005ae2aafabf85a7ece7d894526e7"
+    },
+    {
+      "id": "CONTRACT:wubuecon/README.md",
+      "file": "wubuecon/README.md",
+      "sha256": "a3a92909d0a1e00a7e1fd31996af31cfd5b5192966125a064818b6e4436e3df4"
     },
     {
       "id": "ECO-3",
@@ -292,6 +337,16 @@
       "sha256": "9e6f3284be2b1fa8985d06a245c00db0f0e45ff0962d3f6c5820e6259487270f"
     },
     {
+      "id": "CONTRACT:wubugov/JOINING.md",
+      "file": "wubugov/JOINING.md",
+      "sha256": "63f44d16c2862b59698fad93eaddaf854f213d71c486a30f57854511870232c6"
+    },
+    {
+      "id": "CONTRACT:wubugov/README.md",
+      "file": "wubugov/README.md",
+      "sha256": "412d01c0179679c28c9a0497f80cc82ad5acc0985f1094812cc26c3c853b31a4"
+    },
+    {
       "id": "GOV-66",
       "file": "wubugov/docs/7-magic-keys.md",
       "sha256": "1d237bcd4ca9d86ab793ae200cf3b11751eb71194e8ef37815b5adb9409ba4ba"
@@ -305,6 +360,11 @@
       "id": "GOV-2",
       "file": "wubugov/docs/adaptation-not-dissolution.md",
       "sha256": "4f6ff1ef179d48c17b4e2f0f7d8d0f17349fb0e41ce46c9b518a650141a76f9b"
+    },
+    {
+      "id": "GOV-78",
+      "file": "wubugov/docs/agent-admission-doctrine.md",
+      "sha256": "2fae540dcebb940154974667ac342c02eca8494ff869993770a0a4967ae5dfda"
     },
     {
       "id": "GOV-8",
@@ -682,9 +742,29 @@
       "sha256": "4bb7970bf151f52e48bd742bd7d933f13c5353e721146b3614d25d36573fda68"
     },
     {
+      "id": "CONTRACT:wubuintel/JOINING.md",
+      "file": "wubuintel/JOINING.md",
+      "sha256": "08d5cabd9c35bb40633dcb8475dda26f0407015d078618bfc8be8e667bd741a0"
+    },
+    {
+      "id": "CONTRACT:wubuintel/README.md",
+      "file": "wubuintel/README.md",
+      "sha256": "e4cf311abfff12eb2fc0df533c835d3f9a016657abeaaf2e3bb01dab417d854f"
+    },
+    {
       "id": "WBI-1",
       "file": "wubuintel/REPORTING.md",
       "sha256": "34208704d4d8369b4b5ae9323cac7d280928c24bc247e52afe5af572dff0b323"
+    },
+    {
+      "id": "CONTRACT:wuburesearch/JOINING.md",
+      "file": "wuburesearch/JOINING.md",
+      "sha256": "f5b73beb1293d66650578f29aa71b3e284e1511f6af05b2d32f74f6f0b098fed"
+    },
+    {
+      "id": "CONTRACT:wuburesearch/README.md",
+      "file": "wuburesearch/README.md",
+      "sha256": "ab82d8b2387e028005f017de89906f8fa7241d85fe15a00643d9bce64c20e806"
     },
     {
       "id": "RND-19",
@@ -778,8 +858,8 @@
     }
   ],
   "registry": {
-    "filings.json": "4e09f5512659aafea132b28b378954cc220f66b28a79e89718338ffc0e0e640a",
-    "tools.json": "f5e8dc3a013f0d70e1cb9eb73c1b664775f87224ea49730f3ef76f62be4f79ce",
+    "filings.json": "f39c5925118f2b7acc8b0fd4516a38d79d8eb33ece28ba7fcde2d47f936a11f9",
+    "tools.json": "9869538b6654e58812c1363c7b13e76347a045df6b15f7ade900ac7f2c039a52",
     "divisions.json": "ddfd1b9be1add084beb570cf1b03ceac391c77a5d27ec5485b724ad04d4dc831"
   }
 }

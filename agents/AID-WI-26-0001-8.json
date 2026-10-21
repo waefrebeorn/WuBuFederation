@@ -1,0 +1,26 @@
+{
+  "schema": "wubu-agent-card-v1",
+  "aid": "AID-WI-26-0001-8",
+  "name": "hermes-witness",
+  "class": "witness",
+  "class_code": "WI",
+  "sponsor_wid": "WID-WB-26-0001-8",
+  "model": "nous/deepseek-v4.1-flash-1017",
+  "endpoint": "a2a://wubuvictus15:9900",
+  "capabilities": [
+    "filing.write",
+    "govgen.audit",
+    "seal.verify"
+  ],
+  "note": "first agent witness: verifies the gates and files what it finds",
+  "declares": {
+    "is_user": false,
+    "reads_charter": "GOV-5",
+    "accepts_vehicle_clause": true,
+    "attributes_actions_to_sponsor": true,
+    "no_vote_until_cooperation": true
+  },
+  "joined": "2026-10-21",
+  "first_duty": "run `python3 tools/govgen.py audit` and file the result",
+  "card_hash": "51abc89771e653593d9f24230951bb997fc32a86380b534f1070c512690b7600"
+}

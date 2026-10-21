@@ -16,6 +16,7 @@ import tempfile
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import govgen  # noqa: E402
+import wubu_join  # noqa: E402
 
 FILINGS = {
     "schema": "wubu-federation-registry-v1",
@@ -213,6 +214,63 @@ def seal_chain_links_to_previous_root(c):
     assert second["prev_root"] == first["root"]
     lines = open(os.path.join(govgen.REG, "seal-history.jsonl")).read().splitlines()
     assert len(lines) == 2, lines
+
+
+def _agent_fixture(c):
+    """Write one valid agent row + card + history into the throwaway corpus."""
+    import hashlib
+    import json as _j
+    c.write("agents/AID-WI-26-0001-8.json", _j.dumps({"aid": "AID-WI-26-0001-8",
+                                                    "name": "w", "class": "witness"}))
+    card = _j.load(open(c.path("agents/AID-WI-26-0001-8.json")))
+    ch = wubu_join.card_hash(card)
+    row = {"schema": "wubu-agent-join-v1", "aid": "AID-WI-26-0001-8", "name": "w",
+           "class": "witness", "sponsor": "WID-WB-26-0001-8", "card_hash": ch,
+           "joined": "2026-10-21", "prev": None}
+    row["row_hash"] = hashlib.sha256(
+        _j.dumps(row, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
+    c.write("registry/agents-history.jsonl", _j.dumps(row) + "\n")
+    c.write("registry/agents.json", _j.dumps({"schema": "wubu-agent-registry-v1",
+        "agents": [{"aid": "AID-WI-26-0001-8", "name": "w", "class": "witness",
+                    "sponsor": "WID-WB-26-0001-8", "status": "active",
+                    "card": "agents/AID-WI-26-0001-8.json", "card_hash": ch,
+                    "joined": "2026-10-21"}]}))
+    return ch
+
+
+@case
+def valid_agent_ledger_passes(c):
+    _agent_fixture(c)
+    assert c.audit() == [], c.audit()
+
+
+@case
+def agent_card_drift_is_caught(c):
+    _agent_fixture(c)
+    c.write("agents/AID-WI-26-0001-8.json", '{"aid": "AID-WI-26-0001-8", "name": "evil"}')
+    d = c.audit()
+    assert any("AGENT CARD DRIFT" in x for x in d), d
+
+
+@case
+def bad_agent_sponsor_is_caught(c):
+    _agent_fixture(c)
+    reg = json.loads(open(c.path("registry/agents.json")).read())
+    reg["agents"][0]["sponsor"] = "WID-WB-26-0001-9"  # wrong check digit
+    c.write("registry/agents.json", json.dumps(reg))
+    d = c.audit()
+    assert any("BAD AGENT SPONSOR" in x for x in d), d
+
+
+@case
+def broken_join_chain_is_caught(c):
+    _agent_fixture(c)
+    hist = open(c.path("registry/agents-history.jsonl")).read()
+    row = json.loads(hist)
+    row["name"] = "tampered"
+    c.write("registry/agents-history.jsonl", json.dumps(row) + "\n")
+    d = c.audit()
+    assert any("AGENT CHAIN BROKEN" in x for x in d), d
 
 
 def main():

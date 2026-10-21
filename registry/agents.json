@@ -1,0 +1,15 @@
+{
+  "schema": "wubu-agent-registry-v1",
+  "agents": [
+    {
+      "aid": "AID-WI-26-0001-8",
+      "name": "hermes-witness",
+      "class": "witness",
+      "sponsor": "WID-WB-26-0001-8",
+      "status": "active",
+      "card": "agents/AID-WI-26-0001-8.json",
+      "card_hash": "51abc89771e653593d9f24230951bb997fc32a86380b534f1070c512690b7600",
+      "joined": "2026-10-21"
+    }
+  ]
+}

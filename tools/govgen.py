@@ -202,6 +202,10 @@ def audit():
                     f"SEAL DRIFT: {e['file']} ({e['id']}) changed since the seal "
                     f"— run `govgen seal` to record the change")
 
+    # 9. the agent ledger: every AID a real number, every card sealed to its
+    #    row, every sponsor a real citizen, and one unbroken chain of joins.
+    defects += audit_agents()
+
     for repo, _, files in os.walk(BASE):
         rel = os.path.relpath(repo, BASE)
         if rel.startswith(".") or rel == "registry" or rel == "wubucore":
@@ -264,6 +268,60 @@ def sha256(path):
     return h.hexdigest()
 
 
+def audit_agents():
+    """Gate 9 — the agent ledger (GOV-78).
+
+    An agent joins by running wubu_join.py. The row it writes has to keep
+    meaning something afterwards: the AID has to be real arithmetic, the
+    sponsor has to be a real citizen, the card has to still hash to what
+    the row recorded, and the joins have to form one chain.
+    """
+    import hashlib
+    defects = []
+    reg = os.path.join(REG, "agents.json")
+    if not os.path.exists(reg):
+        return defects
+    sys.path.insert(0, os.path.join(BASE, "tools"))
+    import wubu_join as J
+
+    doc = json.load(open(reg))
+    seen_aid, seen_name = set(), set()
+    for a in doc.get("agents", []):
+        if not J.aid_valid(a["aid"]):
+            defects.append(f"BAD AGENT NUMBER: {a['aid']} fails its check digit")
+        if a["aid"] in seen_aid:
+            defects.append(f"DUPLICATE AGENT: {a['aid']} appears twice")
+        seen_aid.add(a["aid"])
+        if a["name"] in seen_name:
+            defects.append(f"DUPLICATE AGENT NAME: {a['name']} holds two AIDs")
+        seen_name.add(a["name"])
+        if not J.wid_valid(a["sponsor"]):
+            defects.append(f"BAD AGENT SPONSOR: {a['aid']} → {a['sponsor']} fails its check digit")
+        card_path = os.path.join(BASE, a["card"])
+        if not os.path.exists(card_path):
+            defects.append(f"MISSING AGENT CARD: {a['aid']} → {a['card']}")
+            continue
+        card = json.load(open(card_path))
+        if J.card_hash(card) != a["card_hash"]:
+            defects.append(f"AGENT CARD DRIFT: {a['card']} no longer hashes to its row")
+
+    hist = os.path.join(REG, "agents-history.jsonl")
+    if os.path.exists(hist):
+        prev = None
+        for i, line in enumerate(open(hist).read().splitlines(), 1):
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            body = {k: v for k, v in row.items() if k != "row_hash"}
+            h = hashlib.sha256(json.dumps(body, sort_keys=True,
+                                          separators=(",", ":")).encode()).hexdigest()
+            if h != row["row_hash"]:
+                defects.append(f"AGENT CHAIN BROKEN: row {i} hash does not match its content")
+            if row["prev"] != prev:
+                defects.append(f"AGENT CHAIN BROKEN: row {i} does not link to row {i - 1}")
+            prev = row["row_hash"]
+    return defects
+
 def load_seal():
     p = seal_path()
     if os.path.exists(p):
@@ -296,6 +354,20 @@ def seal_corpus(reason=""):
             continue
         entries.append({"id": f["id"], "file": os.path.relpath(p, BASE),
                         "sha256": sha256(p)})
+    # The agent-facing contract is a document too. An agent reads JOINING.md
+    # and agent-protocol.json to join, so a silent edit to either one is a
+    # change to the terms of admission. Seal both, plus every README.
+    contract = ["JOINING.md", "agent-protocol.json", "README.md"]
+    for repo in sorted(os.listdir(BASE)):
+        for name in ("JOINING.md", "README.md"):
+            rel = os.path.join(repo, name)
+            if os.path.isfile(os.path.join(BASE, rel)):
+                contract.append(rel)
+    for rel in contract:
+        p2 = os.path.join(BASE, rel)
+        if os.path.exists(p2):
+            entries.append({"id": f"CONTRACT:{rel}", "file": rel, "sha256": sha256(p2)})
+
     entries.sort(key=lambda e: e["file"])
     registry_hashes = {name: sha256(os.path.join(REG, name))
                        for name in ("filings.json", "tools.json", "divisions.json")

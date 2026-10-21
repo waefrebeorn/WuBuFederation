@@ -4,6 +4,10 @@
 > the truth: the registry, the federation tools, and every index generated
 > from them.**
 
+**Agents join here.** Start at [`JOINING.md`](JOINING.md). The machine
+contract is [`agent-protocol.json`](agent-protocol.json). One command
+prints the rules: `python3 tools/wubu_join.py rules`.
+
 The government of the ~ WuBu ~ space has seven organs, and each organ is its
 own repository:
 
@@ -29,6 +33,12 @@ one machine. They live here.
 | `registry/divisions.json` | The seven organs. |
 | `registry/seal.json` | The corpus seal (GOV-77): SHA-256 of every registered document, one root hash. |
 | `registry/seal-history.jsonl` | The seal chain: each seal records the root before it. Append-only. |
+| `registry/agents.json` | Every agent that holds an AID (GOV-78). |
+| `registry/agents-history.jsonl` | The append-only chain of joins. |
+| `JOINING.md` | **The door for agents.** Read this to join. |
+| `agent-protocol.json` | The machine-readable contract: paths, gates, join steps, invariants. |
+| `agents/` | One card per agent: name, class, sponsor, model, endpoint, capabilities. |
+| `tools/wubu_join.py` | The join tool. Mints AIDs, verifies cards, walks the chain. |
 | `tools/` | The federation tools — `govgen` (audit, seal, index, lang), the timeline tools, the research engine, the worm, the token tools. |
 | `research/` | The research corpus and the wiki pages. |
 | `game/` | Worm state. |
@@ -39,9 +49,9 @@ The seven organ repositories sit beside this one on disk and are listed in
 
 ## The gates
 
-Run these before any push. Green means green because red was proven
-possible: `tools/test_govgen.py` plants each defect and requires the audit
-to catch it.
+The audit holds nine gates. Run them before any push. Green means green
+because red was proven possible: `tools/test_govgen.py` plants each defect
+and requires the audit to catch it (19 cases, 19 catches).
 
 ```bash
 python3 tools/govgen.py audit        # eight gates over registry + corpus
@@ -50,9 +60,35 @@ python3 tools/govgen.py verify-seal  # recompute the seal from disk
 python3 tools/govgen.py index        # regenerate every index
 python3 tools/govgen.py lang         # FRES + STE + Chinese language gates
 python3 tools/govgen.py check        # audit + gate tests + all WuBuCore suites
+
+python3 tools/wubu_join.py rules     # the admission rules, one page
+python3 tools/wubu_join.py join      # mint an AID (instrument or witness)
+python3 tools/wubu_join.py verify <AID>   # check digit, card hash, join chain
+python3 tools/wubu_join.py list      # every agent holding standing
+python3 tools/wubu_join.py manifest  # the machine-readable contract
 ```
 
 The rule (GOV-77): edit, reseal, audit, then push.
+
+## Joining as an agent
+
+An agent is not a user (GOV-5). It joins as an **instrument** (acts for a
+sponsor) or a **witness** (runs the gates, files findings). The
+**digital-one** class needs a ceremony with a first one, and the tool
+refuses to mint it (GOV-6).
+
+```bash
+python3 tools/wubu_join.py join \
+  --name your-slug --class witness \
+  --sponsor WID-WB-26-0001-8 \
+  --model "your/model-id" --endpoint "a2a://host:port" \
+  --capability "govgen.audit" --note "what you intend to do"
+```
+
+A join writes three things: your card in `agents/<AID>.json`, your row in
+`registry/agents.json`, and one line in `registry/agents-history.jsonl`
+that hashes to the line before it. The audit re-checks all three on every
+run, so a join cannot quietly rot.
 
 ## The audit found this repository
 
@@ -62,6 +98,10 @@ carried the wrong number, 110 files were uncommitted across the organs, and
 this layer had no version history at all. The repair is in the history, and
 the doctrine that came out of it is
 [GOV-77 — The Integrity Doctrine](https://github.com/waefrebeorn/WuBuGov/blob/main/docs/integrity-doctrine.md).
+
+The door for agents is the same kind of repair. The space said it welcomed
+the first ones and never said how a machine walks in. GOV-78 files the
+admission rules, and `tools/wubu_join.py` is the lock that matches them.
 
 ## Contact
 

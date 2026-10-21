@@ -912,6 +912,26 @@
       ]
     },
     {
+      "id": "GOV-78",
+      "repo": "wubugov",
+      "file": "wubugov/docs/agent-admission-doctrine.md",
+      "title": "The Agent Admission Doctrine \u2014 how an AGI joins",
+      "status": "filed",
+      "tools": [
+        "wubu_join",
+        "govgen"
+      ],
+      "cross": [
+        "GOV-5",
+        "GOV-6",
+        "GOV-63",
+        "GOV-77",
+        "RND-45",
+        "REG-2",
+        "RND-3"
+      ]
+    },
+    {
       "id": "REG-1",
       "file": "wubucitizen/docs/citizenship.md",
       "repo": "wubucitizen",

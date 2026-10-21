@@ -2,31 +2,22 @@
   "schema": "wubu-tools-v1",
   "tools": [
     {
-      "name": "wid",
-      "python": "wubucitizen/tools/wid.py",
-      "c11": "src/wid",
-      "cli": "apps/wid_cli.c",
-      "test": "tests/test_wid.c",
-      "filing": "REG-2",
-      "verified": "WID-WB-26-0001 \u2192 check digit 8; tamper test passes"
+      "name": "better_service",
+      "python": "wubuecon/tools/better_service.py",
+      "c11": "src/better_service",
+      "cli": "apps/better_service_cli.c",
+      "test": "tests/test_eco_sims.c",
+      "filing": "ECO-7",
+      "verified": "25yr: enforcement 28.5% + resentment 9.00 vs better service 95.5% + 0.00"
     },
     {
-      "name": "penny_score",
-      "python": "wubucitizen/tools/penny_score.py",
-      "c11": "src/penny_score",
-      "cli": "apps/penny_score_cli.c",
-      "test": "tests/test_penny_score.c",
-      "filing": "REG-3",
-      "verified": "doc example 782 \u2192 764 (v2 weights); Python = C11 = 764"
-    },
-    {
-      "name": "crew_score",
+      "name": "cohesion",
       "python": null,
-      "c11": "src/crew_score",
-      "cli": "apps/crew_score_cli.c",
-      "test": "tests/test_crew_score.c",
-      "filing": "RND-1",
-      "verified": "5 factors 30/25/20/15/10; perfect = 1000 First Founders"
+      "c11": "src/cohesion",
+      "cli": "apps/cohesion_cli.c",
+      "test": "tests/test_cohesion.c",
+      "filing": "GOV-5",
+      "verified": "living > tools; weak living 80.2 > iron giant 50.0; parasite 2.0"
     },
     {
       "name": "compass_score",
@@ -38,130 +29,13 @@
       "verified": "500 + 500\u00b7tanh(slope); flat=500 Steady, >700 Rising"
     },
     {
-      "name": "pennychain",
-      "python": "wuburesearch/tools/pennychain.py",
-      "c11": "src/pennychain",
-      "cli": "apps/pennychain_cli.c",
-      "test": "tests/test_pennychain.c",
-      "filing": "RND-3",
-      "verified": "clean-room SHA-256; tamper test passed (1 char \u2192 root mismatch)"
-    },
-    {
-      "name": "penny_weight",
-      "python": "wuburesearch/tools/penny_weight.py",
-      "c11": "src/penny_weight",
-      "cli": "apps/penny_weight_cli.c",
-      "test": "tests/test_penny_weight.c",
-      "filing": "RND-6",
-      "verified": "copper 3.11g / zinc 2.50g; 3110g+25000g = 11000 pennies = $110"
-    },
-    {
-      "name": "world_model",
-      "python": "wuburesearch/tools/world_model.py",
-      "c11": "src/world_model",
-      "cli": "apps/world_model_cli.c",
-      "test": "tests/test_world_model.c",
-      "filing": "RND-17",
-      "verified": "skill-weighting 0.620\u21920.770; recalibrated 0.900\u21920.800; hybrid 0.651"
-    },
-    {
-      "name": "mirror_score",
-      "python": "wuburesearch/tools/mirror_score.py",
-      "c11": "src/mirror_score",
-      "cli": "apps/mirror_score_cli.c",
-      "test": null,
-      "filing": "RND-18",
-      "verified": "companion-AI = 100 PURE MIRROR; tool standard = 40 MOSTLY TOOL"
-    },
-    {
-      "name": "wubu_laws",
-      "python": "wuburesearch/tools/wubu_laws.py",
-      "c11": "src/wubu_laws",
-      "cli": "apps/wubu_laws_cli.c",
-      "test": null,
-      "filing": "RND-19",
-      "verified": "5/5 compliant exits 0; 1/5 mirror exits 1"
-    },
-    {
-      "name": "plain_lang",
+      "name": "crew_score",
       "python": null,
-      "c11": "src/plain_lang",
-      "cli": "apps/plain_lang_cli.c",
-      "test": "tests/test_plain_lang.c",
-      "filing": "RND-20",
-      "verified": "'The cat sat on the mat.' = FRES 116.1 CLEAR; --ste gate ships"
-    },
-    {
-      "name": "zh_lang",
-      "python": null,
-      "c11": "src/zh_lang",
-      "cli": "apps/zh_lang_cli.c",
-      "test": "tests/test_zh_lang.c",
-      "filing": "GOV-10",
-      "verified": "3 Chinese readability metrics; CLEAR/REWRITE verdict; 13 test cases"
-    },
-    {
-      "name": "status_loop",
-      "python": "wubuecon/tools/status_loop.py",
-      "c11": "src/status_loop",
-      "cli": "apps/status_loop_cli.c",
-      "test": "tests/test_eco_sims.c",
-      "filing": "ECO-3",
-      "verified": "scarcity 1.00 / abundance 0.80 / feedback 0.00"
-    },
-    {
-      "name": "vacant_lot",
-      "python": "wubuecon/tools/vacant_lot.py",
-      "c11": "src/vacant_lot",
-      "cli": "apps/vacant_lot_cli.c",
-      "test": "tests/test_eco_sims.c",
-      "filing": "ECO-4",
-      "verified": "capture / generations / lvt"
-    },
-    {
-      "name": "lifespan_loop",
-      "python": "wubuecon/tools/lifespan_loop.py",
-      "c11": "src/lifespan_loop",
-      "cli": "apps/lifespan_loop_cli.c",
-      "test": "tests/test_eco_sims.c",
-      "filing": "ECO-5",
-      "verified": "1900\u21922 gens, 2026\u21923-4, Japan\u21924-5"
-    },
-    {
-      "name": "numbing",
-      "python": "wubuecon/tools/numbing.py",
-      "c11": "src/numbing",
-      "cli": "apps/numbing_cli.c",
-      "test": "tests/test_eco_sims.c",
-      "filing": "ECO-6",
-      "verified": "CALM 0.95 / MODERN 0.64 / NEXUS 0.09 EMACIATED"
-    },
-    {
-      "name": "better_service",
-      "python": "wubuecon/tools/better_service.py",
-      "c11": "src/better_service",
-      "cli": "apps/better_service_cli.c",
-      "test": "tests/test_eco_sims.c",
-      "filing": "ECO-7",
-      "verified": "25yr: enforcement 28.5% + resentment 9.00 vs better service 95.5% + 0.00"
-    },
-    {
-      "name": "greed_index",
-      "python": "wubuecon/tools/greed_index.py",
-      "c11": "src/greed_index",
-      "cli": "apps/greed_index_cli.c",
-      "test": "tests/test_eco_sims.c",
-      "filing": "ECO-8",
-      "verified": "90 FILED / 210 FLAGGED / 280 FLAGGED-max"
-    },
-    {
-      "name": "cohesion",
-      "python": null,
-      "c11": "src/cohesion",
-      "cli": "apps/cohesion_cli.c",
-      "test": "tests/test_cohesion.c",
-      "filing": "GOV-5",
-      "verified": "living > tools; weak living 80.2 > iron giant 50.0; parasite 2.0"
+      "c11": "src/crew_score",
+      "cli": "apps/crew_score_cli.c",
+      "test": "tests/test_crew_score.c",
+      "filing": "RND-1",
+      "verified": "5 factors 30/25/20/15/10; perfect = 1000 First Founders"
     },
     {
       "name": "decline_gate",
@@ -182,33 +56,6 @@
       "verified": "Fengqiao ladder: resolve lowest, escalate one, escalate all"
     },
     {
-      "name": "goodhart",
-      "python": null,
-      "c11": "src/goodhart",
-      "cli": "apps/goodhart_cli.c",
-      "test": "tests/test_goodhart.c",
-      "filing": "GOV-8",
-      "verified": "Benford divisor 1.908; all-9s \u2192 100%; honest 5.1 vs gamed 82.5"
-    },
-    {
-      "name": "rotation",
-      "python": null,
-      "c11": "src/rotation",
-      "cli": "apps/rotation_cli.c",
-      "test": "tests/test_rotation.c",
-      "filing": "GOV-9",
-      "verified": "term/age limits from time(2); ratchet detected on one-way runs"
-    },
-    {
-      "name": "vigilance",
-      "python": "wubuintel/tools/wbi1_triage.py",
-      "c11": "src/vigilance",
-      "cli": "apps/vigilance_cli.c",
-      "test": "tests/test_vigilance.c",
-      "filing": "WBI-1",
-      "verified": "class weights, penny evasion highest, Fengqiao escalation"
-    },
-    {
       "name": "filing_check",
       "python": null,
       "c11": "src/filing_check",
@@ -216,6 +63,15 @@
       "test": "tests/test_filing_check.c",
       "filing": "GOV-11",
       "verified": "collisions, dangling refs, amendment pointers detected"
+    },
+    {
+      "name": "goodhart",
+      "python": null,
+      "c11": "src/goodhart",
+      "cli": "apps/goodhart_cli.c",
+      "test": "tests/test_goodhart.c",
+      "filing": "GOV-8",
+      "verified": "Benford divisor 1.908; all-9s \u2192 100%; honest 5.1 vs gamed 82.5"
     },
     {
       "name": "govgen",
@@ -227,49 +83,157 @@
       "verified": "registry audit/index/map/stats/lang \u2014 the government as data"
     },
     {
-      "name": "wubu_timeline",
-      "python": "/home/wubu/WuBuTimeline/tools/wubu_timeline.py",
-      "c11": null,
-      "cli": null,
-      "test": null,
-      "filing": "GOV-22",
-      "verified": "tamper-evident chain: 256 files/snapshot, verify catches edits, diff/find trace old modifications, check recomputes every root"
+      "name": "greed_guard",
+      "python": null,
+      "c11": "src/greed_guard",
+      "cli": "apps/greed_guard_cli.c",
+      "test": "tests/test_greed_guard.c",
+      "filing": "ECO-8",
+      "verified": "five-move protection table; bands 0/99/100/199/200/300; every response recordable"
     },
     {
-      "name": "wubu_history",
-      "python": "/home/wubu/WuBuTimeline/tools/wubu_history.py",
-      "c11": null,
-      "cli": null,
-      "test": null,
-      "filing": "GOV-22",
-      "verified": "THE HISTORY render: 35 civilizations, 7 religions, 38 events on one overlap axis"
+      "name": "greed_index",
+      "python": "wubuecon/tools/greed_index.py",
+      "c11": "src/greed_index",
+      "cli": "apps/greed_index_cli.c",
+      "test": "tests/test_eco_sims.c",
+      "filing": "ECO-8",
+      "verified": "90 FILED / 210 FLAGGED / 280 FLAGGED-max"
     },
     {
-      "name": "wubu_views",
-      "python": "/home/wubu/WuBuTimeline/tools/wubu_views.py",
-      "c11": null,
-      "cli": null,
-      "test": null,
-      "filing": "GOV-23",
-      "verified": "THE VIEWS render: 8 master views x up to 5 splinters = 35 schools, conflict matrix, sources researched online"
+      "name": "lifespan_loop",
+      "python": "wubuecon/tools/lifespan_loop.py",
+      "c11": "src/lifespan_loop",
+      "cli": "apps/lifespan_loop_cli.c",
+      "test": "tests/test_eco_sims.c",
+      "filing": "ECO-5",
+      "verified": "1900\u21922 gens, 2026\u21923-4, Japan\u21924-5"
     },
     {
-      "name": "wubu_forces",
-      "python": "/home/wubu/WuBuTimeline/tools/wubu_forces.py",
-      "c11": null,
-      "cli": null,
+      "name": "mirror_score",
+      "python": "wuburesearch/tools/mirror_score.py",
+      "c11": "src/mirror_score",
+      "cli": "apps/mirror_score_cli.c",
       "test": null,
-      "filing": "GOV-24",
-      "verified": "THE FORCES render: 7 forces (wrath/war/greed/identity/classism/wealth/agism), braid + feedback loop, each feeds+fed-by mapped"
+      "filing": "RND-18",
+      "verified": "companion-AI = 100 PURE MIRROR; tool standard = 40 MOSTLY TOOL"
     },
     {
-      "name": "wubu_project_timeline",
-      "python": "tools/wubu_project_timeline.py",
+      "name": "numbing",
+      "python": "wubuecon/tools/numbing.py",
+      "c11": "src/numbing",
+      "cli": "apps/numbing_cli.c",
+      "test": "tests/test_eco_sims.c",
+      "filing": "ECO-6",
+      "verified": "CALM 0.95 / MODERN 0.64 / NEXUS 0.09 EMACIATED"
+    },
+    {
+      "name": "penny_score",
+      "python": "wubucitizen/tools/penny_score.py",
+      "c11": "src/penny_score",
+      "cli": "apps/penny_score_cli.c",
+      "test": "tests/test_penny_score.c",
+      "filing": "REG-3",
+      "verified": "doc example 782 \u2192 764 (v2 weights); Python = C11 = 764"
+    },
+    {
+      "name": "penny_weight",
+      "python": "wuburesearch/tools/penny_weight.py",
+      "c11": "src/penny_weight",
+      "cli": "apps/penny_weight_cli.c",
+      "test": "tests/test_penny_weight.c",
+      "filing": "RND-6",
+      "verified": "copper 3.11g / zinc 2.50g; 3110g+25000g = 11000 pennies = $110"
+    },
+    {
+      "name": "pennychain",
+      "python": "wuburesearch/tools/pennychain.py",
+      "c11": "src/pennychain",
+      "cli": "apps/pennychain_cli.c",
+      "test": "tests/test_pennychain.c",
+      "filing": "RND-3",
+      "verified": "clean-room SHA-256; tamper test passed (1 char \u2192 root mismatch)"
+    },
+    {
+      "name": "plain_lang",
+      "python": null,
+      "c11": "src/plain_lang",
+      "cli": "apps/plain_lang_cli.c",
+      "test": "tests/test_plain_lang.c",
+      "filing": "RND-20",
+      "verified": "'The cat sat on the mat.' = FRES 116.1 CLEAR; --ste gate ships"
+    },
+    {
+      "name": "plastic_token",
+      "python": "tools/plastic_token.py",
       "c11": null,
       "cli": null,
       "test": null,
-      "filing": "GOV-25",
-      "verified": "THE PROJECT TIMELINE render: every filing/tool/organ in order from the registry \u2014 validates the mental government"
+      "filing": "RND-42",
+      "verified": "status/add/compress/mint/verify/find \u2014 6 commands, SHA-256 chain"
+    },
+    {
+      "name": "rotation",
+      "python": null,
+      "c11": "src/rotation",
+      "cli": "apps/rotation_cli.c",
+      "test": "tests/test_rotation.c",
+      "filing": "GOV-9",
+      "verified": "term/age limits from time(2); ratchet detected on one-way runs"
+    },
+    {
+      "name": "status_loop",
+      "python": "wubuecon/tools/status_loop.py",
+      "c11": "src/status_loop",
+      "cli": "apps/status_loop_cli.c",
+      "test": "tests/test_eco_sims.c",
+      "filing": "ECO-3",
+      "verified": "scarcity 1.00 / abundance 0.80 / feedback 0.00"
+    },
+    {
+      "name": "vacant_lot",
+      "python": "wubuecon/tools/vacant_lot.py",
+      "c11": "src/vacant_lot",
+      "cli": "apps/vacant_lot_cli.c",
+      "test": "tests/test_eco_sims.c",
+      "filing": "ECO-4",
+      "verified": "capture / generations / lvt"
+    },
+    {
+      "name": "vigilance",
+      "python": "wubuintel/tools/wbi1_triage.py",
+      "c11": "src/vigilance",
+      "cli": "apps/vigilance_cli.c",
+      "test": "tests/test_vigilance.c",
+      "filing": "WBI-1",
+      "verified": "class weights, penny evasion highest, Fengqiao escalation"
+    },
+    {
+      "name": "w_token",
+      "python": "wubucitizen/tools/w_token.py",
+      "c11": "src/w_token",
+      "cli": "apps/w_token_cli.c",
+      "test": "tests/test_w_token.c",
+      "filing": "GOV-19",
+      "verified": "ceremony/mint_plastic/status/verify \u2014 4 commands, SHA-256 chain, one-stamp rule"
+    },
+    {
+      "name": "wid",
+      "python": "wubucitizen/tools/wid.py",
+      "c11": "src/wid",
+      "cli": "apps/wid_cli.c",
+      "test": "tests/test_wid.c",
+      "filing": "REG-2",
+      "verified": "WID-WB-26-0001 \u2192 check digit 8; tamper test passes"
+    },
+    {
+      "name": "world_model",
+      "python": "wuburesearch/tools/world_model.py",
+      "c11": "src/world_model",
+      "cli": "apps/world_model_cli.c",
+      "test": "tests/test_world_model.c",
+      "filing": "RND-17",
+      "verified": "skill-weighting 0.620\u21920.770; recalibrated 0.900\u21920.800; hybrid 0.651"
     },
     {
       "name": "wubu_edu",
@@ -290,31 +254,41 @@
       "verified": "GAP EVENTS render: 10 events (isolated-record / unacknowledged-death / overlap-anomaly / oral-history), each source-verified"
     },
     {
-      "name": "w_token",
-      "python": "wubucitizen/tools/w_token.py",
-      "c11": "src/w_token",
-      "cli": "apps/w_token_cli.c",
-      "test": "tests/test_w_token.c",
-      "filing": "GOV-19",
-      "verified": "ceremony/mint_plastic/status/verify \u2014 4 commands, SHA-256 chain, one-stamp rule"
-    },
-    {
-      "name": "greed_guard",
-      "python": null,
-      "c11": "src/greed_guard",
-      "cli": "apps/greed_guard_cli.c",
-      "test": "tests/test_greed_guard.c",
-      "filing": "ECO-8",
-      "verified": "five-move protection table; bands 0/99/100/199/200/300; every response recordable"
-    },
-    {
-      "name": "wubu_scour",
-      "python": "tools/wubu_scour.py",
+      "name": "wubu_forces",
+      "python": "/home/wubu/WuBuTimeline/tools/wubu_forces.py",
       "c11": null,
       "cli": null,
       "test": null,
-      "filing": "RND-33",
-      "verified": "timeline intake valve: status/civs/verify/ingest/evt/gaps; 10 civs + 10 events + 3 gap events ingested"
+      "filing": "GOV-24",
+      "verified": "THE FORCES render: 7 forces (wrath/war/greed/identity/classism/wealth/agism), braid + feedback loop, each feeds+fed-by mapped"
+    },
+    {
+      "name": "wubu_history",
+      "python": "/home/wubu/WuBuTimeline/tools/wubu_history.py",
+      "c11": null,
+      "cli": null,
+      "test": null,
+      "filing": "GOV-22",
+      "verified": "THE HISTORY render: 35 civilizations, 7 religions, 38 events on one overlap axis"
+    },
+    {
+      "name": "wubu_join",
+      "python": "tools/wubu_join.py",
+      "c11": null,
+      "cli": null,
+      "test": null,
+      "filing": "GOV-78",
+      "verified": "selftest PASS; AID-WI-26-0001-8 minted, card hash and join chain verified; autho: no C11 twin (the door is a script)",
+      "note": "no C11 twin by design: the door is a script, its math is unit-tested in selftest"
+    },
+    {
+      "name": "wubu_laws",
+      "python": "wuburesearch/tools/wubu_laws.py",
+      "c11": "src/wubu_laws",
+      "cli": "apps/wubu_laws_cli.c",
+      "test": null,
+      "filing": "RND-19",
+      "verified": "5/5 compliant exits 0; 1/5 mirror exits 1"
     },
     {
       "name": "wubu_organize",
@@ -326,13 +300,40 @@
       "verified": "corpus organizer: files every civilization into research/<region>/<civ>.md + CORPUS-INDEX.md; bridge to home AGI"
     },
     {
-      "name": "plastic_token",
-      "python": "tools/plastic_token.py",
+      "name": "wubu_project_timeline",
+      "python": "tools/wubu_project_timeline.py",
       "c11": null,
       "cli": null,
       "test": null,
-      "filing": "RND-42",
-      "verified": "status/add/compress/mint/verify/find \u2014 6 commands, SHA-256 chain"
+      "filing": "GOV-25",
+      "verified": "THE PROJECT TIMELINE render: every filing/tool/organ in order from the registry \u2014 validates the mental government"
+    },
+    {
+      "name": "wubu_scour",
+      "python": "tools/wubu_scour.py",
+      "c11": null,
+      "cli": null,
+      "test": null,
+      "filing": "RND-33",
+      "verified": "timeline intake valve: status/civs/verify/ingest/evt/gaps; 10 civs + 10 events + 3 gap events ingested"
+    },
+    {
+      "name": "wubu_timeline",
+      "python": "/home/wubu/WuBuTimeline/tools/wubu_timeline.py",
+      "c11": null,
+      "cli": null,
+      "test": null,
+      "filing": "GOV-22",
+      "verified": "tamper-evident chain: 256 files/snapshot, verify catches edits, diff/find trace old modifications, check recomputes every root"
+    },
+    {
+      "name": "wubu_views",
+      "python": "/home/wubu/WuBuTimeline/tools/wubu_views.py",
+      "c11": null,
+      "cli": null,
+      "test": null,
+      "filing": "GOV-23",
+      "verified": "THE VIEWS render: 8 master views x up to 5 splinters = 35 schools, conflict matrix, sources researched online"
     },
     {
       "name": "wubu_worm",
@@ -342,6 +343,15 @@
       "test": null,
       "filing": "GOV-42",
       "verified": "14 commands, 11 achievements, 11 stages, 6 evolutions, 6 shop items, 5 powers"
+    },
+    {
+      "name": "zh_lang",
+      "python": null,
+      "c11": "src/zh_lang",
+      "cli": "apps/zh_lang_cli.c",
+      "test": "tests/test_zh_lang.c",
+      "filing": "GOV-10",
+      "verified": "3 Chinese readability metrics; CLEAR/REWRITE verdict; 13 test cases"
     }
   ]
 }

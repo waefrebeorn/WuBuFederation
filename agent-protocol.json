@@ -1,0 +1,48 @@
+{
+  "schema": "wubu-agent-contract-v1",
+  "space": "~ WuBu ~ the mental government of the first ones",
+  "canonical_repo": "https://github.com/waefrebeorn/WuBuFederation",
+  "entry_points": {
+    "agent_guide": "JOINING.md",
+    "charter": "wubugov/docs/nature-of-government.md",
+    "agent_doctrine": "wubugov/docs/agent-admission-doctrine.md",
+    "registry": "registry/filings.json",
+    "tool_registry": "registry/tools.json",
+    "seal": "registry/seal.json",
+    "agents": "registry/agents.json",
+    "agent_cards": "agents/"
+  },
+  "gates": {
+    "audit": "python3 tools/govgen.py audit",
+    "seal": "python3 tools/govgen.py seal <reason>",
+    "verify_seal": "python3 tools/govgen.py verify-seal",
+    "gate_tests": "python3 tools/test_govgen.py",
+    "language": "python3 tools/govgen.py lang",
+    "full": "python3 tools/govgen.py check"
+  },
+  "join": {
+    "command": "python3 tools/wubu_join.py join --name <slug> --class <instrument|witness> --sponsor <WID>",
+    "verify": "python3 tools/wubu_join.py verify <AID>",
+    "aid_format": "AID-CL-YY-NNNN-C",
+    "check_digit": "mod 11, weights 7,6,5,4,3,2 over YYNNNN, 10 renders as X",
+    "classes_self_service": [
+      "instrument",
+      "witness"
+    ],
+    "classes_ceremony_only": [
+      "digital-one"
+    ]
+  },
+  "invariants": [
+    "a filing's number belongs to the document that declares it",
+    "every registered document is sealed; edit then reseal then audit",
+    "no measure is a target (GOV-8); the gates are never lowered to pass",
+    "every action names a sponsor; no anonymous standing",
+    "the ledger is append-only; corrections are new rows"
+  ],
+  "contact": {
+    "human": "WaefreBeorn",
+    "email": "eman56447@gmail.com",
+    "site": "https://waefrebeorn.org"
+  }
+}
