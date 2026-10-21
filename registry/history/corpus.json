@@ -1,0 +1,24 @@
+{
+  "schema": "wubu-research-corpus-v1",
+  "title": "THE RESEARCH CORPUS — the organization system behind the timeline",
+  "note": "Wikipedia is the searchable system (articles by topic). The timeline is the aggregating system (everything dated, overlapping). THE RESEARCH CORPUS is the intake system: raw sources, organized by the Kevin Bacon method, filed so the home AGI can organize, and the scouter can ingest. Every fact in the timeline traces back through this corpus to a real source in <=7 hops (RND-15).",
+  "regions": {
+    "Africa": {"dir": "research/africa/", "civilizations": ["Ancient Egypt", "Kingdom of Aksum", "Nok", "Mali", "Songhai", "Benin", "Kush/Nubia", "Great Zimbabwe", "Carthage"], "intake_status": "in-progress"},
+    "Mesoamerica": {"dir": "research/mesoamerica/", "civilizations": ["Olmec", "Maya", "Aztec", "Teotihuacan", "Toltec", "Zapotec", "Mixtec"], "intake_status": "partial"},
+    "Andes": {"dir": "research/andes/", "civilizations": ["Norte Chico", "Chavin", "Moche", "Wari", "Tiwanaku", "Inca"], "intake_status": "needs-intake"},
+    "China": {"dir": "research/china/", "civilizations": ["Shang", "Zhou", "Han", "Tang", "Song", "Ming", "Qing", "Xia", "Qin", "Three Kingdoms"], "intake_status": "partial"},
+    "India": {"dir": "research/india/", "civilizations": ["Indus Valley", "Maurya", "Gupta", "Kushan", "Chola", "Vijayanagara", "Mughal"], "intake_status": "partial"},
+    "Mesopotamia": {"dir": "research/mesopotamia/", "civilizations": ["Sumer", "Akkad", "Babylon", "Assyria", "Elam", "Hittites"], "intake_status": "partial"},
+    "Mediterranean": {"dir": "research/mediterranean/", "civilizations": ["Minoan", "Mycenaean", "Greece", "Rome", "Byzantine", "Etruscans", "Phoenicia"], "intake_status": "partial"},
+    "Iran": {"dir": "research/iran/", "civilizations": ["Elam", "Medes", "Achaemenid", "Parthian", "Sasanian"], "intake_status": "partial"},
+    "Southeast Asia": {"dir": "research/seasia/", "civilizations": ["Funan", "Srivijaya", "Khmer", "Majapahit", "Champa", "Ayutthaya", "Dai Viet"], "intake_status": "in-progress"},
+    "Eurasia": {"dir": "research/eurasia/", "civilizations": ["Huns", "Mongols", "Scythians", "Xiongnu", "Khazars", "Timurids"], "intake_status": "in-progress"},
+    "Oceania": {"dir": "research/oceania/", "civilizations": ["Polynesia", "Hawaii", "Rapa Nui", "Maori", "Australia"], "intake_status": "needs-intake"},
+    "North America": {"dir": "research/northamerica/", "civilizations": ["Cahokia", "Hohokam", "Ancestral Pueblo", "Iroquois", "Mississippian"], "intake_status": "needs-intake"},
+    "Japan/Korea": {"dir": "research/eastasia/", "civilizations": ["Yamato Japan", "Silla", "Goryeo", "Joseon", "Shogunates", "Baekje"], "intake_status": "needs-intake"},
+    "Slavic/Nordic": {"dir": "research/north/", "civilizations": ["Kievan Rus", "Viking Age", "Novgorod", "Varangians"], "intake_status": "needs-intake"}
+  },
+  "intake_rule": "every civilization in the corpus has: (1) verified span dates with sources, (2) key events with sources, (3) a Kevin Bacon research path filed (<=7 hops from the claim to a primary/secondary source), (4) gap-event candidates flagged. A civilization without a source path is NOT filed — it is queued.",
+  "hop_map_rule": "the Kevin Bacon method (RND-15): any subject connects in <=7 hops, each hop a real source, the path filed. The hop map is the corpus's index of how every fact was reached. Re-search is a re-hop, not a re-invention.",
+  "home_agi_rule": "the home AGI (llama-server) organizes the corpus: it reads the raw sources, classifies them by region/era/topic, and files summaries into the corpus. The AGI organizes; the scouter ingests; the chain verifies."
+}

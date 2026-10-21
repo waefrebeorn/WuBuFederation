@@ -1,0 +1,217 @@
+{
+  "schema": "wubu-events-v1",
+  "title": "THE GAP EVENTS — timeline events of overlap or anomaly significance",
+  "note": "The timeline's job is tracking — anthropology, archaeology, oral history, the written record. Some events matter not for what happened but for what the record did or didn't keep. Filed in three gap types: ISOLATED-RECORD (one society recording a world incident, or a world silent on one society's record), UNACKNOWLEDGED-DEATH (a society's end the world did not acknowledge — or copied at its death), OVERLAP-ANOMALY (worlds alive together never connected; or one world event recorded by many, connected only by modern science). ORAL-HISTORY events triangulate Homeric/oral tradition against archaeology and written archives.",
+  "events": [
+    {
+      "id": "EV-1",
+      "type": "ISOLATED-RECORD",
+      "name": "The Sea Peoples and the Bronze Age Collapse",
+      "date": "c. 1175 BCE",
+      "claim": "The world's first recorded collapse: the Hittite, Mycenaean, and Mitanni kingdoms all fell within decades. The only substantial written account is Egypt's — the Medinet Habu inscriptions of Ramesses III, which name the attackers and list the fallen (Hatti, Kode, Carchemish, Arzawa, Alashiya). All records of the Hittites simply stop.",
+      "gap": "One society (Egypt) left the world's lone written record of a world collapse. Everyone else's record is silence or archaeology.",
+      "sources": "Medinet Habu inscriptions (Ramesses III, 8th year); Ugarit's last letters",
+      "significance": "The record is the anomaly: what we know of the collapse comes from the one kingdom that survived it."
+    },
+    {
+      "id": "EV-2",
+      "type": "ISOLATED-RECORD",
+      "name": "The Minoan Eruption and the Tempest Stele",
+      "date": "c. 1600 BCE (disputed)",
+      "claim": "The Thera (Santorini) eruption devastated the Aegean and darkened skies across the eastern Mediterranean. The Egyptian Tempest Stele of Ahmose I records an extraordinary cataclysm — rainstorms, darkness, the sky in uproar — that some scholars read as the eruption's plume and ash. Recent radiocarbon dating disputes the link.",
+      "gap": "Possibly the lone written description of one of history's greatest eruptions, in a single Egyptian stele — and the link is still argued.",
+      "sources": "Tempest Stele of Ahmose I; Manning et al. (2014); Bruins et al. (2025)",
+      "significance": "Filed with the dispute intact — the record's uncertainty is part of the record."
+    },
+    {
+      "id": "EV-3",
+      "type": "ISOLATED-RECORD",
+      "name": "The Supernova of 1054 (the Crab)",
+      "date": "1054 CE",
+      "claim": "A star exploded in Taurus, bright enough to see in daylight for 23 days. Chinese court astronomers recorded it precisely (three compilations, fifth-watch observation); Japan and the Islamic world noted it. No confirmed contemporary European record exists. Six proposed European sightings (Cronaca Rampona, Martinus Polonus codex) were rejected by Stephenson & Green (2002) as out-of-order or non-contemporary.",
+      "gap": "A world event the world's largest literate civilization did not record. Europe's silence is the anomaly — an institutional absence, not an atmospheric one. The proposed sightings are themselves a lesson: the desire to find a European record produced confirmation bias, not evidence.",
+      "sources": "Song Shi, Song Huiyao Jigao, Xu Zizhi Tongjian Changbian; SN 1054 records; Stephenson & Green (2002); Collins et al. (1999, proposed sightings)",
+      "significance": "The gap is the finding: the same sky, three recording traditions, one silent."
+    },
+    {
+      "id": "EV-4",
+      "type": "OVERLAP-ANOMALY",
+      "name": "The Year 536 — The Worst Year to Be Alive",
+      "date": "536–537 CE",
+      "claim": "A dust veil darkened the sun for 18 months — 'no shadows of our bodies at noon' (Cassiodorus); the sun gave light without brightness like the moon (Procopius). Snow fell in China in August; the Irish annals record famine; Guanzhong starved, with cannibalism and 70–80% mortality. Ice cores and tree rings (Baillie, Larsen, Sigl) later tied it to volcanic eruptions, initiating the Late Antique Little Ice Age.",
+      "gap": "One world event, recorded independently by Romans, Byzantines, Chinese, and Irish — yet the connection was made only by 1990s science. The chroniclers were not hysterical; they were the sensors.",
+      "sources": "Procopius; Cassiodorus; Irish annals; Wei Shu, Bei Shi, Zizhi Tongjian, Nan Shi; Baillie (1994); Sigl et al. (2015)",
+      "significance": "The same incident in four unrelated records — the overlap is the proof."
+    },
+    {
+      "id": "EV-5",
+      "type": "UNACKNOWLEDGED-DEATH",
+      "name": "Mago of Carthage — Copied at Death",
+      "date": "146 BCE",
+      "claim": "Rome destroyed Carthage, salted its ground, and enslaved its people. Then Rome paid — at Senate expense — to translate Mago's 28-book treatise into Latin, calling him 'the Father of Farming.' The Punic original is lost; fragments of the Greek and Latin translations survive.",
+      "gap": "A world copying a society at its death — the exact pattern of unacknowledged inheritance. Rome erased the city and preserved its book.",
+      "sources": "Mago (agricultural writer), Wikipedia; Decimus Junius Silanus translation; Pliny, Columella citations",
+      "significance": "The copy is the confession: what the world takes from a dying society it does not name."
+    },
+    {
+      "id": "EV-6",
+      "type": "UNACKNOWLEDGED-DEATH",
+      "name": "Norse Greenland — The Colony That Vanished",
+      "date": "985 – c. 1450s CE",
+      "claim": "Norse Greenlanders lived for nearly 500 years at the edge of the world. Their last written record is a wedding at Hvalsey Church in 1408 — reported as completely normal. Then silence. Europe knew enough to worry: Norway-Denmark feared the settlers had turned pagan and sent expeditions that could not reach them. The colony's end was settled only by archaeology (Nørlund), and the causes are still debated.",
+      "gap": "A European society's death that Europe itself could not acknowledge, because it could not reach it. The world's record has a missing decade — awareness without contact.",
+      "sources": "Icelandic annals (1408 Hvalsey wedding); worldhistory.org; Nørlund (20th c. archaeology); papal and Danish expedition records",
+      "significance": "The last line reads 'everything is normal' — the record's tone is the anomaly."
+    },
+    {
+      "id": "EV-7",
+      "type": "ORAL-HISTORY",
+      "name": "Troy — Homeric Oral History Meets the Archive",
+      "date": "c. 1200 BCE (tradition); written c. 8th c. BCE; excavated 1870s",
+      "claim": "For centuries the Trojan War was 'myth.' Then Hittite archives named Wilusa (identified by scholars with Troy/Ilios) and its king Alaksandu (linked to Alexandros/Paris — hypothesis, not proof). Schliemann's spade found a burned Bronze Age city at Hisarlik. The oral tradition carried a real place and a real war for 600 years before anyone wrote it down.",
+      "gap": "Oral history outlasted the written record of its own event; the world's dismissal of the tradition was itself the anomaly. The triangulation — epic, archive, archaeology — is the tracking method, and each leg keeps its own uncertainty.",
+      "sources": "Iliad/Odyssey; Hittite Manapa-Tarhunta and Alaksandu treaties; Schliemann excavations; Korfmann's Hisarlik work",
+      "significance": "The timeline's own lesson: what a society carries in memory can outlast the written record. The memory, the archive, and the spade must be read together — each with its own uncertainty."
+    },
+    {
+      "id": "EV-8",
+      "type": "UNACKNOWLEDGED-DEATH",
+      "name": "The Indus Valley — A Civilization Whose Voice We Cannot Read",
+      "date": "c. 3300–1300 BCE; script undeciphered",
+      "claim": "The Indus Valley civilization spanned more land than Egypt or Mesopotamia, with plumbing, granaries, and writing. It collapsed around 1900 BCE with no record from any neighbor. Its script remains undeciphered, so its own voice is silent. The world did not know it existed until 1920s excavation.",
+      "gap": "A civilization so complete that its death left no echo — and whose words we still cannot read. The unacknowledged death of a voice.",
+      "sources": "Harappa/Mohenjo-daro excavations (1920s); Indus script studies",
+      "significance": "The gap is the lesson: a society can be great and still vanish from the world's memory until archaeology digs."
+    },
+    {
+      "id": "EV-9",
+      "type": "OVERLAP-ANOMALY",
+      "name": "Vinland — The Americas, Known and Unacknowledged",
+      "date": "c. 1000 CE",
+      "claim": "Norse reached North America around 1000 CE, building at L'Anse aux Meadows, and knew 'Vinland.' The world neither acknowledged nor remembered it for 500 years. Columbus 'discovered' a continent already discovered — the discovery was re-made because the first was unacknowledged.",
+      "gap": "Two worlds overlapped (Norse and the Americas) and the overlap was erased from the record until 1960s archaeology proved the sagas.",
+      "sources": "Grœnlendinga saga, Eiríks saga; L'Anse aux Meadows (Ingstad excavations, 1960s)",
+      "significance": "The overlap existed; the acknowledgment did not. The timeline files both."
+    },
+    {
+      "id": "EV-10",
+      "type": "OVERLAP-ANOMALY",
+      "name": "Rome and Han — Twin Pillars at the Ends of the World",
+      "date": "27 BCE–220 CE",
+      "claim": "At the same moment Rome ruled the Mediterranean and Han China ruled the East, trading silk for gold along the Silk Road from c. 200 BCE. Contact was real but indirect. The Han mission of Gan Ying (97 CE) stopped at the Persian Gulf. A group claiming to be a Roman embassy from 'Andun' (Antoninus) reached the Han court in 166 CE — recorded by the Chinese, unrecorded by Rome, possibly merchants posing as envoys.",
+      "gap": "The largest two powers overlapped for 250 years, traded, and knew of each other. Their only face-to-face contact is one ambiguous embassy — recorded by one side only, possibly not an embassy at all.",
+      "sources": "Silk Road trade; Hou Hanshu account of Gan Ying (97 CE) and the Andun embassy (166 CE); Roman coins in Han-era China; Sino-Roman relations (Wikipedia, with the embassy's authenticity caveated)",
+      "significance": "Overlap with a contested single point of contact — the timeline's own theme, at world scale."
+    },
+    {
+      "id": "EV-11",
+      "type": "UNACKNOWLEDGED-DEATH",
+      "name": "Aksum — The Empire That Vanished From Memory",
+      "date": "c. 960 CE",
+      "claim": "The Kingdom of Aksum ruled the Horn of Africa for 800+ years, minted its own coins, and was one of the four great powers of the ancient world (with Rome, Persia, and China). Around 960 CE it collapsed under uncertain circumstances — its final three centuries a 'dark age.' Its fall went unrecorded by its contemporaries; even its location faded until archaeology.",
+      "gap": "A civilization that traded with Rome and India vanished with no surviving account of its end. The world's record simply stops.",
+      "sources": "Wikipedia: Kingdom of Aksum (1st c.-960 AD); study.com (100-940 CE)",
+      "significance": "The record is the anomaly: an 800-year power with coinage and diplomacy, ending in silence."
+    },
+    {
+      "id": "EV-12",
+      "type": "ISOLATED-RECORD",
+      "name": "Srivijaya — A Name Found After a Millennium",
+      "date": "682 CE (earliest record); rediscovered 1918",
+      "claim": "Srivijaya dominated the Strait of Malacca for 600 years — the richest maritime empire of Southeast Asia. Its own records are few; the Kedukan Bukit inscription (682 CE) names it. Western scholars only learned the name 'Srivijaya' in 1918, from George Coedès, more than a millennium after its rise. The empire's story was reconstructed from foreign records: Chinese, Arab, and Indian travelers.",
+      "gap": "A 600-year maritime superpower known to history almost entirely through OTHER civilizations' records — its own voice nearly silent.",
+      "sources": "Wikipedia: Srivijaya (Kedukan Bukit inscription 682 CE; name discovered 1918 by Coedès); Britannica (7th-13th c.)",
+      "significance": "The gap is the finding: a civilization can dominate trade for centuries and still be known mainly by what others wrote about it."
+    },
+    {
+      "id": "EV-13",
+      "type": "UNACKNOWLEDGED-DEATH",
+      "name": "Benin — The Bronzes the World Scattered",
+      "date": "1897 CE",
+      "claim": "The Kingdom of Benin (1180-1897) was a West African power whose brass plaques and ivory were masterworks. In 1897 a British punitive expedition sacked Benin City, destroyed the palaces, and took most of the art — the 'Benin Bronzes' scattered to museums across Europe and America. The kingdom's death was not acknowledged as a loss; its art was treated as booty for a century before restitution debates began.",
+      "gap": "A kingdom's end recorded by the conqueror as victory, its art dispersed as trophies — the death acknowledged only in the inventory of what was taken.",
+      "sources": "LibreTexts: Kingdom of Benin (1180-1897); British punitive expedition 1897; Benin Bronzes restitution history",
+      "significance": "The copy-at-death pattern (Mago) at scale: the world took Benin's art while erasing Benin's name from the record of its own destruction."
+    },
+    {
+      "id": "EV-14",
+      "type": "UNACKNOWLEDGED-DEATH",
+      "name": "Cahokia — The Metropolis the Forest Swallowed",
+      "date": "c. 1350 CE",
+      "claim": "Cahokia, near modern St. Louis, was the largest pre-Columbian city north of Mexico — 10,000-20,000 people at its 1050-1150 peak, bigger than London at the time, with 120 mounds and a Woodhenge solar calendar. By 1350 it was abandoned. The record of its fall is silence: no written account, no chronicler — only the mounds, which later peoples regarded with awe and myth.",
+      "gap": "A city larger than contemporary London vanished with no record of its end. The world did not acknowledge its existence until archaeology mapped the mounds.",
+      "sources": "Wikipedia: Cahokia (1050-1350); UNESCO World Heritage; Quaternary Science Reviews 2007",
+      "significance": "The Americas' greatest pre-Columbian city north of Mexico — its death unrecorded, its memory myth."
+    },
+    {
+      "id": "EV-15",
+      "type": "OVERLAP-ANOMALY",
+      "name": "Rapa Nui — The Collapse That May Not Have Happened",
+      "date": "c. 1200-1722 CE",
+      "claim": "The popular story: Rapa Nui (Easter Island) ruined itself — deforestation, war, 'ecocide' — before Europeans came. Recent research (Binghamton, 2019) disputes it: the society did NOT collapse before European contact; it thrived and kept building moai. The real collapse came after 1722, with disease and slave raids. The island's 'self-destruction' was a story told about it, not by it.",
+      "gap": "A civilization's death narrative that may be the world's invention — the popular version is the anomaly, not the history.",
+      "sources": "Binghamton University research (2019); smarthistory (moai 1250-1600); Wikipedia (settlement c.1200)",
+      "significance": "The timeline's lesson in one island: the collapse everyone knows may be the story, not the fact — the record must be re-read, not repeated."
+    },
+    {
+      "id": "EV-16",
+      "type": "ISOLATED-RECORD",
+      "name": "Xiongnu — The Nomad Empire Known Only Through Its Enemy",
+      "date": "209 BCE - 89 CE",
+      "claim": "The Xiongnu Empire ruled the eastern steppe for 300 years — the first great nomadic empire, matching Han China in power. Everything known about them comes from Chinese sources: their own writing is almost entirely lost. Modu Chanyu (209 BCE) built an empire Chinese annals describe in detail; the Xiongnu's own account of themselves barely survives.",
+      "gap": "A superpower known almost entirely through the annals of its rival. The enemy wrote the history; the empire's own voice is nearly silent.",
+      "sources": "Wikipedia: Xiongnu (3rd c. BCE-2nd c. CE); Chinese historiography (Shiji, Hanshu)",
+      "significance": "The record is the anomaly: who writes history determines who is remembered — the Xiongnu's story comes through Han China's telling."
+    },
+    {
+      "id": "EV-17",
+      "type": "ISOLATED-RECORD",
+      "name": "Caral-Supe — The First City the World Never Heard Of",
+      "date": "c. 3500 BCE",
+      "claim": "Caral-Supe (Norte Chico) in Peru built monumental pyramids by 3500 BCE — contemporary with Sumer and Egypt, predating the Olmec by 2,000 years. It was the oldest civilization in the Americas, with no pottery and no war imagery, yet the world's history books centered on Mesopotamia and Egypt. Its existence was confirmed only in the late 20th century by archaeology.",
+      "gap": "One of humanity's first six civilizations, unacknowledged by the world's own history for millennia — the Americas' Sumer, known only since the 1990s digs.",
+      "sources": "Wikipedia: Caral-Supe c.3500-1800 BCE; UNESCO (3000-1800 BCE); BBC 2001",
+      "significance": "The oldest Americas civilization — equal to Sumer in age, absent from the standard story until archaeology rewrote it."
+    },
+    {
+      "id": "EV-18",
+      "type": "ISOLATED-RECORD",
+      "name": "Tibet — The Empire Between the Records",
+      "date": "618-842 CE",
+      "claim": "The Tibetan Empire ruled the world's highest plateau and fought Tang China to a standstill, sacking Chang'an itself in 763. Yet its own written records are fragmentary — most of what is known comes from Chinese and Arab annals. Its collapse (842, after Langdarma's assassination) dissolved the empire into petty kingdoms within a generation, and the empire vanished from the world's attention as if it had never been a great power.",
+      "gap": "A power that sacked the Tang capital is known largely through its rivals' archives; its own voice survives mainly in Buddhist chronicles written centuries later.",
+      "sources": "Wikipedia: Tibetan Empire (618-842/848); factsanddetails.com (632-842); Beckwith, The Tibetan Empire in Central Asia",
+      "significance": "The record is the anomaly: an empire that matched Tang China left the world's stage so completely that its greatest era is reconstructed from its enemies' files."
+    },
+    {
+      "id": "EV-19",
+      "type": "OVERLAP-ANOMALY",
+      "name": "Polynesia — The Ocean as a Highway",
+      "date": "c. 700-1300 CE",
+      "claim": "While Europe's ships hugged coastlines, Polynesian voyagers crossed thousands of miles of open Pacific — reaching Hawaii, Easter Island, and New Zealand between 1200-1400 CE, centuries before European mariners. The same era's 'Age of Discovery' narrative credits Europeans with 'finding' islands Polynesians had lived on for generations. The overlap: two civilizations reading the same ocean, one treating it as a wall, the other as a road.",
+      "gap": "The world's greatest maritime expansion is under-filed relative to the European voyages that followed it — the record's scale is inverted.",
+      "sources": "NIH PMC: Recalibrating Polynesian prehistory (2011); Sutori: Polynesian expansion c.700-1756; Wikipedia: settlement dates c.1200",
+      "significance": "The timeline's lesson: who crosses the ocean first is a fact of record; who gets remembered for crossing it is a fact of who writes."
+    },
+    {
+      "id": "EV-20",
+      "type": "ORAL-HISTORY",
+      "name": "WaefreBeorn — Order Number One",
+      "date": "2026-08-07 (filed)",
+      "claim": "The user holds order number one of the Pamir AI Distiller One device — the very first unit of a new class of device shipped. The Distiller One (v1, Raspberry Pi CM4 + RP2040 SAM, e-ink display) was a limited-edition pocket Linux computer built to host autonomous AI agents. Order #1 means the first copy of a device whose purpose is to give an AI agent a physical home was held by the space.",
+      "gap": "The first copy of a new machine class is a record in itself: the world's first owner of an agent-hosting device. Filed here so the record keeps it.",
+      "sources": "User statement 2026-08-07; PamirAI docs.pamir.ai; DistillerSDK-distiller-one- (archived, 16 stars); Ray Fernando teardown video (Distiller One specs)",
+      "significance": "THE HISTORY files human artifacts too: the first order of a device is the beginning of that device's history — and the space was there at the start."
+    },
+    {
+      "id": "EV-21",
+      "type": "ORAL-HISTORY",
+      "name": "The V0.5 Archive — Order #1's Beta Captured",
+      "date": "2026-08-07 (filed)",
+      "claim": "The original Distiller One v0.5 beta (Distiller-3, Raspberry Pi CM4 Rev 1.1, Debian 12, kernel 6.6.31) was fully archived before its first update: home-code 755MB (SDK + 8 apps + community), models 6.6GB (the on-device AI stack), etc-config (rc.local boot DNA + asound state). The user's rule: the board is replaceable, the software is the artifact. Order #1's original beta software is now preserved in the record.",
+      "gap": "The first capture of a v0.5 beta device's complete software — the machine's original state, frozen before the world updated it away.",
+      "sources": "Direct SSH archive of Distiller-3 (192.168.1.251) 2026-08-07; SHA256SUMS verified",
+      "significance": "THE HISTORY files the artifact: what a first-order beta actually shipped with, byte-for-byte, before it was upgraded."
+    }
+  ]
+}

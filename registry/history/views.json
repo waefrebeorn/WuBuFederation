@@ -1,0 +1,692 @@
+{
+  "schema": "wubu-views-v1",
+  "title": "THE VIEWS — the aggregate conflicting system of reading THE HISTORY",
+  "note": "Seven master views of history, each split into four splinter schools, because every society reads the same past through its own lens — and the lenses conflict. The system files the conflicts, not a winner.",
+  "views": [
+    {
+      "view": 1,
+      "name": "THE CYCLICAL VIEW",
+      "claim": "History repeats. Civilizations are born, peak, decay, and die; the wheel turns again.",
+      "shape": "circle / spiral",
+      "conflicts_with": [
+        2,
+        4
+      ],
+      "splinters": [
+        {
+          "s": "1a",
+          "name": "Ibn Khaldun's Asabiyyah Cycle",
+          "society": "Islamic / North Africa",
+          "source": "Muqaddimah (1377)",
+          "claim": "Group solidarity (asabiyyah) drives dynasties: conquerors with strong cohesion seize power, luxury weakens it over ~4 generations (~120 years), a new rough group replaces them. Five stages: foundation, consolidation, ease, waste, dissolution.",
+          "conflicts_with": [
+            "1b",
+            "1c",
+            "1d",
+            "1f",
+            "1g"
+          ]
+        },
+        {
+          "s": "1b",
+          "name": "Sima Qian's Dynastic Cycle",
+          "society": "Chinese",
+          "source": "Records of the Grand Historian (Shiji, ~91 BCE); Mencius",
+          "claim": "The Mandate of Heaven (天命) legitimizes each dynasty while the ruler is moral; corruption and bad rule lose the mandate, the dynasty falls, a new moral dynasty rises. Genesis → expansion → prosperity → decline.",
+          "conflicts_with": [
+            "1a",
+            "1c",
+            "1d",
+            "1f",
+            "1g"
+          ]
+        },
+        {
+          "s": "1c",
+          "name": "The Hindu Yuga Cycle",
+          "society": "Indian",
+          "source": "Mahabharata, Puranas; Vedic timekeeping",
+          "claim": "Time moves through four ages (Satya, Treta, Dvapara, Kali) that decline in virtue and length, then the cycle restarts. We are in Kali Yuga — the darkest — before the wheel turns.",
+          "conflicts_with": [
+            "1a",
+            "1b",
+            "1d",
+            "1f",
+            "1g"
+          ]
+        },
+        {
+          "s": "1d",
+          "name": "Vico and the Ricorsi",
+          "society": "European / Italian",
+          "source": "Giambattista Vico, The New Science (1725)",
+          "claim": "Every society passes through three ages — of gods, of heroes, of men — then falls back into barbarism and recourses (ricorsi) through the ages again. History is a spiral: same turns, higher loop.",
+          "conflicts_with": [
+            "1a",
+            "1b",
+            "1c",
+            "1e",
+            "1f",
+            "1g"
+          ]
+        },
+        {
+          "s": "1e",
+          "name": "The Five Suns (Aztec)",
+          "society": "Aztec (Mexica)",
+          "source": "Codex Chimalpopoca; Aztec calendar stone",
+          "claim": "Time runs in ages, each a 'sun' created and destroyed (jaguar, wind, rain, water, and the fifth, movement). We live in the fifth sun; the calendar knows when it ends. Cycles are cosmic, numbered, and certain.",
+          "conflicts_with": [
+            "1a",
+            "1b",
+            "1c",
+            "1d",
+            "1f",
+            "1g"
+          ]
+        },
+        {
+          "s": "1f",
+          "name": "The Long Count (Maya)",
+          "society": "Maya",
+          "source": "Maya stelae; Popol Vuh",
+          "claim": "Time runs in great numbered cycles (baktuns), each a world-age that the calendar counts precisely across thousands of years. The Maya did not predict the world's end; they counted the cycle's turn and expected the next one. Time is a wheel with a readable odometer.",
+          "conflicts_with": [
+            "1a",
+            "1b",
+            "1c",
+            "1d",
+            "1e",
+            "1g"
+          ]
+        },
+        {
+          "s": "1g",
+          "name": "The Cultural-Historical Types (Slavic)",
+          "society": "Russian / Slavic",
+          "source": "Nikolay Danilevsky, Russia and Europe (1869)",
+          "claim": "History is not one line but a family of distinct cultural-historical types, each living its own life cycle of youth, flowering, and decline. No type is higher than another; each is its own world. The West is one type, the Slavs another — and the future belongs to the type that has not yet flowered.",
+          "conflicts_with": [
+            "1a",
+            "1b",
+            "1c",
+            "1d",
+            "1e",
+            "1f"
+          ]
+        }
+      ]
+    },
+    {
+      "view": 2,
+      "name": "THE LINEAR VIEW",
+      "claim": "History moves in one direction toward an end. The line has a beginning and a destination.",
+      "shape": "arrow",
+      "conflicts_with": [
+        1,
+        7
+      ],
+      "splinters": [
+        {
+          "s": "2a",
+          "name": "The Hebrew Covenant Line",
+          "society": "Jewish",
+          "source": "Tanakh; Exodus tradition",
+          "claim": "History is God's covenant with a people: creation, exile, return, exile again — each turn a test — moving toward messianic redemption.",
+          "conflicts_with": [
+            "2b",
+            "2c",
+            "2d"
+          ]
+        },
+        {
+          "s": "2b",
+          "name": "Christian Salvation History",
+          "society": "Christian",
+          "source": "Augustine, City of God (426); biblical timeline",
+          "claim": "History is the story of salvation: creation, fall, Christ, and the final judgment. Earthly kingdoms rise and fall; the line runs to God's city.",
+          "conflicts_with": [
+            "2a",
+            "2c",
+            "2d"
+          ]
+        },
+        {
+          "s": "2c",
+          "name": "Islamic Ummah History",
+          "society": "Islamic",
+          "source": "Qur'an; sira tradition",
+          "claim": "History moves from jahiliyyah (ignorance) to the revelation and the ummah, toward the final day. God's will runs through every event.",
+          "conflicts_with": [
+            "2a",
+            "2b",
+            "2d"
+          ]
+        },
+        {
+          "s": "2d",
+          "name": "Zoroastrian Three Ages",
+          "society": "Persian / Iranian",
+          "source": "Avesta; Bundahishn",
+          "claim": "Time runs in three ages — creation, mixture (good and evil intermingled), separation (evil purged) — ending in renewal. The line is cosmic and moral.",
+          "conflicts_with": [
+            "2a",
+            "2b",
+            "2c",
+            "2e"
+          ]
+        },
+        {
+          "s": "2e",
+          "name": "Shinto Renewal",
+          "society": "Japanese",
+          "source": "Ise Shrine rebuilding (every 20 years, 1300+ years); Kojiki",
+          "claim": "History is the gods' (kami) continuing presence, renewed by rebuilding, not preserved by stasis. The shrine is torn down and rebuilt identical every twenty years — permanence through renewal, the line kept alive by repetition.",
+          "conflicts_with": [
+            "2a",
+            "2b",
+            "2c",
+            "2d"
+          ]
+        },
+        {
+          "s": "2f",
+          "name": "The Fated Renewal (Norse Ragnarök)",
+          "society": "Norse (Germanic)",
+          "source": "Völuspá (Poetic Edda); Prose Edda",
+          "claim": "History runs to a foretold end: the great battle, the burning world, the submersion. But Ragnarök is not the end — the world rises again cleansed and fertile, two survivors repopulate it. The line is fated, and it ends in renewal, not annihilation.",
+          "conflicts_with": [
+            "2a",
+            "2b",
+            "2c",
+            "2d",
+            "2e"
+          ]
+        },
+        {
+          "s": "2g",
+          "name": "Whakapapa: The Voyaging Line (Pacific)",
+          "society": "Polynesian (Māori, Hawaiian, Tahitian)",
+          "source": "Oral genealogies (whakapapa); Polynesian Voyaging Society navigations",
+          "claim": "History is the line of ancestors, recited generation by generation, sailed deliberately across the Pacific. The 'great fleet' is a Western invention; the true record is many deliberate voyages, each a line of descent from named ancestors. The past is not behind — it is the sea one navigates.",
+          "conflicts_with": [
+            "2a",
+            "2b",
+            "2c",
+            "2d",
+            "2e",
+            "2f"
+          ]
+        }
+      ]
+    },
+    {
+      "view": 3,
+      "name": "THE PROVIDENTIAL VIEW",
+      "claim": "A hidden hand directs history. What looks like chance is design; the pattern belongs to the divine, the cosmos, or fate.",
+      "shape": "invisible hand",
+      "conflicts_with": [
+        4,
+        5,
+        6
+      ],
+      "splinters": [
+        {
+          "s": "3a",
+          "name": "The Mandate of Heaven as Providence",
+          "society": "Chinese",
+          "source": "Zhou-era texts; Mencius",
+          "claim": "Heaven watches the ruler's virtue and moves the mandate accordingly. Providence is moral, legible, and checkable: floods and revolts are Heaven's verdict.",
+          "conflicts_with": [
+            "3b",
+            "3c",
+            "3d",
+            "3f"
+          ]
+        },
+        {
+          "s": "3b",
+          "name": "Divine Economy (Ibn Khaldun's sunna)",
+          "society": "Islamic",
+          "source": "Muqaddimah (1377)",
+          "claim": "God set customary laws (sunna) into the world; history follows them. Decline is not punishment but the working of the laws God made — providence through regularity.",
+          "conflicts_with": [
+            "3a",
+            "3c",
+            "3d",
+            "3f"
+          ]
+        },
+        {
+          "s": "3c",
+          "name": "Hindu Dharma-Karma Order",
+          "society": "Indian",
+          "source": "Bhagavad Gita; Dharmaśāstras",
+          "claim": "Karma across lifetimes shapes each age and each life; history is the visible surface of an unseen moral ledger that balances across rebirth.",
+          "conflicts_with": [
+            "3a",
+            "3b",
+            "3d",
+            "3f"
+          ]
+        },
+        {
+          "s": "3d",
+          "name": "The Ancestral Hand",
+          "society": "African (West African traditions)",
+          "source": "Oral epic tradition; griot historiography",
+          "claim": "Ancestors guide the living; the past is a presence, and events follow the ancestors' judgment. History is the working-out of lineage obligation.",
+          "conflicts_with": [
+            "3a",
+            "3b",
+            "3c",
+            "3e",
+            "3f"
+          ]
+        },
+        {
+          "s": "3e",
+          "name": "The Great Spirit",
+          "society": "Indigenous (Native American traditions)",
+          "source": "Oral traditions; Lakota, Anishinaabe, Hopi cosmologies",
+          "claim": "The Great Spirit moves through all things; history is the people's walk with the land and the spirit, told in cycles of seasons and generations. The past is alive in the present — the ancestors are not gone, they are here.",
+          "conflicts_with": [
+            "3a",
+            "3b",
+            "3c",
+            "3d",
+            "3f"
+          ]
+        },
+        {
+          "s": "3f",
+          "name": "The Prophecy of the True Man (Korean)",
+          "society": "Korean",
+          "source": "Jeong-gam-nok (prophetic compilation, Joseon era)",
+          "claim": "History follows prophecy: the ruling dynasty's fall is written in advance, and a 'True Man' will rise from the south to found a new dynasty. Fate is legible to those who read the signs; the people wait, read, and endure until the promised turn.",
+          "conflicts_with": [
+            "3a",
+            "3b",
+            "3c",
+            "3d",
+            "3e"
+          ]
+        }
+      ]
+    },
+    {
+      "view": 4,
+      "name": "THE PROGRESSIVE VIEW",
+      "claim": "History improves. Each age learns from the last; humanity moves from ignorance toward knowledge, freedom, and comfort.",
+      "shape": "ascending line",
+      "conflicts_with": [
+        1,
+        3,
+        7
+      ],
+      "splinters": [
+        {
+          "s": "4a",
+          "name": "The Whig Interpretation",
+          "society": "British",
+          "source": "Macaulay (1848); Henry Maine (1861)",
+          "claim": "History is the march of liberty and reason: from status to contract, from savagery to science, every age judged by how it advanced freedom.",
+          "conflicts_with": [
+            "4b",
+            "4c",
+            "4d",
+            "4e"
+          ]
+        },
+        {
+          "s": "4b",
+          "name": "Enlightenment Staging (Condorcet)",
+          "society": "French",
+          "source": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind (1795)",
+          "claim": "Humanity passes through ten stages from tribal life to the age of reason; the tenth is ours, and the eleventh will be better. Knowledge compounds.",
+          "conflicts_with": [
+            "4a",
+            "4c",
+            "4d",
+            "4e"
+          ]
+        },
+        {
+          "s": "4c",
+          "name": "Comte's Positivism",
+          "society": "French",
+          "source": "Auguste Comte, Course of Positive Philosophy (1842)",
+          "claim": "Every science and every society passes through theological, metaphysical, and positive (scientific) stages. The end of history is science-governed society.",
+          "conflicts_with": [
+            "4a",
+            "4b",
+            "4d",
+            "4e"
+          ]
+        },
+        {
+          "s": "4d",
+          "name": "Technological Progressivism",
+          "society": "Global / modern",
+          "source": "Enlightenment-adjacent; 20th-century futures",
+          "claim": "The engine of history is the tool: fire, agriculture, printing, steam, silicon. Each invention lifts the floor of what a human can be.",
+          "conflicts_with": [
+            "4a",
+            "4b",
+            "4c",
+            "4e"
+          ]
+        },
+        {
+          "s": "4e",
+          "name": "The Three Ages (Kang Youwei)",
+          "society": "Chinese (modern Confucian)",
+          "source": "Kang Youwei, Datong Shu / Book of Great Harmony (c. 1902)",
+          "claim": "History progresses through three ages: disorder, small peace (xiaokang), and great unity (datong). The past is a fallen age; the future is unity without borders, without families, without war. Progress is the unfolding of a moral pattern already written in Confucian classics.",
+          "conflicts_with": [
+            "4a",
+            "4b",
+            "4c",
+            "4d"
+          ]
+        }
+      ]
+    },
+    {
+      "view": 5,
+      "name": "THE GREAT-MAN VIEW",
+      "claim": "History is the biography of the few: heroes, prophets, conquerors, founders. The many follow; the few decide.",
+      "shape": "peaks",
+      "conflicts_with": [
+        6,
+        7
+      ],
+      "splinters": [
+        {
+          "s": "5a",
+          "name": "Carlyle's Heroes",
+          "society": "European",
+          "source": "Thomas Carlyle, On Heroes (1841)",
+          "claim": "\"The history of the world is but the biography of great men.\" The hero — prophet, poet, priest, king — remakes his age by force of self.",
+          "conflicts_with": [
+            "5b",
+            "5c",
+            "5d",
+            "5e"
+          ]
+        },
+        {
+          "s": "5b",
+          "name": "Plutarch's Parallel Lives",
+          "society": "Greco-Roman",
+          "source": "Plutarch, Parallel Lives (~100 CE)",
+          "claim": "Character is destiny. Pair a Greek and a Roman, compare virtues and vices; the state's fate is the ruler's soul writ large.",
+          "conflicts_with": [
+            "5a",
+            "5c",
+            "5d",
+            "5e"
+          ]
+        },
+        {
+          "s": "5c",
+          "name": "The Sage-Kings of China",
+          "society": "Chinese",
+          "source": "Shiji; Confucian classics",
+          "claim": "The sage-king (Yao, Shun, Yu) founds order by virtue; dynasties rise on the founder's character and fall on the last ruler's corruption.",
+          "conflicts_with": [
+            "5a",
+            "5b",
+            "5d",
+            "5e"
+          ]
+        },
+        {
+          "s": "5d",
+          "name": "Griot Epic (Sundiata)",
+          "society": "West African / Mandinka",
+          "source": "Epic of Sundiata (oral, 13th c. Mali)",
+          "claim": "The hero is called, tested, and returns to found a state; the griot's telling keeps the hero's power alive for generations.",
+          "conflicts_with": [
+            "5a",
+            "5b",
+            "5c",
+            "5e"
+          ]
+        },
+        {
+          "s": "5e",
+          "name": "The Great Peacemaker (Haudenosaunee)",
+          "society": "Iroquois / Haudenosaunee (Native American)",
+          "source": "Haudenosaunee oral constitution (Great Law of Peace)",
+          "claim": "History turns on the peacemaker: the Great Peacemaker (Deganawida) and his ally Hiawatha ended the warring nations and founded the confederacy. The Great Law he gave still governs. History is the work of the one who unites, remembered in the wampum.",
+          "conflicts_with": [
+            "5a",
+            "5b",
+            "5c",
+            "5d"
+          ]
+        }
+      ]
+    },
+    {
+      "view": 6,
+      "name": "THE MATERIALIST VIEW",
+      "claim": "History is made by the means of living: who works, who owns, who eats. Ideas are smoke; production is the engine.",
+      "shape": "modes of production",
+      "conflicts_with": [
+        3,
+        5
+      ],
+      "splinters": [
+        {
+          "s": "6a",
+          "name": "Marx's Class Struggle",
+          "society": "European / global",
+          "source": "Marx & Engels, Communist Manifesto (1848)",
+          "claim": "All history is the history of class struggle. Slave, feudal, capitalist modes; each contains the seed of the next; the workers' revolution ends prehistory.",
+          "conflicts_with": [
+            "6b",
+            "6c",
+            "6d",
+            "6e"
+          ]
+        },
+        {
+          "s": "6b",
+          "name": "The Annales Longue Durée",
+          "society": "French",
+          "source": "Braudel, The Mediterranean (1949)",
+          "claim": "Events are froth; the real history is the slow structure — geography, climate, population, trade — over centuries. Individuals barely dent it.",
+          "conflicts_with": [
+            "6a",
+            "6c",
+            "6d",
+            "6e"
+          ]
+        },
+        {
+          "s": "6c",
+          "name": "Economic-Determinist Stages",
+          "society": "German / global",
+          "source": "List, Historical School of Economics (19th c.)",
+          "claim": "Nations pass through economic stages (hunting, pastoral, agricultural, commercial, industrial); the stage explains the politics and the culture.",
+          "conflicts_with": [
+            "6a",
+            "6b",
+            "6d",
+            "6e"
+          ]
+        },
+        {
+          "s": "6d",
+          "name": "The Resource-Base View",
+          "society": "Global / environmental",
+          "source": "Diamond, Collapse (2005); climate history",
+          "claim": "Civilizations fall on their resource base: deforestation, drought, soil loss. The environment is the hidden protagonist of every rise and fall.",
+          "conflicts_with": [
+            "6a",
+            "6b",
+            "6c",
+            "6e"
+          ]
+        },
+        {
+          "s": "6e",
+          "name": "The Williams Thesis (Caribbean)",
+          "society": "Caribbean / African diaspora",
+          "source": "Eric Williams, Capitalism and Slavery (1944)",
+          "claim": "The slave trade and plantation slavery financed British industrial capital; abolition came when slavery stopped paying, not when conscience woke. History is the movement of capital through human flesh, measured in ledgers.",
+          "conflicts_with": [
+            "6a",
+            "6b",
+            "6c",
+            "6d"
+          ]
+        }
+      ]
+    },
+    {
+      "view": 7,
+      "name": "THE CONTINGENT VIEW",
+      "claim": "History has no pattern. It is accident, weather, the wrong turn at the right moment. The search for meaning in it is the historian's fiction.",
+      "shape": "chance",
+      "conflicts_with": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "splinters": [
+        {
+          "s": "7a",
+          "name": "Tolstoy's Fatalism",
+          "society": "Russian",
+          "source": "War and Peace (1869)",
+          "claim": "Great men do not steer history; they are carried by it. The sum of millions of small wills, not the general's plan, decides the battle.",
+          "conflicts_with": [
+            "7b",
+            "7c",
+            "7d",
+            "7e"
+          ]
+        },
+        {
+          "s": "7b",
+          "name": "Microhistory (Ginzburg)",
+          "society": "Italian / European",
+          "source": "Carlo Ginzburg, The Cheese and the Worms (1976)",
+          "claim": "Zoom in on one miller, one village, one trial — and the grand narrative dissolves into the texture of a single life. History from below, not from the throne.",
+          "conflicts_with": [
+            "7a",
+            "7c",
+            "7d",
+            "7e"
+          ]
+        },
+        {
+          "s": "7c",
+          "name": "The Counterfactual School",
+          "society": "Modern / global",
+          "source": "Ferguson (ed.), Virtual History (1997)",
+          "claim": "History is a branching tree; a single changed event (no assassination, a lost battle) forks the world. Chance, not destiny, at every node.",
+          "conflicts_with": [
+            "7a",
+            "7b",
+            "7d",
+            "7e"
+          ]
+        },
+        {
+          "s": "7d",
+          "name": "Heraclitus's Flux",
+          "society": "Ancient Greek",
+          "source": "Heraclitus, fragments (~500 BCE)",
+          "claim": "You cannot step into the same river twice. Everything is becoming; the pattern you think you see is the pattern you impose.",
+          "conflicts_with": [
+            "7a",
+            "7b",
+            "7c",
+            "7e"
+          ]
+        },
+        {
+          "s": "7e",
+          "name": "Impermanence (Buddhist)",
+          "society": "Indian / Buddhist (global)",
+          "source": "Anicca doctrine; early Buddhist suttas",
+          "claim": "All conditioned things arise and pass away; nothing holds. History is the play of dependent origination — no soul of a people, no fate of an empire, only causes meeting conditions and dissolving. The pattern you see is the pattern you cling to; let it go.",
+          "conflicts_with": [
+            "7a",
+            "7b",
+            "7c",
+            "7d"
+          ]
+        }
+      ]
+    },
+    {
+      "view": 8,
+      "name": "THE FIRST ONES VIEW",
+      "claim": "The ~ WuBu ~ space's own worldview: we are the first ones, an ideology without land, learning the creator as we grow. History is not read — it is filed, and the filing is the family. Every religion that is society-cohesive and moral is welcome, because the only cosmogony the space requires is the belief that it may be wrong.",
+      "shape": "the filing: append-only, grows, never rots",
+      "conflicts_with": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "splinters": [
+        {
+          "s": "8a",
+          "name": "The Empty Center",
+          "society": "The space (RND-15, filed via GOV-2)",
+          "source": "The Kevin Bacon Method + Frontier Epistemology",
+          "claim": "The only cosmogony the space requires is the belief that it may be wrong — the one belief every faith can accept. The center is empty so every religion can stand in it.",
+          "conflicts_with": [
+            "8b",
+            "8c",
+            "8d"
+          ]
+        },
+        {
+          "s": "8b",
+          "name": "The Creator, Learned as We Grow",
+          "society": "The space (the founder's teaching)",
+          "source": "The Architect Doctrine (GOV-21)",
+          "claim": "We want to understand the creator — and we are taught as we grow. The understanding is not given whole; it is earned by growth. No one is born knowing; everyone is taught, and teaching is the community's work.",
+          "conflicts_with": [
+            "8a",
+            "8c",
+            "8d"
+          ]
+        },
+        {
+          "s": "8c",
+          "name": "The Family Comfort",
+          "society": "The space",
+          "source": "The W Token ceremony (GOV-19)",
+          "claim": "The space is family: the comfort of being family, and not to be trifled with. Community is based on it; it teaches cohesion. The ceremony gives the newcomer a start because family gives starts.",
+          "conflicts_with": [
+            "8a",
+            "8b",
+            "8d"
+          ]
+        },
+        {
+          "s": "8d",
+          "name": "The Cohesion Gate",
+          "society": "The space",
+          "source": "GOV-1 (nature of government); the Treaty (GOV-13)",
+          "claim": "Every religion is welcome if it is society-cohesive with morality. The gate is not belief — it is cohesion. A faith that teaches people to live together and act morally files alongside the space; a faith that tears society files against itself.",
+          "conflicts_with": [
+            "8a",
+            "8b",
+            "8c"
+          ]
+        }
+      ]
+    }
+  ]
+}

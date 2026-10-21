@@ -1,0 +1,994 @@
+{
+  "schema": "wubu-history-v1",
+  "title": "THE HISTORY — the aggregate overlap history of humanity worldwide",
+  "note": "The overlap view: every civilization, empire, religion, and age laid on one timeline. Dates are approximate consensus ranges (BCE/CE). The overlap is the point: while one world rose, another fell, and another had not yet begun.",
+  "ages": [
+    {
+      "name": "Stone Age (Paleolithic)",
+      "start": -300000,
+      "end": -10000,
+      "color": "1"
+    },
+    {
+      "name": "Neolithic Revolution",
+      "start": -10000,
+      "end": -3300,
+      "color": "2"
+    },
+    {
+      "name": "Bronze Age",
+      "start": -3300,
+      "end": -1200,
+      "color": "3"
+    },
+    {
+      "name": "Iron Age",
+      "start": -1200,
+      "end": -550,
+      "color": "4"
+    },
+    {
+      "name": "Classical Antiquity",
+      "start": -550,
+      "end": 500,
+      "color": "5"
+    },
+    {
+      "name": "Middle Ages",
+      "start": 500,
+      "end": 1500,
+      "color": "6"
+    },
+    {
+      "name": "Early Modern",
+      "start": 1500,
+      "end": 1800,
+      "color": "7"
+    },
+    {
+      "name": "Modern Era",
+      "start": 1800,
+      "end": 1945,
+      "color": "8"
+    },
+    {
+      "name": "Contemporary",
+      "start": 1945,
+      "end": 2026,
+      "color": "9"
+    }
+  ],
+  "civilizations": [
+    {
+      "name": "Sumer",
+      "region": "Mesopotamia",
+      "start": -4500,
+      "end": -1900
+    },
+    {
+      "name": "Ancient Egypt",
+      "region": "Nile",
+      "start": -3100,
+      "end": -30
+    },
+    {
+      "name": "Indus Valley",
+      "region": "South Asia",
+      "start": -3300,
+      "end": -1300
+    },
+    {
+      "name": "Minoan Crete",
+      "region": "Aegean",
+      "start": -3000,
+      "end": -1100
+    },
+    {
+      "name": "Shang China",
+      "region": "China",
+      "start": -1600,
+      "end": -1046
+    },
+    {
+      "name": "Olmec",
+      "region": "Mesoamerica",
+      "start": -1500,
+      "end": -400
+    },
+    {
+      "name": "Zhou China",
+      "region": "China",
+      "start": -1046,
+      "end": -256
+    },
+    {
+      "name": "Assyria",
+      "region": "Mesopotamia",
+      "start": -2025,
+      "end": -609
+    },
+    {
+      "name": "Maya",
+      "region": "Mesoamerica",
+      "start": -2000,
+      "end": 1697
+    },
+    {
+      "name": "Achaemenid Persia",
+      "region": "Iran",
+      "start": -550,
+      "end": -330
+    },
+    {
+      "name": "Classical Greece",
+      "region": "Aegean",
+      "start": -800,
+      "end": -146
+    },
+    {
+      "name": "Maurya Empire",
+      "region": "India",
+      "start": -322,
+      "end": -185
+    },
+    {
+      "name": "Han China",
+      "region": "China",
+      "start": -206,
+      "end": 220
+    },
+    {
+      "name": "Roman Republic",
+      "region": "Mediterranean",
+      "start": -509,
+      "end": -27
+    },
+    {
+      "name": "Roman Empire",
+      "region": "Mediterranean",
+      "start": -27,
+      "end": 476
+    },
+    {
+      "name": "Kushan",
+      "region": "Central Asia",
+      "start": 30,
+      "end": 375
+    },
+    {
+      "name": "Gupta Empire",
+      "region": "India",
+      "start": 320,
+      "end": 550
+    },
+    {
+      "name": "Byzantine Empire",
+      "region": "East Mediterranean",
+      "start": 330,
+      "end": 1453
+    },
+    {
+      "name": "Tang China",
+      "region": "China",
+      "start": 618,
+      "end": 907
+    },
+    {
+      "name": "Rashidun-Umayyad-Abbasid (Islamic Caliphates)",
+      "region": "Arabia → Spain → Persia",
+      "start": 632,
+      "end": 1258
+    },
+    {
+      "name": "Holy Roman Empire",
+      "region": "Central Europe",
+      "start": 800,
+      "end": 1806
+    },
+    {
+      "name": "Song China",
+      "region": "China",
+      "start": 960,
+      "end": 1279
+    },
+    {
+      "name": "Khmer Empire",
+      "region": "Southeast Asia",
+      "start": 802,
+      "end": 1431
+    },
+    {
+      "name": "Mongol Empire",
+      "region": "Eurasia",
+      "start": 1206,
+      "end": 1368
+    },
+    {
+      "name": "Mali Empire",
+      "region": "West Africa",
+      "start": 1235,
+      "end": 1610
+    },
+    {
+      "name": "Aztec (Mexica)",
+      "region": "Mesoamerica",
+      "start": 1325,
+      "end": 1521
+    },
+    {
+      "name": "Inca Empire",
+      "region": "Andes",
+      "start": 1438,
+      "end": 1533
+    },
+    {
+      "name": "Ottoman Empire",
+      "region": "Anatolia → 3 continents",
+      "start": 1299,
+      "end": 1922
+    },
+    {
+      "name": "Ming China",
+      "region": "China",
+      "start": 1368,
+      "end": 1644
+    },
+    {
+      "name": "Safavid Persia",
+      "region": "Iran",
+      "start": 1501,
+      "end": 1736
+    },
+    {
+      "name": "Mughal Empire",
+      "region": "India",
+      "start": 1526,
+      "end": 1857
+    },
+    {
+      "name": "Qing China",
+      "region": "China",
+      "start": 1644,
+      "end": 1912
+    },
+    {
+      "name": "British Empire",
+      "region": "Global",
+      "start": 1583,
+      "end": 1997
+    },
+    {
+      "name": "Russian Empire",
+      "region": "Eurasia",
+      "start": 1721,
+      "end": 1917
+    },
+    {
+      "name": "United States",
+      "region": "North America",
+      "start": 1776,
+      "end": 2026
+    },
+    {
+      "name": "Kingdom of Aksum",
+      "region": "East Africa",
+      "start": 100,
+      "end": 940,
+      "source": "Wikipedia: Kingdom of Aksum (1st century-960 AD); study.com (100-940 CE)"
+    },
+    {
+      "name": "Carthage",
+      "region": "North Africa / Mediterranean",
+      "start": -814,
+      "end": -146,
+      "source": "Wikipedia: Ancient Carthage (settled 814 BC from Tyre); Britannica (destroyed 146 BCE)"
+    },
+    {
+      "name": "Sasanian Empire",
+      "region": "Iran",
+      "start": 224,
+      "end": 651,
+      "source": "worldhistory.org: Sasanian Empire 224-651 CE; Wikipedia (Yazdegerd III d. 651)"
+    },
+    {
+      "name": "Etruscans",
+      "region": "Italy",
+      "start": -900,
+      "end": -27,
+      "source": "Wikipedia: Etruscan civilization 900-27 BC; Villanovan culture"
+    },
+    {
+      "name": "Srivijaya",
+      "region": "Southeast Asia",
+      "start": 682,
+      "end": 1300,
+      "source": "Wikipedia: Srivijaya (Kedukan Bukit inscription 682 CE); Britannica (7th-13th c.)"
+    },
+    {
+      "name": "Hunnic Empire",
+      "region": "Eurasia",
+      "start": 370,
+      "end": 469,
+      "source": "Wikipedia: Huns 370s-469; Britannica (Attila d. 453)"
+    },
+    {
+      "name": "Songhai Empire",
+      "region": "West Africa",
+      "start": 1464,
+      "end": 1591,
+      "source": "Wikipedia: Songhai Empire c.1464-1591; Battle of Tondibi 1591"
+    },
+    {
+      "name": "Kingdom of Benin",
+      "region": "West Africa",
+      "start": 1180,
+      "end": 1897,
+      "source": "LibreTexts: Kingdom of Benin 1180-1897; British punitive expedition 1897"
+    },
+    {
+      "name": "Nok Culture",
+      "region": "West Africa",
+      "start": -1500,
+      "end": -1,
+      "source": "Wikipedia: Nok culture 1500 BC - c.1 BC"
+    },
+    {
+      "name": "Majapahit Empire",
+      "region": "Southeast Asia",
+      "start": 1293,
+      "end": 1527,
+      "source": "Wikipedia: Majapahit 1293-1527 (standard dates)"
+    },
+    {
+      "name": "Norte Chico (Caral-Supe)",
+      "region": "Andes",
+      "start": -3500,
+      "end": -1800,
+      "source": "Wikipedia: Caral-Supe c.3500-1800 BCE; UNESCO (3000-1800 BCE)"
+    },
+    {
+      "name": "Teotihuacan",
+      "region": "Mesoamerica",
+      "start": -100,
+      "end": 750,
+      "source": "Wikipedia: Teotihuacan 100 BCE-750 CE; worldhistory.org (decline ~600)"
+    },
+    {
+      "name": "Cahokia",
+      "region": "North America",
+      "start": 1050,
+      "end": 1350,
+      "source": "Wikipedia: Cahokia 1050-1350; UNESCO (Mississippian 800-1400)"
+    },
+    {
+      "name": "Rapa Nui (Easter Island)",
+      "region": "Oceania",
+      "start": 1200,
+      "end": 1722,
+      "source": "Wikipedia: settlement c.1200 CE; moai 1250-1600; European contact 1722"
+    },
+    {
+      "name": "Yamato Japan",
+      "region": "Japan",
+      "start": 250,
+      "end": 710,
+      "source": "Wikipedia: Yamato period 250-710 (Kofun 250-538, Asuka 538-710)"
+    },
+    {
+      "name": "Kingdom of Kush",
+      "region": "Northeast Africa",
+      "start": -2500,
+      "end": 350,
+      "source": "smarthistory: Kingdom of Kush c.2500 BCE-360 CE; Wikipedia (Meroitic 270 BCE-4th c.)"
+    },
+    {
+      "name": "Phoenicia",
+      "region": "East Mediterranean",
+      "start": -1550,
+      "end": -300,
+      "source": "National Geographic: Phoenicia 1550-300 BCE"
+    },
+    {
+      "name": "Great Zimbabwe",
+      "region": "Southern Africa",
+      "start": 1100,
+      "end": 1450,
+      "source": "National Geographic: Great Zimbabwe c.1100-15th c.; Facebook historical refs"
+    },
+    {
+      "name": "Kievan Rus",
+      "region": "Eastern Europe",
+      "start": 880,
+      "end": 1240,
+      "source": "Wikipedia: Kievan Rus c.880-1240 (Oleg c.882; Mongol siege 1240)"
+    },
+    {
+      "name": "Viking Age",
+      "region": "Scandinavia / North Atlantic",
+      "start": 793,
+      "end": 1066,
+      "source": "Wikipedia: Viking Age 793-1066 (Lindisfarne 793; Hastings 1066)"
+    },
+    {
+      "name": "Chola Dynasty",
+      "region": "South India",
+      "start": -300,
+      "end": 1279,
+      "source": "National Geographic: Chola 300 BCE-1279 CE; Wikipedia (deposition 1279)"
+    },
+    {
+      "name": "Silla (Korea)",
+      "region": "Korea",
+      "start": -57,
+      "end": 935,
+      "source": "Wikipedia: Silla 57 BCE-935 CE (Unified Silla 668-935)"
+    },
+    {
+      "name": "Goryeo",
+      "region": "Korea",
+      "start": 918,
+      "end": 1392,
+      "source": "worldhistory.org: Goryeo 918-1392"
+    },
+    {
+      "name": "Xiongnu",
+      "region": "Central Asia",
+      "start": -209,
+      "end": 89,
+      "source": "Wikipedia: Xiongnu 3rd c. BCE-2nd c. CE (Modu 209 BCE)"
+    },
+    {
+      "name": "Khazar Khaganate",
+      "region": "Eurasia",
+      "start": 650,
+      "end": 969,
+      "source": "Wikipedia: Khazar Khaganate c.650-969 (conquered by Kievan Rus 965-969)"
+    },
+    {
+      "name": "Ancestral Pueblo",
+      "region": "North America",
+      "start": 750,
+      "end": 1300,
+      "source": "UC Berkeley ORIAS: Ancestral Pueblo 750-late 1200s CE"
+    },
+    {
+      "name": "Iroquois Confederacy",
+      "region": "North America",
+      "start": 1142,
+      "end": 2026,
+      "source": "Oral tradition (Great Law of Peace); Haudenosaunee confederacy founding"
+    },
+    {
+      "name": "Ayutthaya Kingdom",
+      "region": "Southeast Asia",
+      "start": 1351,
+      "end": 1767,
+      "source": "Wikipedia: Ayutthaya 1351-1767 (fall to Burma 1767)"
+    },
+    {
+      "name": "Vijayanagara Empire",
+      "region": "South India",
+      "start": 1336,
+      "end": 1646,
+      "source": "Wikipedia: Vijayanagara 1336-1646"
+    },
+    {
+      "name": "Timurid Empire",
+      "region": "Central Asia",
+      "start": 1370,
+      "end": 1507,
+      "source": "Wikipedia: Timurid Empire 1370-1507"
+    },
+    {
+      "name": "Akkadian Empire",
+      "region": "Mesopotamia",
+      "start": -2334,
+      "end": -2154,
+      "source": "Wikipedia: Akkadian Empire c.2334-2154 BC (Sargon; first territorial empire)"
+    },
+    {
+      "name": "Funan",
+      "region": "Southeast Asia",
+      "start": 50,
+      "end": 627,
+      "source": "Wikipedia: Funan 50-627 CE (Chenla conquest 627)"
+    },
+    {
+      "name": "Champa",
+      "region": "Southeast Asia",
+      "start": 192,
+      "end": 1832,
+      "source": "Wikipedia: Champa 192-1832 (standard dates)"
+    },
+    {
+      "name": "Scythians",
+      "region": "Eurasia",
+      "start": -900,
+      "end": -200,
+      "source": "Wikipedia: Scythians c.900-200 BCE (standard)"
+    },
+    {
+      "name": "Moche",
+      "region": "Andes",
+      "start": 100,
+      "end": 800,
+      "source": "smarthistory: Moche (100-800 CE); world history texts"
+    },
+    {
+      "name": "Tiwanaku",
+      "region": "Andes",
+      "start": 200,
+      "end": 1100,
+      "source": "smarthistory: Tiwanaku c.200-1100 CE (Lake Titicaca)"
+    },
+    {
+      "name": "Wari Empire",
+      "region": "Andes",
+      "start": 450,
+      "end": 1000,
+      "source": "worldhistory.org: Wari c.450-1000 CE"
+    },
+    {
+      "name": "Chavin",
+      "region": "Andes",
+      "start": -900,
+      "end": -200,
+      "source": "smarthistory: Chavin culture 900-200 BCE (Raimondi Stele)"
+    },
+    {
+      "name": "Zapotec",
+      "region": "Mesoamerica",
+      "start": -700,
+      "end": 1521,
+      "source": "Wikipedia: Zapotec c.700 BC-AD 1521 (Monte Alban)"
+    },
+    {
+      "name": "Ghana Empire (Wagadu)",
+      "region": "West Africa",
+      "start": 300,
+      "end": 1240,
+      "source": "Wikipedia: Ghana Empire c.300-mid-13th c.; worldhistory.org (flourished 6th-13th c.)"
+    },
+    {
+      "name": "Chimu",
+      "region": "Andes",
+      "start": 900,
+      "end": 1470,
+      "source": "Wikipedia: Kingdom of Chimor c.900-1470 (Chan Chan; Inca conquest 1470)"
+    },
+    {
+      "name": "Goguryeo",
+      "region": "Korea",
+      "start": -37,
+      "end": 668,
+      "source": "Wikipedia: Goguryeo 37 BCE-668 CE (standard)"
+    },
+    {
+      "name": "Baekje",
+      "region": "Korea",
+      "start": -18,
+      "end": 660,
+      "source": "Wikipedia: Baekje 18 BCE-660 CE (standard)"
+    },
+    {
+      "name": "Novgorod Republic",
+      "region": "Eastern Europe",
+      "start": 1136,
+      "end": 1478,
+      "source": "Wikipedia: Novgorod Republic 1136-1478 (standard)"
+    },
+    {
+      "name": "Tibetan Empire",
+      "region": "Central Asia",
+      "start": 618,
+      "end": 842,
+      "source": "Wikipedia: Tibetan Empire 618-842/848 (Songtsen Gampo; Langdarma assassinated 842)"
+    },
+    {
+      "name": "Polynesian Expansion",
+      "region": "Oceania",
+      "start": 700,
+      "end": 1300,
+      "source": "Sutori/NIH: Polynesian expansion c.700-1300 (Hawaii c.1300-1400, NZ c.1250)"
+    },
+    {
+      "name": "Kamakura Shogunate",
+      "region": "Japan",
+      "start": 1185,
+      "end": 1333,
+      "source": "Wikipedia: Kamakura shogunate 1185-1333 (standard)"
+    },
+    {
+      "name": "Tokugawa Shogunate",
+      "region": "Japan",
+      "start": 1603,
+      "end": 1868,
+      "source": "Wikipedia: Tokugawa shogunate 1603-1868 (standard)"
+    },
+    {
+      "name": "Zulu Kingdom",
+      "region": "Southern Africa",
+      "start": 1816,
+      "end": 1897,
+      "source": "Wikipedia: Zulu Kingdom 1816-1897 (Shaka; Anglo-Zulu War 1879)"
+    },
+    {
+      "name": "Sokoto Caliphate",
+      "region": "West Africa",
+      "start": 1804,
+      "end": 1903,
+      "source": "Wikipedia: Sokoto Caliphate 1804-1903 (Usman dan Fodio; fall to British 1903)"
+    }
+  ],
+  "religions": [
+    {
+      "name": "Hinduism (Vedic)",
+      "start": -1500,
+      "end": 2026
+    },
+    {
+      "name": "Judaism (traditional dating)",
+      "start": -1300,
+      "end": 2026
+    },
+    {
+      "name": "Zoroastrianism",
+      "start": -1200,
+      "end": 2026
+    },
+    {
+      "name": "Buddhism",
+      "start": -500,
+      "end": 2026
+    },
+    {
+      "name": "Confucianism",
+      "start": -500,
+      "end": 2026
+    },
+    {
+      "name": "Christianity",
+      "start": 30,
+      "end": 2026
+    },
+    {
+      "name": "Islam",
+      "start": 610,
+      "end": 2026
+    }
+  ],
+  "events": [
+    {
+      "year": -3200,
+      "what": "Writing invented (Sumer)"
+    },
+    {
+      "year": -2560,
+      "what": "Great Pyramid of Giza built"
+    },
+    {
+      "year": -1754,
+      "what": "Code of Hammurabi"
+    },
+    {
+      "year": -1200,
+      "what": "Bronze Age collapse — the Sea Peoples"
+    },
+    {
+      "year": -776,
+      "what": "First Olympic Games"
+    },
+    {
+      "year": -551,
+      "what": "Confucius born (551 BCE); the Buddha's lifetime (c. 563–483 BCE) overlaps"
+    },
+    {
+      "year": -490,
+      "what": "Battle of Marathon — Greece repels Persia"
+    },
+    {
+      "year": -336,
+      "what": "Alexander the Great begins conquest"
+    },
+    {
+      "year": -221,
+      "what": "Qin unifies China; Great Wall begun"
+    },
+    {
+      "year": -27,
+      "what": "Augustus — Roman Empire begins"
+    },
+    {
+      "year": 30,
+      "what": "Crucifixion of Jesus; Christianity spreads"
+    },
+    {
+      "year": 313,
+      "what": "Edict of Milan — Christianity legalized"
+    },
+    {
+      "year": 476,
+      "what": "Western Rome falls"
+    },
+    {
+      "year": 610,
+      "what": "Muhammad receives first revelation"
+    },
+    {
+      "year": 800,
+      "what": "Charlemagne crowned Holy Roman Emperor"
+    },
+    {
+      "year": 1054,
+      "what": "Great Schism — East and West churches split"
+    },
+    {
+      "year": 1096,
+      "what": "First Crusade"
+    },
+    {
+      "year": 1206,
+      "what": "Genghis Khan unites the Mongols"
+    },
+    {
+      "year": 1347,
+      "what": "Black Death reaches Europe"
+    },
+    {
+      "year": 1453,
+      "what": "Constantinople falls; Byzantine ends"
+    },
+    {
+      "year": 1492,
+      "what": "Columbus reaches the Americas; Granada falls"
+    },
+    {
+      "year": 1517,
+      "what": "Luther's 95 Theses — Reformation"
+    },
+    {
+      "year": 1610,
+      "what": "Galileo — telescope turns to the sky"
+    },
+    {
+      "year": 1687,
+      "what": "Newton: Principia — gravity"
+    },
+    {
+      "year": 1776,
+      "what": "US Declaration of Independence"
+    },
+    {
+      "year": 1789,
+      "what": "French Revolution"
+    },
+    {
+      "year": 1804,
+      "what": "Napoleon crowned; code civil"
+    },
+    {
+      "year": 1859,
+      "what": "Darwin: Origin of Species"
+    },
+    {
+      "year": 1914,
+      "what": "World War I begins"
+    },
+    {
+      "year": 1917,
+      "what": "Russian Revolution"
+    },
+    {
+      "year": 1939,
+      "what": "World War II begins"
+    },
+    {
+      "year": 1945,
+      "what": "Nuclear age; United Nations"
+    },
+    {
+      "year": 1957,
+      "what": "Sputnik — the space age opens"
+    },
+    {
+      "year": 1969,
+      "what": "Apollo 11 — humans walk on the Moon"
+    },
+    {
+      "year": 1991,
+      "what": "Cold War ends; the web goes public"
+    },
+    {
+      "year": 2004,
+      "what": "Social media era begins"
+    },
+    {
+      "year": 2016,
+      "what": "AGI race intensifies"
+    },
+    {
+      "year": 2026,
+      "what": "Now — the first ones file"
+    },
+    {
+      "year": 751,
+      "what": "Battle of Talas — Abbasids defeat Tang; papermaking spreads west",
+      "source": "Wikipedia: Battle of Talas (May-Sept 751)"
+    },
+    {
+      "year": 636,
+      "what": "Battle of Yarmouk — Rashidun defeat Byzantines; Syria lost to Rome",
+      "source": "Wikipedia: Battle of Yarmouk (636)"
+    },
+    {
+      "year": 651,
+      "what": "Sasanian Empire falls — Yazdegerd III killed at Merv",
+      "source": "worldhistory.org: Sasanian Empire 224-651"
+    },
+    {
+      "year": 960,
+      "what": "Kingdom of Aksum collapses",
+      "source": "Wikipedia: Kingdom of Aksum (collapse 960 AD)"
+    },
+    {
+      "year": 1591,
+      "what": "Battle of Tondibi — Songhai falls to Morocco",
+      "source": "Wikipedia: Songhai Empire (Battle of Tondibi 1591)"
+    },
+    {
+      "year": 1897,
+      "what": "British punitive expedition — Benin sacked, bronzes taken",
+      "source": "LibreTexts: Kingdom of Benin 1180-1897"
+    },
+    {
+      "year": 1464,
+      "what": "Sonni Ali founds Songhai Empire",
+      "source": "Wikipedia: Songhai Empire (Sunni Ali r. 1464-1492)"
+    },
+    {
+      "year": 453,
+      "what": "Attila dies — Hunnic Empire fragments",
+      "source": "Britannica: Hun people (Attila d. 453)"
+    },
+    {
+      "year": 1527,
+      "what": "Majapahit falls — Demak Sultanate rises",
+      "source": "Wikipedia: Majapahit 1293-1527"
+    },
+    {
+      "year": 682,
+      "what": "Srivijaya's earliest inscription (Kedukan Bukit)",
+      "source": "Wikipedia: Srivijaya (Kedukan Bukit inscription, 16 June 682)"
+    },
+    {
+      "year": -3500,
+      "what": "Caral-Supe founded — the first city in the Americas",
+      "source": "Wikipedia: Caral-Supe c.3500 BCE (Huaricanga)"
+    },
+    {
+      "year": -209,
+      "what": "Modu Chanyu founds the Xiongnu Empire",
+      "source": "Wikipedia: Xiongnu (Modu 209 BCE)"
+    },
+    {
+      "year": 793,
+      "what": "Lindisfarne raid — the Viking Age begins",
+      "source": "Wikipedia: Viking Age (793)"
+    },
+    {
+      "year": 882,
+      "what": "Oleg the Wise makes Kiev the Rus capital",
+      "source": "Wikipedia: Kievan Rus (Oleg c.882)"
+    },
+    {
+      "year": 935,
+      "what": "Silla surrenders to Goryeo — Korea unified",
+      "source": "Wikipedia: Unified Silla (935)"
+    },
+    {
+      "year": 1050,
+      "what": "Cahokia's Big Bang — population surges 10x",
+      "source": "Wikipedia: Cahokia (1050 'Big Bang')"
+    },
+    {
+      "year": 1200,
+      "what": "Rapa Nui colonized; moai era begins",
+      "source": "Wikipedia: Easter Island (settlement c.1200)"
+    },
+    {
+      "year": 1240,
+      "what": "Mongols sack Kiev — Kievan Rus ends",
+      "source": "Wikipedia: Kievan Rus (Siege of Kiev 1240)"
+    },
+    {
+      "year": 1450,
+      "what": "Great Zimbabwe abandoned",
+      "source": "National Geographic: Great Zimbabwe (15th c.)"
+    },
+    {
+      "year": 1722,
+      "what": "Dutch reach Easter Island — Rapa Nui's isolation ends",
+      "source": "Wikipedia: Easter Island (Roggeveen 1722)"
+    },
+    {
+      "year": -2334,
+      "what": "Sargon of Akkad — the first territorial empire",
+      "source": "Wikipedia: Akkadian Empire (Sargon c.2334)"
+    },
+    {
+      "year": -2154,
+      "what": "Akkadian Empire falls — Gutian invasion",
+      "source": "Wikipedia: Akkadian Empire (c.2154)"
+    },
+    {
+      "year": -100,
+      "what": "Teotihuacan founded — the Americas' greatest city rises",
+      "source": "Wikipedia: Teotihuacan (100 BCE)"
+    },
+    {
+      "year": 627,
+      "what": "Chenla conquers Funan — Southeast Asia's first state absorbed",
+      "source": "Wikipedia: Funan (627)"
+    },
+    {
+      "year": 650,
+      "what": "Khazar Khaganate forms — the steppe's Jewish kingdom",
+      "source": "Wikipedia: Khazar Khaganate (c.650)"
+    },
+    {
+      "year": 969,
+      "what": "Kievan Rus destroys the Khazar Khaganate",
+      "source": "Wikipedia: Kievan Rus (965-969 conquest)"
+    },
+    {
+      "year": 1066,
+      "what": "Battle of Hastings — the Viking Age ends",
+      "source": "Wikipedia: Viking Age (1066)"
+    },
+    {
+      "year": 1240,
+      "what": "Mongols sack Kiev",
+      "source": "Wikipedia: Kievan Rus (1240)"
+    },
+    {
+      "year": 1279,
+      "what": "Chola dynasty falls — Pandya conquest",
+      "source": "Wikipedia: Chola (deposition 1279)"
+    },
+    {
+      "year": 1767,
+      "what": "Ayutthaya falls to Burma — Siam's capital destroyed",
+      "source": "Wikipedia: Ayutthaya (1767)"
+    },
+    {
+      "year": -700,
+      "what": "Monte Alban founded — Zapotec civilization rises",
+      "source": "Wikipedia: Zapotec (c.700 BC)"
+    },
+    {
+      "year": -18,
+      "what": "Baekje founded — one of Korea's Three Kingdoms",
+      "source": "Wikipedia: Baekje (18 BCE)"
+    },
+    {
+      "year": 668,
+      "what": "Silla + Tang destroy Goguryeo — Korea's Three Kingdoms era ends",
+      "source": "Wikipedia: Goguryeo (668)"
+    },
+    {
+      "year": 1240,
+      "what": "Sundiata takes Ghana's capital — Mali Empire rises",
+      "source": "worldhistory.org: Ghana Empire (1240)"
+    },
+    {
+      "year": 1470,
+      "what": "Inca conquer Chimu — Chan Chan falls",
+      "source": "Wikipedia: Kingdom of Chimor (1470)"
+    },
+    {
+      "year": 1478,
+      "what": "Ivan III annexes Novgorod — Moscow unifies Russia",
+      "source": "Wikipedia: Novgorod Republic (1478)"
+    }
+  ]
+}

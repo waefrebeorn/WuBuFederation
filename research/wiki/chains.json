@@ -1,0 +1,4528 @@
+{
+  "population_decline": {
+    "question": "population decline progeny death loop birth rate collapse anthropology",
+    "chain_length": 12,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Population_decline",
+        "hop": 2,
+        "hash": "e9496a66fd98eccdae7e45eae368c62fe11c2ca2b2eaa6756072ce444a223793",
+        "title": "Population decline"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_consequences_of_population_decline",
+        "hop": 2,
+        "hash": "520ac812fdc71ae5fd20cf61731b45a2b61723f1baadf9a05a284022e0f81f5b",
+        "title": "Economic consequences of population decline"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Decline_in_insect_populations",
+        "hop": 2,
+        "hash": "e2f721e8d386e7df47ae56b7bacb5f9503e8c706b7d4c761f5c43853c5e8b525",
+        "title": "Decline in insect populations"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/White_demographic_decline",
+        "hop": 2,
+        "hash": "e68c9466756a7a397880c0643357a0de9a0c75904d334beca087c2b4a0bfb253",
+        "title": "White demographic decline"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Family_policy_in_Japan",
+        "hop": 2,
+        "hash": "6fc01c2eb81b51a71313999c57705dfa5beb59ab73706a246544718895800ab1",
+        "title": "Family policy in Japan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zoroastrian_population_decline",
+        "hop": 3,
+        "hash": "3d5f904d097b38ebbf687e0ab1b169f7f49d576fe9b902d40de4eaef0d64b5e9",
+        "title": "Zoroastrian population decline"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/World_population",
+        "hop": 3,
+        "hash": "d6d93737fd7eb44cbe131f6cf09a31053823775933ca38ca2c2c46e7d8fa723f",
+        "title": "World population"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aging_of_the_United_States",
+        "hop": 3,
+        "hash": "f23cdf39149df27f96a5a2b002589602c00fab3abdd237b1f945cd6e498d4661",
+        "title": "Aging of the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Human_population_projections",
+        "hop": 4,
+        "hash": "0a19db71805222a3651635a4e0b23981e147a4d8bb7ae8af0cb91b02d573d3ee",
+        "title": "Human population projections"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Decline_in_amphibian_populations",
+        "hop": 5,
+        "hash": "6084f300137e970c6cb30c86d4834940d6c57a223f84ef8c9b5b7840ea735a21",
+        "title": "Decline in amphibian populations"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Organization_of_the_Black_Sea_Economic_Cooperation",
+        "hop": 6,
+        "hash": "a730f8b12249f4d0b0a08c650bc1a6c11d4c763342eea5ce203548139129aee4",
+        "title": "Organization of the Black Sea Economic Cooperation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eurasian_Economic_Union",
+        "hop": 6,
+        "hash": "b24af6a888b9ba71c65a2512b0772a627c85f854807997425ff20d527743f3ae",
+        "title": "Eurasian Economic Union"
+      }
+    ],
+    "timestamp": 1789432174.8587277,
+    "page": "/home/wubu/copy_government/research/wiki/pages/population_decline.md"
+  },
+  "base_economy": {
+    "question": "basic economy level one homeless entry bottom level jobs education",
+    "chain_length": 11,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Green_economy_policies_in_Canada",
+        "hop": 2,
+        "hash": "c62ee348836c6f91b770ecc02b216449bb320aa89099f9af3d61543f3000317f",
+        "title": "Green economy policies in Canada"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fiscal_policy",
+        "hop": 2,
+        "hash": "f875e2de9309ae908d9c8ca2763781dc7967a94a278f49962c2de0d5baa44ffa",
+        "title": "Fiscal policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_policy",
+        "hop": 2,
+        "hash": "ec9cfd1ccbbc64bab3c57c6e5d5fd0cc4e2de64752193c7e8f5f7eee10d98a94",
+        "title": "Economic policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ministry_of_Economy%2C_Trade_and_Industry",
+        "hop": 2,
+        "hash": "e21dc8096dd9b0ecaf4f5aa4e0e74724c5bb0bd7eaccb4b7a3b551aa4d50abcd",
+        "title": "Ministry of Economy, Trade and Industry"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dirigisme",
+        "hop": 2,
+        "hash": "a7be8627057b48e8cc8dff76542fe11a3c609d8aa455af1a3da09c0b74c235a7",
+        "title": "Dirigisme"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Education_in_the_United_States",
+        "hop": 7,
+        "hash": "df6e2b3a177effad1a5d26bf676277cc762dccac7a3174c3e49162aadd76b080",
+        "title": "Education in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Education_in_South_Africa",
+        "hop": 7,
+        "hash": "f91b796fcc792575b3919cbe5374fe383e9a86baaadf0d13fe2ef9a53760befd",
+        "title": "Education in South Africa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Digital_divide",
+        "hop": 7,
+        "hash": "0d2a6d918ab04575dda0415b3b02ebb5ceaab4dfef9205b4540448b0d6ac29e4",
+        "title": "Digital divide"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Unemployment",
+        "hop": 7,
+        "hash": "994152eabc772ff4bbe26e9f636b2ef366aa117aa72a18db5a53a75ab8b2b915",
+        "title": "Unemployment"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_history_of_the_United_States",
+        "hop": 7,
+        "hash": "a710fc325e46d884662c4bbd1f6476ab3f7fb89db64a819569a5bd2767ffee57",
+        "title": "Economic history of the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Illegal_immigration_to_the_United_States",
+        "hop": 7,
+        "hash": "02e6c3b31ddc0754b17ef49c050ceadc4a7ea3deb7de701beb61d4ac98b576bb",
+        "title": "Illegal immigration to the United States"
+      }
+    ],
+    "timestamp": 1789432194.1975768,
+    "page": "/home/wubu/copy_government/research/wiki/pages/base_economy.md"
+  },
+  "token_banking": {
+    "question": "token ledger public ledger banking cooperation global finance",
+    "chain_length": 15,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Blockchain",
+        "hop": 1,
+        "hash": "f57f5ee7e86b3a61cf7c67ea3ecdc88f600722a326e332e2d5f52feaa2821f19",
+        "title": "Blockchain"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cryptocurrencies_in_Europe",
+        "hop": 1,
+        "hash": "667245101692d73e3597e88a3e53b3308da6e42408d11d4def681d3c356473c1",
+        "title": "Cryptocurrencies in Europe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bankruptcy_of_FTX",
+        "hop": 1,
+        "hash": "52b0e89dde02caf9a89bebe6780461b0c70602a45a113af735956c6131ffbf5d",
+        "title": "Bankruptcy of FTX"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Financial_technology",
+        "hop": 1,
+        "hash": "69996f9f037c9c871198b979185b34d8d30fa3695bd30d5fdcfa85acd032f39e",
+        "title": "Financial technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Digital_rupee",
+        "hop": 1,
+        "hash": "7ef72ef396dbfe5a67e4a1ad10bff179a9ed04b2e0e25804c7a6bd1fcaa905de",
+        "title": "Digital rupee"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/European_Banking_Authority",
+        "hop": 6,
+        "hash": "dcca2cc64e3757ca0290aca48bb7f688ab86c961562df555b6d2b2fee9f0e368",
+        "title": "European Banking Authority"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Banking_in_the_Soviet_Union",
+        "hop": 6,
+        "hash": "e5687e6a455086e4363ef68190a29d58e1ca0187f2e6673bae87e00b746b73c7",
+        "title": "Banking in the Soviet Union"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Association_of_African_Central_Banks",
+        "hop": 6,
+        "hash": "47e907aeaccfe8a9f42d457f6e8fee167f4d090c959388322e02e330bc17c42a",
+        "title": "Association of African Central Banks"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Non-fungible_token",
+        "hop": 7,
+        "hash": "d0796c9bb86a3e3d996270fb6f357e9d5b4267a284aa5d6c0da7d424f0f5e262",
+        "title": "Non-fungible token"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_banking",
+        "hop": 7,
+        "hash": "c82e7ec8bdb006cb50676a1abe776e5dd4455d5651ad9a0df309c7ef52493656",
+        "title": "History of banking"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Decentralized_finance",
+        "hop": 7,
+        "hash": "d8053e055ad994710314e6047d8c8e94b93545746421834a6d36c3a9df3b3f15",
+        "title": "Decentralized finance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Galaxy_Digital_%28company%29",
+        "hop": 7,
+        "hash": "12264cb34d69aaee77910ebe0b9bcdd56ebcc79da0a689c4aaf9cd274ebaa242",
+        "title": "Galaxy Digital (company)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/GENIUS_Act",
+        "hop": 7,
+        "hash": "3389b90143a95d96899b6103c2ae2d40fe4bbce4d3d2f31d54723549c700b0bc",
+        "title": "GENIUS Act"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cryptocurrency_and_crime",
+        "hop": 7,
+        "hash": "60d2cda5de11a071f788846eaa4a36e89be27b4b90e765ebef9620a4477758d6",
+        "title": "Cryptocurrency and crime"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Scam_center",
+        "hop": 7,
+        "hash": "8d8c94ed4d82b731a3782e23d7f48b48a8953e8339e4079109183026275fb041",
+        "title": "Scam center"
+      }
+    ],
+    "timestamp": 1789432207.169873,
+    "page": "/home/wubu/copy_government/research/wiki/pages/token_banking.md"
+  },
+  "identity_onboarding": {
+    "question": "identity onboarding process citizenship call to action engagement",
+    "chain_length": 20,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/United_States_strikes_on_alleged_drug_traffickers_during_Operation_Southern_Spear",
+        "hop": 1,
+        "hash": "5f9524041029b9138375a5d68696ffd89816622bac7796480b5ecfbdd8fb0900",
+        "title": "United States strikes on alleged drug traffickers during Operation Southern Spear"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Human_resource_management",
+        "hop": 1,
+        "hash": "6f5705310dbbe6472c3d2605fa88361423f7702752ede87a9faa0e5fe515906b",
+        "title": "Human resource management"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war_%282022%E2%80%93present%29",
+        "hop": 1,
+        "hash": "0324b641140e20643a1dc5f5f32fd9d20e76546b208765a84a96b3ffe4febdd7",
+        "title": "Russo-Ukrainian war (2022\u2013present)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_disability_rights_in_the_United_States",
+        "hop": 1,
+        "hash": "14d68ea561983c395bcf2ea1455cc5283775355ec1ac01acfe716d6c8560ee5a",
+        "title": "Timeline of disability rights in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_The_Weekly_with_Charlie_Pickering_episodes",
+        "hop": 1,
+        "hash": "fbc34585c747e33a009e4b18eafa14e71628dcdbb7f73fec32d3dd25efc851c3",
+        "title": "List of The Weekly with Charlie Pickering episodes"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Immuta",
+        "hop": 2,
+        "hash": "d51ede57b00e4b1ee32ad070a192eb0be24a0a874a541a1f9e17bf7be815d97b",
+        "title": "Immuta"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Docs_%28software%29",
+        "hop": 2,
+        "hash": "325070631a0a0565b0a5fa52d0e50128599a5eb24f5cceb88a9e5521bdf0f657",
+        "title": "Docs (software)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Government_Gateway",
+        "hop": 2,
+        "hash": "c6830a9afc47712383bcbdcbb63d0d98a17d2444661dcee924784bfb3f59849f",
+        "title": "Government Gateway"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Know_your_customer",
+        "hop": 2,
+        "hash": "9eec4dd319702c4114f8051f2e24216c68849b0f9ead8eb6c3ab98883e5cb975",
+        "title": "Know your customer"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/LiveRamp",
+        "hop": 2,
+        "hash": "8285d85737b2e02a5edcbe45395aac2f1445fc6131fb17da9e85dc3343b443e2",
+        "title": "LiveRamp"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/People_Operations",
+        "hop": 3,
+        "hash": "e882b0277e43275ee885946ba136014e7bb4f4bef4bb6ee03c04f20af3592d5c",
+        "title": "People Operations"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nagad",
+        "hop": 3,
+        "hash": "101e37df65492715b668ca78159faf0bf16b968137b27bbb9c41f0f36f5ffc94",
+        "title": "Nagad"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Majed_Moqed",
+        "hop": 3,
+        "hash": "2e34f656a11c12189cf447bde9bd6b0179931480121784626b0608c9f37bd674",
+        "title": "Majed Moqed"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/El_Al",
+        "hop": 3,
+        "hash": "8df9eea31607b188dcfaddf9830b3e3c2467c02d7630de7f056f9a0250520f8f",
+        "title": "El Al"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Onboarding",
+        "hop": 4,
+        "hash": "a5c8a31f96484eeb589d38b2b84291d0b9ebbb6acdd3f8d76078d72c3d8f6872",
+        "title": "Onboarding"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AU10TIX",
+        "hop": 4,
+        "hash": "8f83abe84a6fca31c3fd890e439de9ef33cedc189bde4d80bffaff8b84afd65b",
+        "title": "AU10TIX"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/First-time_user_experience",
+        "hop": 4,
+        "hash": "9f63399b3d7b8fee486a396874c0331da22cb1508bd67c77f9e0a951a99cc20f",
+        "title": "First-time user experience"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Data_onboarding",
+        "hop": 5,
+        "hash": "9f1575315be0ed6ba5e5d8749e958c179a9c39e8a511b29b05731173ed1d0877",
+        "title": "Data onboarding"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Persona_%28identity_verification_service%29",
+        "hop": 5,
+        "hash": "6072e66594e371d88700a0fd6406a220653ecfd9c37a725a5cec235c1ddde040",
+        "title": "Persona (identity verification service)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Trulioo",
+        "hop": 5,
+        "hash": "fd1aa5e01c9a969c732057ba3a121b32de0ed56a108cd783f52e53f4700e3677",
+        "title": "Trulioo"
+      }
+    ],
+    "timestamp": 1789432218.568261,
+    "page": "/home/wubu/copy_government/research/wiki/pages/identity_onboarding.md"
+  },
+  "religious_cooperation": {
+    "question": "religious entities cooperation government secular interfaith dialogue",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Religion",
+        "hop": 1,
+        "hash": "e94c3aa8ebe39972681139f167944878255e008cef31881239ca50afaba68a00",
+        "title": "Religion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+        "hop": 1,
+        "hash": "46b4018f8dcecc56a16b99efb9589ff51f2d21b2ff9363769aef7e899d51b4a1",
+        "title": "14th Dalai Lama"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Separation_of_church_and_state",
+        "hop": 1,
+        "hash": "bde2961c5c95c3c80329c186b2e91a66ea7f04fa4b8c3b16553300ed068745ea",
+        "title": "Separation of church and state"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nostra_aetate",
+        "hop": 1,
+        "hash": "421e67b405680d14c0313d3e29ef54c902dfb9358a1345873fefe276a66a79e9",
+        "title": "Nostra aetate"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fethullah_G%C3%BClen",
+        "hop": 1,
+        "hash": "0fe4d7c2e2fbf97977ab1899c16d40ec5024293b8569778f6ed64800ba7b49c9",
+        "title": "Fethullah G\u00fclen"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Directorate_for_cooperation_with_churches_and_religious_communities_%28Serbia%29",
+        "hop": 2,
+        "hash": "a3d0f19f07f0e54f92af982230cbca78b295d1a9014ea861a3ca60cf620e44ce",
+        "title": "Directorate for cooperation with churches and religious communities (Serbia)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs%2C_African_Cooperation_and_Moroccan_Expatriates",
+        "hop": 2,
+        "hash": "1d03b3a5a378f4dadcc42ac63c52dce825061c11b04bd445bcd12bae0d6332d7",
+        "title": "Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/European_Union",
+        "hop": 2,
+        "hash": "0eafb6a00617205adb29398d07dd276e7a117cbbe5e105b15728c972580b3765",
+        "title": "European Union"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation",
+        "hop": 2,
+        "hash": "1e591044650a7ec57d0d7887dd2fdef736a89f95014e14881773d6b7a65c97f4",
+        "title": "Shanghai Cooperation Organisation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Accommodationism",
+        "hop": 2,
+        "hash": "4e15e5fe0cb2d75430cd08bf01c0810d4867b6f1c8540e3ca8c6086e4afd1c1b",
+        "title": "Accommodationism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics_of_religion",
+        "hop": 3,
+        "hash": "04a071b3daf5fb12ad82b227ebf6f72dde1e0dc652a4ce7f4972a98a71caf02d",
+        "title": "Economics of religion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Masudul_Alam_Choudhury",
+        "hop": 3,
+        "hash": "ab86bec3d01b43b3a538a3d5777d1e72a3dc36ef2833925034bc3aed96f208b7",
+        "title": "Masudul Alam Choudhury"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/University_of_Kirkuk",
+        "hop": 3,
+        "hash": "a88db5ad8bdd0e0a9a66745425eaccceb8481108cb178beca7c78e5c351c2a9b",
+        "title": "University of Kirkuk"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Participatory_economics",
+        "hop": 3,
+        "hash": "301561591c0e77923c2ecbc87bb1ef57e280c81c7ed79f06aa3f6314a6d89a6b",
+        "title": "Participatory economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Influencer",
+        "hop": 4,
+        "hash": "7443e8a88f4b830e4c7e3826438d469421e7d0da3edd0efc05cb2a2d8749e567",
+        "title": "Influencer"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Washington_Office_on_Latin_America",
+        "hop": 4,
+        "hash": "45ad36c8222c0afb8c7e193b0d056e2b75c88a89e9abdfc0df5e7fc6fa688115",
+        "title": "Washington Office on Latin America"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pentecostal_Fellowship_of_Nigeria",
+        "hop": 4,
+        "hash": "78ab6c32e87ef2b8b15739f254b97dd904b3367b9de3c3a889eed712b1c6457c",
+        "title": "Pentecostal Fellowship of Nigeria"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Organisation_of_Islamic_Cooperation",
+        "hop": 5,
+        "hash": "c33562f6d17c814846f4e2cd2f45b4ed51bfad074f214091cce1a8f7ad411177",
+        "title": "Organisation of Islamic Cooperation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_Organisation_of_Islamic_Cooperation_organisations",
+        "hop": 5,
+        "hash": "41e7c1c06c5351e21f4c7612acd2229f881e495bfae18f5e39b6508a1f20dcdc",
+        "title": "List of Organisation of Islamic Cooperation organisations"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/State_Administration_of_Science%2C_Technology_and_Industry_for_National_Defense",
+        "hop": 5,
+        "hash": "2bd1ac7f5d8f9f96618526d0c92a049b02bd901c71a51f56c5eb1606e74262ab",
+        "title": "State Administration of Science, Technology and Industry for National Defense"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ghana",
+        "hop": 5,
+        "hash": "4e9099f60c3944433fb85a8225965281839beb9ef7176f232cb0eca3f7aa8793",
+        "title": "Ghana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "hop": 5,
+        "hash": "7d51955c38f977facd27c301319be7b7eecf8e256f3ad8e6f30681833d7f799b",
+        "title": "Saudi Arabia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/China_International_Development_Cooperation_Agency",
+        "hop": 6,
+        "hash": "b0d98a47f0c932700d7117ac54ff994945fef43a1547383bb528022565929985",
+        "title": "China International Development Cooperation Agency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Liberalism_%28international_relations%29",
+        "hop": 6,
+        "hash": "3531c7f29eab79d33f293da34799d42544db0e63698be3f012a5a121caf6f2d0",
+        "title": "Liberalism (international relations)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Islamic_Summit_of_the_Organisation_of_Islamic_Cooperation",
+        "hop": 6,
+        "hash": "e6b75e72206948767359552f9a00fdf88f797ecb1ada8b1a37925c5fa17df759",
+        "title": "Islamic Summit of the Organisation of Islamic Cooperation"
+      }
+    ],
+    "timestamp": 1789432470.5360353,
+    "page": "/home/wubu/copy_government/research/wiki/pages/religious_cooperation.md"
+  },
+  "call_to_action": {
+    "question": "call to action public engagement participation motivation design",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Motivation",
+        "hop": 1,
+        "hash": "ba894ab21ba8f71ca8719bda865d8f24f2d87bca81326facb3ee699e516ea399",
+        "title": "Motivation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_participation",
+        "hop": 1,
+        "hash": "234da42f585d397e1774c336c5b673a152a5a75d69bdef22e4ffa82f0591044e",
+        "title": "Public participation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Work_motivation",
+        "hop": 1,
+        "hash": "a347ff8176544c1b00890f39103e4069d56bc0cfc59924adf58dec4e201f5566",
+        "title": "Work motivation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gamification",
+        "hop": 1,
+        "hash": "25062f7e7e0e31dd0571c1cf6fd15e95210fe1eddf376d7ea5eca01396d5d8c2",
+        "title": "Gamification"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Patient_and_public_involvement",
+        "hop": 1,
+        "hash": "90779707a45000a423063b1f8ab96eb8595d9222e3405621a04c9d025b2f67cf",
+        "title": "Patient and public involvement"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_policy",
+        "hop": 2,
+        "hash": "324ed35ee92f9ab7a4a386aba3935226ee266e674a3f65c7631e44abc3b2c394",
+        "title": "Economic policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Evangelical_Climate_Initiative",
+        "hop": 2,
+        "hash": "8566ab26b8e007894525287c234e8b35f4adde629218c4e5148bfd976a45cac4",
+        "title": "Evangelical Climate Initiative"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Affirmative_action_in_the_United_States",
+        "hop": 2,
+        "hash": "3bb1d829e958923d719b46ac0af6ebe5fed3fa784c1154cdf48f2eb4ba773d34",
+        "title": "Affirmative action in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Policy",
+        "hop": 2,
+        "hash": "748bd430997b9639d2a65c3167a5dfc7ac2fc830497119671fe2c281a7e6d891",
+        "title": "Policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AIPAC",
+        "hop": 2,
+        "hash": "0d8c188874c7a92e03f10cde8c1f63cda0221191f34636f44b8d7cfad6fd6915",
+        "title": "AIPAC"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics",
+        "hop": 3,
+        "hash": "aff1128d03d32f999bb5d860022988cbfc08499ad6a6f9f749ad842b9a039de5",
+        "title": "Economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Praxeology",
+        "hop": 3,
+        "hash": "dd019431e20e46c31003c703104fc958b68f41af8390cc97e27fd1afcf0395eb",
+        "title": "Praxeology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Direct_action",
+        "hop": 3,
+        "hash": "3aec3396db6da0e79f701f5aa14454578bd899e5f7e343bab668d1270d9b8a8c",
+        "title": "Direct action"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Margin_Call",
+        "hop": 3,
+        "hash": "b51e91a11c3860ddd07455f9723976223ede2b6da2a47671ce7628d721a5e595",
+        "title": "Margin Call"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Death_by_China",
+        "hop": 3,
+        "hash": "092bae1633fecec88a8ab28a8cd57a6455ff27e8a40a9b2915bf2afd4b9e47b9",
+        "title": "Death by China"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_media",
+        "hop": 4,
+        "hash": "71e3b388109ffcecbb0bd39af757d25a9092fc3401fcbd4a567966095f179ae6",
+        "title": "Social media"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_impact_bond",
+        "hop": 4,
+        "hash": "8c44b21045a9a57dddc5a56262655436ecc27c887ecb9886eb9149a0ee42382e",
+        "title": "Social impact bond"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_return_on_investment",
+        "hop": 4,
+        "hash": "1786ff30672817a1177188525329c2304b89c845f9f12f03f3e4d0eac85c6637",
+        "title": "Social return on investment"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Collective_impact",
+        "hop": 4,
+        "hash": "de62faadf408a007c13cc3c5974c5cab6de98cb6914fc907b610d1a9ae846762",
+        "title": "Collective impact"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/TNA_World_Tag_Team_Championship",
+        "hop": 4,
+        "hash": "5df866cf629d8c331c1a653155a85cebd284d8e2e19dd9f6900792467eb4a1b5",
+        "title": "TNA World Tag Team Championship"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Call_of_Duty",
+        "hop": 5,
+        "hash": "ca022d2aafdff178dedd87c27ce0e28c2afe89f38c84dd924b682fc164a8db44",
+        "title": "Call of Duty"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/DJI",
+        "hop": 5,
+        "hash": "37a8a8db43dd5f2a0e87a6fa8de744123d0176e7723d7c8eadf1154595ab6ef2",
+        "title": "DJI"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Black_Ops_6",
+        "hop": 5,
+        "hash": "d260bd0b51d2bc802f7c99fe1ce63df182de22e849d50a82b485865bda110950",
+        "title": "Call of Duty: Black Ops 6"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Action_film",
+        "hop": 5,
+        "hash": "71a315e3442963f565435d1fd718ae90415c9dd2cde9758533bb7cf0a3c8d1dd",
+        "title": "Action film"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Christchurch_Call",
+        "hop": 5,
+        "hash": "b91e2ef59e802d9f4460b9aa68830bb565f72029d69a8dd8cb030e55b06fb373",
+        "title": "Christchurch Call"
+      }
+    ],
+    "timestamp": 1789432479.0793593,
+    "page": "/home/wubu/copy_government/research/wiki/pages/call_to_action.md"
+  },
+  "anthropological_preservation": {
+    "question": "anthropology cultural preservation meme propagation intergenerational transmission",
+    "chain_length": 10,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Outline_of_academic_disciplines",
+        "hop": 3,
+        "hash": "1426a412b494b749adab6166b4b25f6792e1c63d8d1456ad744ff6d4db248c42",
+        "title": "Outline of academic disciplines"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cultural_anthropology",
+        "hop": 3,
+        "hash": "2323051d2af4bf9fc045e5fcfc01df1b24defc2e1902e5b6424d5c0e42685c39",
+        "title": "Cultural anthropology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Historic_preservation",
+        "hop": 3,
+        "hash": "c5a945ea3b8deedef5bfa38d2654c26665c6df6de8da02390b7ec48663917306",
+        "title": "Historic preservation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Historical_anthropology",
+        "hop": 3,
+        "hash": "0f24c224172cd3016e9e0519ae920426c1f6f76199dc06b68b46c8230c3fbfe2",
+        "title": "Historical anthropology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_economic_thought",
+        "hop": 3,
+        "hash": "989f83e5db31c31ef4003b7397f2681129ea5d86d38617f37e3a92504e6694c9",
+        "title": "History of economic thought"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Material_culture",
+        "hop": 7,
+        "hash": "bc4eea60cfd04836aad17c2fd8943f39513d5aec9f42fcb535fe9d7c72184770",
+        "title": "Material culture"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Traditional_knowledge_GIS",
+        "hop": 7,
+        "hash": "68de80cad4f985efa025e294a4f21673cac7b5c980ccc69cc0f1d1e4bc68fbc8",
+        "title": "Traditional knowledge GIS"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Conservation_and_restoration_at_the_Smithsonian_Institution",
+        "hop": 7,
+        "hash": "e4ebbfd311c6d5b98f99ccf0ae8a161f8fbc93bb77a0b31c904e2778daa64d3f",
+        "title": "Conservation and restoration at the Smithsonian Institution"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Archaeology_of_childhood",
+        "hop": 7,
+        "hash": "5bfa67d2f51e58bb88a79a7b5907fa69464ad4276fd1816968d358eede76128a",
+        "title": "Archaeology of childhood"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Field_Museum_of_Natural_History",
+        "hop": 7,
+        "hash": "44d3719f3a5651e948ebf7b874c268d79ca895bad1521e12efb4d6a293260d7b",
+        "title": "Field Museum of Natural History"
+      }
+    ],
+    "timestamp": 1789432496.158653,
+    "page": "/home/wubu/copy_government/research/wiki/pages/anthropological_preservation.md"
+  },
+  "government_api": {
+    "question": "government API standards interoperability e-government digital identity cross-border",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/E-government_in_Europe",
+        "hop": 1,
+        "hash": "b1fed2859b3ac4098db15b04b915c0cdadf8e2e2c81d95c0557e8f35971a0e76",
+        "title": "E-government in Europe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+        "hop": 1,
+        "hash": "53cf89dba0fd292b1120af6ca86f6d8eb0b6f7dac02b71405f40f48bb7c30739",
+        "title": "Unified Payments Interface"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Department_of_Government_Efficiency",
+        "hop": 1,
+        "hash": "8a914c4ae3432bf36c76a4e1e8440a66ce1e3d50440678c1569da9ac46bdf28a",
+        "title": "Department of Government Efficiency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Computer_security",
+        "hop": 1,
+        "hash": "dcbe538672c636e51c0328e394d025b13ae3a6b88dd1fea67e4b22a2d25d9ffc",
+        "title": "Computer security"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/SMART_Health_Card",
+        "hop": 1,
+        "hash": "a4d27bb27f212712b07a521cb8842118d8937324a5e1b2c3c74a7537610847b1",
+        "title": "SMART Health Card"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alabama_Policy_Institute",
+        "hop": 2,
+        "hash": "e4765631ff9cbe77278ec85a28cd5b75450b0464ec1ec68e8e873fe96c38148f",
+        "title": "Alabama Policy Institute"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rival_government",
+        "hop": 2,
+        "hash": "a719e0bbd728bc19d994033018eab092760442f6a218033102dd03f9971d6101",
+        "title": "Rival government"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Council%E2%80%93manager_government",
+        "hop": 2,
+        "hash": "0a9c9262ace06e3b6fb57ceb25bb03622aba904474f839e0e5818954ccf744ce",
+        "title": "Council\u2013manager government"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Assyrian_Policy_Institute",
+        "hop": 2,
+        "hash": "3c98d76a6da3b9b47b31305eb27227c1f8a8b6325a0d4f6b82fa5a9aa3233be8",
+        "title": "Assyrian Policy Institute"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data",
+        "hop": 3,
+        "hash": "370bdeba83e734f79827cd38bfc2df90cbfe678d3e47b475e627dd3f49cb0327",
+        "title": "Federal Reserve Economic Data"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Soumaya_Keynes",
+        "hop": 3,
+        "hash": "4952ea8a99ddedc0ad06ab78773e407ea424abb77fb40b02057af426dfbd7fe6",
+        "title": "Soumaya Keynes"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/GPI",
+        "hop": 3,
+        "hash": "f26e0f264f545736af63c939b318dc30858e2dd158f9365002e2dec721c1e658",
+        "title": "GPI"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bureau_of_Economic_Analysis",
+        "hop": 3,
+        "hash": "136ab292459db8f36f16e41fedf4ccfd871f3b1e1081f96c78236aa20e2f8517",
+        "title": "Bureau of Economic Analysis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/X_%28social_network%29",
+        "hop": 4,
+        "hash": "c0080d793a2dc24bb85a7920886fd6132f75c083d154911ee5767759b0ee86e6",
+        "title": "X (social network)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2026_Southeast_Asian_haze",
+        "hop": 4,
+        "hash": "d99e0882b9626cbe9f594a59afb6f9b3be1a5e3d5782a5c694205c9c62bd02f6",
+        "title": "2026 Southeast Asian haze"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Apis_cerana",
+        "hop": 4,
+        "hash": "71fd2c1790ab24529a4330f64136d645791106efeb647f90925277f2455133d6",
+        "title": "Apis cerana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_media_measurement",
+        "hop": 4,
+        "hash": "bf01b1ec941618d54af6867101a561464f3d16733fb099f49b4917fdabc80911",
+        "title": "Social media measurement"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Web_API",
+        "hop": 5,
+        "hash": "b6779d0aca65e0334a75bc3a1bc012dcd489e0a9c23484abb053fb4c6714faf7",
+        "title": "Web API"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Google_Base",
+        "hop": 5,
+        "hash": "142c91f42166b736478b0860dd6077fc726ac6ff523612e72cb08f220f4427b3",
+        "title": "Google Base"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Open_banking",
+        "hop": 5,
+        "hash": "d65871ed4c9356963f804c3e40df8351ba2cea5a474f00ba4f262e612a00ca13",
+        "title": "Open banking"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/GPT_Image",
+        "hop": 5,
+        "hash": "aa7f397dffd53793fd4e44784a27660c24a34cb00ce8e6175fd109dd6af1af7f",
+        "title": "GPT Image"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Financial_technology",
+        "hop": 5,
+        "hash": "7df857e9699fe25440c0422fb94f52f759f87838aefba09a2c92ad2da514affc",
+        "title": "Financial technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Industri_Kereta_Api",
+        "hop": 6,
+        "hash": "d406a854db327148b8db1bd84b8590f2850ad10223980452f3fe3c348248916c",
+        "title": "Industri Kereta Api"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kereta_Api_Indonesia",
+        "hop": 6,
+        "hash": "6c1297104d47d9c02280125ee15beb787ee3336823dc32a87afdc41816884910",
+        "title": "Kereta Api Indonesia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ministry_of_Defense_%28Israel%29",
+        "hop": 6,
+        "hash": "66a989583a3467d8e2bb8d9547f24d5734566d44f9d85e78fea5f005e549fa75",
+        "title": "Ministry of Defense (Israel)"
+      }
+    ],
+    "timestamp": 1789432752.7724748,
+    "page": "/home/wubu/copy_government/research/wiki/pages/government_api.md"
+  },
+  "pseudoscience_engagement": {
+    "question": "pseudoscience engagement mystical whimsy transparency public participation design",
+    "chain_length": 13,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Knowledge_Systems",
+        "hop": 2,
+        "hash": "ae21292f723a15775de5546a7154b6512cbc8873053aaabc36276cda561c1456",
+        "title": "Indian Knowledge Systems"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Evidence-based_policy",
+        "hop": 2,
+        "hash": "23b6c68eff5b187ef81961a39730a1a296aafe9bdf48205b33734c7421056a0e",
+        "title": "Evidence-based policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ren%C3%A9e_DiResta",
+        "hop": 2,
+        "hash": "c66a362434091baf1220903b4e03f44a56041f3afa7a41c16cd7fc1468ed0bd0",
+        "title": "Ren\u00e9e DiResta"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Scientific_skepticism",
+        "hop": 2,
+        "hash": "4d5ce127703dea1b68e72286acefb32a951a906b48278d603ece63ffceaef903",
+        "title": "Scientific skepticism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Spamouflage",
+        "hop": 2,
+        "hash": "98b558ec5a73fb98c93c812f0b31e506dee0cb3807c6533b32b4a99dfd70db54",
+        "title": "Spamouflage"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ig_Nobel_Prize",
+        "hop": 3,
+        "hash": "ed6fbff250a1e12da3ede09d3224d46dc5a4b5615861892bf8f9b5b8a442ea30",
+        "title": "Ig Nobel Prize"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Communism",
+        "hop": 3,
+        "hash": "059808d12dd0e612fcdb89ac6cd5833772c4c3829d1dde5c5f56bb16929e1c14",
+        "title": "Communism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Science",
+        "hop": 3,
+        "hash": "8b831a4d726cfbaadabe9f24c29bc78f066b7eba731a072898133d8549d691ab",
+        "title": "Science"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_bot",
+        "hop": 4,
+        "hash": "724519de97f2d5d7034ab5a6ba40c89b1bce32f3182d6934107ce325eeeb16a8",
+        "title": "Social bot"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Science_communication",
+        "hop": 4,
+        "hash": "569d139ccba4b67e2b61aebb12cda12b9b87e67be1a05dc68dd28f39120fa533",
+        "title": "Science communication"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rudolf_Steiner",
+        "hop": 4,
+        "hash": "2ae8bfb587d123d1f8ebcc27a224cbd1c4ce3055481685651ee44d5587f9b5dd",
+        "title": "Rudolf Steiner"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Misinformation",
+        "hop": 4,
+        "hash": "2791b4d70cbebdaae0c5daa77b47035caae0b6b93f105d62560f5e01aa4ee993",
+        "title": "Misinformation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Critical_theory",
+        "hop": 4,
+        "hash": "4ec9daf382fb9e3fe96ec1a2d669cd384b236086df1742b71323532084615299",
+        "title": "Critical theory"
+      }
+    ],
+    "timestamp": 1789432833.515892,
+    "page": "/home/wubu/copy_government/research/wiki/pages/pseudoscience_engagement.md"
+  },
+  "gov_api_standards": {
+    "question": "government API standards interoperability digital identity cross-border e-government",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/E-government_in_Europe",
+        "hop": 1,
+        "hash": "c4bf596fad8aed345c436fba3b771fda01af7172c01791316382ee9338c88838",
+        "title": "E-government in Europe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+        "hop": 1,
+        "hash": "a90d5a74dda8db6b83e01bda67505baf252e99c697aaa900ec6dbc4fab1f617e",
+        "title": "Unified Payments Interface"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Department_of_Government_Efficiency",
+        "hop": 1,
+        "hash": "6babfa45ae457b9cd37b2a87ed6b93410317b28a4d93cd8c394435bf1fcec5de",
+        "title": "Department of Government Efficiency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Computer_security",
+        "hop": 1,
+        "hash": "a174717e52622374446b3ba051ad9c1e3931dba84cb3e9353dab50e9a2ea5729",
+        "title": "Computer security"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Internet_of_things",
+        "hop": 1,
+        "hash": "d5e3733e1ce9d92a679026b7898c1e5693658ae5ff073dc38fee78126706f92c",
+        "title": "Internet of things"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Open.data.gov.sa",
+        "hop": 2,
+        "hash": "4b5a95e5205c6e09c6c6940b6687b939721ff253c5da616524e2b14f6e706c1e",
+        "title": "Open.data.gov.sa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Energy_Policy_Act_of_1992",
+        "hop": 2,
+        "hash": "f3fc1a030c6109f1b05fc6fb1d5f5bf19053fc46d82c6cacebb94ce483bd0ca1",
+        "title": "Energy Policy Act of 1992"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Data.gov",
+        "hop": 2,
+        "hash": "0032a54b4203c1c091d83e95b1c72bc58a38455bf8472b7870c1b7d4bc127b1a",
+        "title": "Data.gov"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Open_standard",
+        "hop": 2,
+        "hash": "cd9b390f243e54061063bf824b4e864cb6b05b4cb73fcea5a0f38c20e1781a15",
+        "title": "Open standard"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Open_finance",
+        "hop": 2,
+        "hash": "b5f9ff0e6d99ad48ccc74cd52d63e3da7794fde94768e8692e11cca83cc6a7d3",
+        "title": "Open finance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Real_Estate_Transaction_Standard",
+        "hop": 3,
+        "hash": "ca00d84d0d2704f0700ba7d7bcd9d358f328f29935cb2ce0abce6d0e4b16523c",
+        "title": "Real Estate Transaction Standard"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Privacy_Sandbox",
+        "hop": 3,
+        "hash": "b0e35687bdb9ba63743e671673e56ca185f9bcd06c1c5d9e2e2e8cbe47d1de5a",
+        "title": "Privacy Sandbox"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Losartan",
+        "hop": 3,
+        "hash": "c608a1ad261dbd88f870485c5e6b0946cae9a00983ee08b753636ccd4933d342",
+        "title": "Losartan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Financial_technology",
+        "hop": 3,
+        "hash": "f787a0a79efd4d1dc03ab8e6fe7f10a4aa17708a27d276e57e03f2a1fc956a28",
+        "title": "Financial technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+        "hop": 3,
+        "hash": "85ec697c17faa336d35819553a6004436e2740dabaa755c1c7fc1195afb4cbda",
+        "title": "Gross domestic product"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Instagram",
+        "hop": 4,
+        "hash": "8655ca5e1876a6da58148e2a61763364cc3e6738d68f1be973d71b8dbf0b82e7",
+        "title": "Instagram"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Online_age_verification_laws_by_country",
+        "hop": 4,
+        "hash": "03da6b82efb4a196e35a26ee9d1635d7daec1a5e45f981efd5b4b5d6b6d2cf01",
+        "title": "Online age verification laws by country"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Facebook",
+        "hop": 4,
+        "hash": "5846c8b2eae1c8f37c65e3184885871a38d019fb493409db7aa85f2d59a9a6d5",
+        "title": "Facebook"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Computer_accessibility",
+        "hop": 4,
+        "hash": "ac02b910e875c27d43c0503709dcbd5fa39b7c6c1cfbd87e33613c8a40f21b73",
+        "title": "Computer accessibility"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Protean_eGov_Technologies",
+        "hop": 5,
+        "hash": "a6120db5e594911a01cb4412df6f93b81f547a72e2d4f4a832cc87b0ab5669a2",
+        "title": "Protean eGov Technologies"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/USAspending.gov",
+        "hop": 5,
+        "hash": "b7ce6289e66a6e2adeee8410c91afbbdaccdeb8430e933d5b8ea26947960be54",
+        "title": "USAspending.gov"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/TechPort_%28NASA%29",
+        "hop": 5,
+        "hash": "a2abdbee76f6ea8e4c3ea4afc820eeecc78ce2cdd2d9c1ed3b9fd856f7518f45",
+        "title": "TechPort (NASA)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources",
+        "hop": 6,
+        "hash": "80a4443a22d5fd3e93eb1ad38bb9d17d86c88f0d613dc5fa43c163320d721fd1",
+        "title": "Fast Healthcare Interoperability Resources"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/JavaScript",
+        "hop": 6,
+        "hash": "a9f436572993f20c7d94159ea2d0aa55591bc95f6647977f34ad3d8a2a0637f1",
+        "title": "JavaScript"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_Kingdom_and_the_International_Monetary_Fund",
+        "hop": 6,
+        "hash": "393f378e8dc22dfb5281be17476437a926048ea3e28d91f51eba15f7adf5d1f8",
+        "title": "United Kingdom and the International Monetary Fund"
+      }
+    ],
+    "timestamp": 1789437002.0840263,
+    "page": "/home/wubu/copy_government/research/wiki/pages/gov_api_standards.md"
+  },
+  "token_ledger_proof": {
+    "question": "token ledger proof of work blockchain consensus mechanism verification",
+    "chain_length": 19,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Proof_of_work",
+        "hop": 1,
+        "hash": "92f499174bdb572acaa358bb03c89566463f6165b67211d8ee5f36a6a408f0da",
+        "title": "Proof of work"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Blockchain",
+        "hop": 1,
+        "hash": "0941ef87ce2854c4805394a17472c500aafcad52609d5b6e616e47fb7dd319d5",
+        "title": "Blockchain"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Solana_%28blockchain_platform%29",
+        "hop": 1,
+        "hash": "7d6bff24241cafd365cc805bd673783e7a845b73b89fee703f6bbcb26fe81341",
+        "title": "Solana (blockchain platform)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Proof_of_stake",
+        "hop": 1,
+        "hash": "356c442f6ba9dc4c3694c3fcba96098513b860d6c0522f6a2b87ed78ab2b4c4b",
+        "title": "Proof of stake"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ethereum",
+        "hop": 1,
+        "hash": "3445202ebf1cfdbda30b6a41dd41fae94321bccbf01a2aa772930978c11cce01",
+        "title": "Ethereum"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cryptocurrency",
+        "hop": 2,
+        "hash": "34a12c4ae6d135858c62b9d718623576fd08a0a8665dce3ae658099f038cefcb",
+        "title": "Cryptocurrency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bitcoin",
+        "hop": 2,
+        "hash": "65723166304fb5039b9fef87a58d83cdea5afb3a698943337e03727c215ecea5",
+        "title": "Bitcoin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ethereum_Classic",
+        "hop": 2,
+        "hash": "7dab4b5cbd41cb3d6c7a72ac81bd143dd7dc0df69f3b9c1a8038f66ec45f3324",
+        "title": "Ethereum Classic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%24Trump",
+        "hop": 2,
+        "hash": "0c7702014fb223a2f9e231b111ff1e8242c71ad346234f6e61922f51cb4e0a67",
+        "title": "$Trump"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cardano_%28blockchain_platform%29",
+        "hop": 3,
+        "hash": "5628da7c9ac3415fa7017a92be25e59d2381d35dd42df789bc5937761111abec",
+        "title": "Cardano (blockchain platform)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Non-fungible_token",
+        "hop": 4,
+        "hash": "b766a9e563a10453c16d7f7e2b5c6c625829d863d1b621002b8879b2c479b04f",
+        "title": "Non-fungible token"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bitcoin_protocol",
+        "hop": 4,
+        "hash": "fce74e79ae008a902f2edf8b9049f14643cd92b1d9f57597ec44de882f708369",
+        "title": "Bitcoin protocol"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/XRP_Ledger",
+        "hop": 5,
+        "hash": "2c4e3dbffd1b3f5d54151e0844373bc7573a55a9b05081196df6134dc207b30f",
+        "title": "XRP Ledger"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Distributed_ledger",
+        "hop": 5,
+        "hash": "e4a4676ec267fcae9e0cafd71e529d4c09813c5b358bf3a99e015d36a44de6a7",
+        "title": "Distributed ledger"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Complementary_currency",
+        "hop": 6,
+        "hash": "2aa82047f3eedb554c8ce83a537c27f4b297bb103e98c9d4739e08b24fcbe24c",
+        "title": "Complementary currency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dogecoin",
+        "hop": 6,
+        "hash": "2633b6cc52096067bc9706c0534c505c4f8bc0b6643fb7a28dc1079a0f453d4b",
+        "title": "Dogecoin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cryptocurrency_and_crime",
+        "hop": 6,
+        "hash": "0bf27f64d72c46ff76eb89b8c235226aa8f27ecad61d8e05b4133d4822973cc7",
+        "title": "Cryptocurrency and crime"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Scam_center",
+        "hop": 6,
+        "hash": "85baa57fc4b30acd36a5339461b02b68850db8c742efc230c52c23b6ffd71fa6",
+        "title": "Scam center"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zcash",
+        "hop": 7,
+        "hash": "908477d81841a5002bfb210caade7969365ceb9400df1f1f56e43c95e8a15384",
+        "title": "Zcash"
+      }
+    ],
+    "timestamp": 1789437126.2630756,
+    "page": "/home/wubu/copy_government/research/wiki/pages/token_ledger_proof.md"
+  },
+  "banking_cooperation_tech": {
+    "question": "banking API cooperation technical specification ISO 20022 CBDC interoperability",
+    "chain_length": 21,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Open_banking",
+        "hop": 2,
+        "hash": "e497cde70283b8c4598447286ae3e575a798f6df7db2a25d94ca99451d2a8e04",
+        "title": "Open banking"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Banking_in_India",
+        "hop": 2,
+        "hash": "cda66ec8f37ebba334fdf67e8c012b9ae33c99e61a9112eff4f89000f05df7ed",
+        "title": "Banking in India"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Banking_in_Bangladesh",
+        "hop": 2,
+        "hash": "5c3f917441d2957daca32888c0ee1df706bc8d4d6fb863485e33ac975c558fc7",
+        "title": "Banking in Bangladesh"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cooperative_movement_in_India",
+        "hop": 2,
+        "hash": "492c00f822ad3cea8d8cedba7765606cfd32be7416f5bae9e569fd09cd1fd3ad",
+        "title": "Cooperative movement in India"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bank_of_Canada",
+        "hop": 2,
+        "hash": "6ac21ca4dbeb23f91ff2f7ad8d30bb79f28399d5d9b2b81bb27866493df9ff45",
+        "title": "Bank of Canada"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Islamic_banking_and_finance",
+        "hop": 3,
+        "hash": "c4f88a06d0454a1847971372b4c821d03666af93fa53a8ea6c7a4fb9df47ba23",
+        "title": "Islamic banking and finance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dongbei_University_of_Finance_and_Economics",
+        "hop": 3,
+        "hash": "78816cec29d2148e4492a172cd86db9f1e936093a12a7e61140c44dcc2b4c27d",
+        "title": "Dongbei University of Finance and Economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics",
+        "hop": 3,
+        "hash": "fc3232bd61859e3cdd861f382d1482ff8cd9129217ed33c24d16631578f2bb5a",
+        "title": "Economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Financial_technology",
+        "hop": 3,
+        "hash": "878ec1fcbab8bf09f09f910a9f896ff0c1d0f01e68b043831389cb1c6a1018cf",
+        "title": "Financial technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bob_Murphy_%28economist%29",
+        "hop": 3,
+        "hash": "a6d6f40ec25dc375b3492f22fa651945881880495b74ea06de885160659e14a9",
+        "title": "Bob Murphy (economist)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Impact_investing",
+        "hop": 4,
+        "hash": "7c259a777055769655f4b372a9ce4f3fc2b8658e238b4c75d441e6ce5f655530",
+        "title": "Impact investing"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Affordable_housing",
+        "hop": 4,
+        "hash": "38945001e9d1f1618f2733e70f63438f897cd580d584ee2450a317e10477d87a",
+        "title": "Affordable housing"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Israel",
+        "hop": 5,
+        "hash": "f78633517661823ed9eb31ce00a9ac5e30b102a49e56c32ac0092300e309a69e",
+        "title": "Science and technology in Israel"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/World_Trade_Centre_Pune",
+        "hop": 5,
+        "hash": "bb6f769255783fc780a7398c5dfd50301ad099475788c510594aaf16d8241bb1",
+        "title": "World Trade Centre Pune"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/HNA_Technology_Investments_Holdings",
+        "hop": 5,
+        "hash": "97eaf8dbd0a87e6c3f077d3871722b6b325139794c59d223ab99b1155f2c91e3",
+        "title": "HNA Technology Investments Holdings"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Qianhai",
+        "hop": 6,
+        "hash": "76a3184d49ce2240a5e16dc3f9a8b5fbcfebee539d1259eff24c527dad30c990",
+        "title": "Qianhai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/International_cybercrime",
+        "hop": 6,
+        "hash": "911a599a847c77f4b15f5eccbecb7974bd18ffb5001541eada85e59707951b6b",
+        "title": "International cybercrime"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/International_Financial_Services_Centres_Authority",
+        "hop": 6,
+        "hash": "41a7edcc08674abcaa678df38a31d21b96825dce14f6a4bc314b9b090af6894e",
+        "title": "International Financial Services Centres Authority"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ahmed_Ali_Al_Sayegh",
+        "hop": 6,
+        "hash": "517498934a10f58d62926d8edaeb3d67ccc32ac8e643cab3c9d7116646cfdbd2",
+        "title": "Ahmed Ali Al Sayegh"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Kazakhstan",
+        "hop": 7,
+        "hash": "03ce1f4fa10e5fce84719331a01e2c8e1ee225a24c4d5e90039a3869c39b4f79",
+        "title": "Science and technology in Kazakhstan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ING_Group",
+        "hop": 7,
+        "hash": "502aeee2c82bb033dd9315c1e0c0c30d50cbd1427ebcd803f9b627329c9488ee",
+        "title": "ING Group"
+      }
+    ],
+    "timestamp": 1789437126.7627425,
+    "page": "/home/wubu/copy_government/research/wiki/pages/banking_cooperation_tech.md"
+  },
+  "onboarding_optimization": {
+    "question": "onboarding optimization user experience first-time user retention engagement design",
+    "chain_length": 18,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Open_energy_system_models",
+        "hop": 2,
+        "hash": "07ac1834c644d934e7942d2e71fd66b2284f12f66b3506abc94d82c7172634a7",
+        "title": "Open energy system models"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/NASA",
+        "hop": 2,
+        "hash": "ace871359d61009707135a2c6647a99792ae843ea9dcb99af18c88bfc8bcdd2d",
+        "title": "NASA"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Windows_8",
+        "hop": 2,
+        "hash": "63949f68483b4261a4134540852180950e2f41cf3863f3d91d9ff20dc4fd51eb",
+        "title": "Windows 8"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Palantir",
+        "hop": 2,
+        "hash": "cc92e711de4c10690373d5c7b710e264f48f9903ba1005837cb998d22fae65af",
+        "title": "Palantir"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Proof_of_concept",
+        "hop": 2,
+        "hash": "fa828088ddfbacd3fde09a979c86a860d8bf7f9492b7bb270672b65147c6c02e",
+        "title": "Proof of concept"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/RDNA_3",
+        "hop": 3,
+        "hash": "2d8ce3996ab626fb22d1719cc44e622cf5250705cfedb9d74b11f963ff0a9f6b",
+        "title": "RDNA 3"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Human_resource_management",
+        "hop": 3,
+        "hash": "4f551272258c10f6264cfba4813ab5faab617ec164be6adbb3a77a30ddfb7763",
+        "title": "Human resource management"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Electric_vehicle",
+        "hop": 3,
+        "hash": "461ddb4b36c64c095be69d2e908674d8c0dba65eb76772db11fa871178782e7a",
+        "title": "Electric vehicle"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_selling",
+        "hop": 4,
+        "hash": "e6b393724ad0fd24bd5a5cd025059e9fdee631590359bf3f84c5f573d2dc8b9c",
+        "title": "Social selling"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Workforce_management",
+        "hop": 4,
+        "hash": "c79a3776d7fe7fe05573d294ab955e7c014f5ff15423fcb5bad634be2e99befe",
+        "title": "Workforce management"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_transport",
+        "hop": 4,
+        "hash": "df306e78766c3f9567313a68ab4ef6d450ce553f542d32e4782fda27ce2269d7",
+        "title": "Public transport"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Automation",
+        "hop": 4,
+        "hash": "b8107633371cc3c7a4490f46ec6c15d1e1a58724f6dc6a2a046a42ebf3ba4f6b",
+        "title": "Automation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rithum",
+        "hop": 5,
+        "hash": "30cc3753904853c6af6b1c3418a4345a905f6e143d74c95f08b1adc46a5dee81",
+        "title": "Rithum"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jaggaer",
+        "hop": 5,
+        "hash": "885590d9efeecbaf6c8d74dbb75a2247a489b13fa350196478f4f7910c17bc72",
+        "title": "Jaggaer"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ATI_Technologies",
+        "hop": 5,
+        "hash": "dd570069e0918ffc8cb85db8423948de8829e7b5da63f47171d31d8483171241",
+        "title": "ATI Technologies"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Google_Vids",
+        "hop": 5,
+        "hash": "740ee11605fe1b46e43507205325806b10c1aa1bcf6b3926f1729261d1821463",
+        "title": "Google Vids"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Corporate_film",
+        "hop": 5,
+        "hash": "4f934065a575514b65908b296bf31f784d7ee5d9c332c30085e94bb482869c9e",
+        "title": "Corporate film"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/WELL_Building_Standard",
+        "hop": 7,
+        "hash": "d4d3ec9c9b888ce31a73382272b19d25a858c85c293c4dce28999c7439048c7b",
+        "title": "WELL Building Standard"
+      }
+    ],
+    "timestamp": 1789437218.5093558,
+    "page": "/home/wubu/copy_government/research/wiki/pages/onboarding_optimization.md"
+  },
+  "timeline_improvement": {
+    "question": "historical timeline multi-perspective anthropology intergenerational overlap civilizations",
+    "chain_length": 18,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Domestic_policy_of_the_Stephen_Harper_government",
+        "hop": 2,
+        "hash": "b403e6b595350aec9cf6f288393c77df2000f7c21b548be25b698f9b7048f6b1",
+        "title": "Domestic policy of the Stephen Harper government"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Education_policy",
+        "hop": 2,
+        "hash": "aaeecbb90eeeb65f217def68a8801106fd410e10e7b0d7dc53d7c59c9961ce04",
+        "title": "Education policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_Wikipedia%E2%80%93U.S._government_conflicts",
+        "hop": 2,
+        "hash": "cb4a0eb68f1aa70c41ecdbabcc2a2e5501591b4926836a9087b00f3f11a4a4a4",
+        "title": "Timeline of Wikipedia\u2013U.S. government conflicts"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union",
+        "hop": 2,
+        "hash": "d26a4d84554b4bc857218519e5adcc215a848cdfe296b72a551f5d0cd775b0fa",
+        "title": "Member state of the European Union"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Domestic_policy_of_the_second_Trump_administration",
+        "hop": 2,
+        "hash": "f3ac9b4ce668485bcf881da890249eb634670c5cd5b986b8302580c5a2d32e42",
+        "title": "Domestic policy of the second Trump administration"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence",
+        "hop": 3,
+        "hash": "47bf7f3a8e8f80bc1a0d3e9d334995fdda4cf3e064e1bd60c56cec6467eadf58",
+        "title": "Timeline of artificial intelligence"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+        "hop": 3,
+        "hash": "0dc8e313994e99992ded3a965a08180941c1c8fd3d2c937e99335827b109df95",
+        "title": "Timeline of historic inventions"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ecological_economics",
+        "hop": 3,
+        "hash": "7ac6026059d469eb4252518bf9b33352abaf27b5cd67259ec200836cf22630d4",
+        "title": "Ecological economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Energy_economics",
+        "hop": 3,
+        "hash": "89798d709086645159889b4766ce852e09390408db5029b53a27acb946f7d716",
+        "title": "Energy economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_Edinburgh_history",
+        "hop": 3,
+        "hash": "7bb75e6ee0266ab8011855c85c998ad42b75914dfac9d7f0342542601c4785ec",
+        "title": "Timeline of Edinburgh history"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Environmental_impact_assessment",
+        "hop": 4,
+        "hash": "a42c78e0fa4c79b50ff64d628c73b2447795963ea6201729866763ef07a40dd7",
+        "title": "Environmental impact assessment"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Facebook",
+        "hop": 4,
+        "hash": "33d294e45a258996628f38845bf6cc895006d2b9331695876a7bd3410b2589f8",
+        "title": "Facebook"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/X_%28social_network%29",
+        "hop": 4,
+        "hash": "325b59e2cd0384433ee68ed6b01e838d07da86ba03abe6aad0a42fe54e557985",
+        "title": "X (social network)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_culinary_technologies",
+        "hop": 5,
+        "hash": "bc796f6e0e1208ad844da27a1ee2543366ad9f360619943b8d0f26bb62a8d277",
+        "title": "Timeline of culinary technologies"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_hydrogen_technologies",
+        "hop": 5,
+        "hash": "b1adb0afcb2ba2d085c00bf1461d228ff5bb8e37c51573915932888ebf226f71",
+        "title": "Timeline of hydrogen technologies"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_transportation_technology",
+        "hop": 5,
+        "hash": "df3071f2746889a2e451569e0f2e61a6c56cafdaeb3653c4db9c5d96ca070bc0",
+        "title": "Timeline of transportation technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_photography_technology",
+        "hop": 5,
+        "hash": "40ea159c5961c2ab265645280ed0f75c0261de11a145e393a74b03aac27ff142",
+        "title": "Timeline of photography technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indigenous_Australians",
+        "hop": 7,
+        "hash": "c4bfa0d33fe1ea4db72a131f48329df0e75aa66818c2731bb45958eccfc73f17",
+        "title": "Indigenous Australians"
+      }
+    ],
+    "timestamp": 1789437218.851962,
+    "page": "/home/wubu/copy_government/research/wiki/pages/timeline_improvement.md"
+  },
+  "treasury_management": {
+    "question": "national treasury management sovereign wealth funds public banking development finance",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sovereign_wealth_fund",
+        "hop": 1,
+        "hash": "3408c0a84eb6806ca46eee7d25353cb701704c0755f18ca67fa5a237c043497d",
+        "title": "Sovereign wealth fund"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_Investment_Fund",
+        "hop": 1,
+        "hash": "51d4869933a2397cd0d77e93b7b037fe71042358a7a29d60b4e23fa45877ff44",
+        "title": "Public Investment Fund"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Finance",
+        "hop": 1,
+        "hash": "2fc40281f127fef517fe01e27ce500c239bebf9eabb01f0a95f84a878070ae3b",
+        "title": "Finance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/China_Investment_Corporation",
+        "hop": 1,
+        "hash": "230a91776bc4ccf3543787820d690c5af1ba400012a8fdb1cbea005d9383ddf4",
+        "title": "China Investment Corporation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/HM_Treasury",
+        "hop": 1,
+        "hash": "0bbff15c20e9e17685c9089ccc27c7ab28bde96f2da311637de83a5091c0117c",
+        "title": "HM Treasury"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_States_Treasury_security",
+        "hop": 2,
+        "hash": "d2354f1a2b56247484a94214f806170c297199705ccc4adf5af7846f0fc95e43",
+        "title": "United States Treasury security"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treasury_%28Australia%29",
+        "hop": 2,
+        "hash": "a9499261a1ab08d16068f5d3e600296df5ce41f3c22b044e8e5a0ab341ab733f",
+        "title": "Treasury (Australia)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Debt_Management_Office_%28United_Kingdom%29",
+        "hop": 2,
+        "hash": "995e9585b2fb44d08ca0d1762d009c4be68c6b65af6755164b86452420f17845",
+        "title": "Debt Management Office (United Kingdom)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treasury_single_account",
+        "hop": 2,
+        "hash": "5115fb16622db78280a385e2dbdeb6f6e514991da7736dec12b2f33230041ffe",
+        "title": "Treasury single account"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fiscal_Assistant_Secretary_of_the_Treasury",
+        "hop": 2,
+        "hash": "c7e1ad126203ae30e0f28f8ed0a718c2aebca95900b04f114298eb8aa965459e",
+        "title": "Fiscal Assistant Secretary of the Treasury"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treasury_management_system",
+        "hop": 3,
+        "hash": "a18469fa915d878977302735ca7d9039dce8b897d4a3a5b216d77b7f96100210",
+        "title": "Treasury management system"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treasury_General_Account",
+        "hop": 3,
+        "hash": "b13e393edef69365f48d813d31cb9bb03538765d59d4a006ed8d088cda607b00",
+        "title": "Treasury General Account"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treasury_Board_Secretariat_%28Ontario%29",
+        "hop": 3,
+        "hash": "802320a81edeb730aedc0d104b25b61d7cfc3cb311f42235110ee6c9dd9ff43a",
+        "title": "Treasury Board Secretariat (Ontario)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lacy_Hunt",
+        "hop": 3,
+        "hash": "e3718f7dd7618590c9e795fec05305fe7da1cfdc84e3e7055a0d7d0dcd2879ca",
+        "title": "Lacy Hunt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ministry_of_Finance_%28Ontario%29",
+        "hop": 3,
+        "hash": "f27908015f6c0e0bf10b3c801264690eede1f177cc27f7a3a80f91e41319f487",
+        "title": "Ministry of Finance (Ontario)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_impact_bond",
+        "hop": 4,
+        "hash": "8a510ef2b960a6aa907f76751a2eaf1b2b395f4d48c3c4236b8b508f3e3413c9",
+        "title": "Social impact bond"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_Zealand_Treasury",
+        "hop": 4,
+        "hash": "12f9a535be6f8a9c5db565db1f6e4020c563486ad00b60a237bfd52266bc62b5",
+        "title": "New Zealand Treasury"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Scott_Bessent",
+        "hop": 4,
+        "hash": "98863bebd2fd4b1f970d25bdd53262ced6df88b1ef277fc139c5edc6740947f6",
+        "title": "Scott Bessent"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Concentrix",
+        "hop": 4,
+        "hash": "2dc04a58d4d43208e7eb2a91c287f336b4e3c92f6d38bb3b75eacf230b993bc4",
+        "title": "Concentrix"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treasury_management",
+        "hop": 5,
+        "hash": "4a9f6c5c731cd60fbfbff314d00313ce5aa4ea883a4def57fcc87651e9267a4d",
+        "title": "Treasury management"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ripple_Labs",
+        "hop": 5,
+        "hash": "09269898f2f21cbb8e155c0e2f66f1f6b45f9c0e7f4231801771e94b5b0da71b",
+        "title": "Ripple Labs"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Assistant_Secretary_of_the_Treasury_for_Management",
+        "hop": 5,
+        "hash": "bd897016a5b7412138db41c49665466c71a91b1d53b42c2c4263faa612fc3197",
+        "title": "Assistant Secretary of the Treasury for Management"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Visual_Risk",
+        "hop": 5,
+        "hash": "17e1ea8c8519ea847d6e290353064491d650a86dc36f39f9458bcb45d865e60a",
+        "title": "Visual Risk"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Investment_management",
+        "hop": 7,
+        "hash": "3274ea25792f98b5af6e1360f32c97859b2590dd68f7fab17047a10ac55c1f55",
+        "title": "Investment management"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/National_debt_of_the_United_States",
+        "hop": 7,
+        "hash": "262b77e0406d08f4f2410830441dfa9902c5618348dedd64861baee8888278bc",
+        "title": "National debt of the United States"
+      }
+    ],
+    "timestamp": 1789440050.345101,
+    "page": "/home/wubu/copy_government/research/wiki/pages/treasury_management.md"
+  },
+  "microcredit_inclusion": {
+    "question": "microcredit financial inclusion mobile money unbanked underserved communities",
+    "chain_length": 13,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Financial_inclusion",
+        "hop": 1,
+        "hash": "47fc0be43b8935dfeeb5f68562269e6524cc95982ab9721c0a7f2105880409be",
+        "title": "Financial inclusion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Microfinance",
+        "hop": 1,
+        "hash": "4b46f36883faea45d7e0321c19f4e46f99731be200297401c10ba89a237cbb74",
+        "title": "Microfinance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Poverty",
+        "hop": 1,
+        "hash": "d382b19ae515037f4e483ec6039cc3c80157cc9885ee4e05caad935d8fb3b691",
+        "title": "Poverty"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Microcredit_Regulatory_Authority",
+        "hop": 2,
+        "hash": "2b9cbded5b93c2899e51e17780cfa82e4fd1fc4f88d4b0b7b17ce97a920ba09a",
+        "title": "Microcredit Regulatory Authority"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Queen_M%C3%A1xima_of_the_Netherlands",
+        "hop": 2,
+        "hash": "068f078b2413a8a274a5772f1962ba8ee0bc9611c5899a0b5bba851400f76c88",
+        "title": "Queen M\u00e1xima of the Netherlands"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/CGAP_%28Thinktank%29",
+        "hop": 2,
+        "hash": "e57a4aeff0a61c6be75318727b671e2286ad3d77c1d445169295df267ec234e7",
+        "title": "CGAP (Thinktank)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Microcredit",
+        "hop": 3,
+        "hash": "716685d598f6202cccaed968c260f8cff50f1d065e1dd6090387a33feeb9ad9e",
+        "title": "Microcredit"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Esther_Duflo",
+        "hop": 3,
+        "hash": "5eabcf4f148b63414e652d1419b167d2f64deea77e5c78c948c671179541156d",
+        "title": "Esther Duflo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_capital",
+        "hop": 4,
+        "hash": "c688beac9f84e422c91e24c005991b1fc7602c0dd4a77b0503d66508d6eb141e",
+        "title": "Social capital"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_enterprise",
+        "hop": 4,
+        "hash": "53502f3016c4b8be2a2ece4e05e5f0d32ba45535a5921958c242a1ecf7067533",
+        "title": "Social enterprise"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Accion_International",
+        "hop": 5,
+        "hash": "dcc41f1ddc074f9dac9897d71b87431dcebd5c3735faf1a23b33bf11daa00ac9",
+        "title": "Accion International"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chea_Serey",
+        "hop": 7,
+        "hash": "17a29c636053d04a2f885e5810d4e14dbe04dc302d760d8d8a7afbc44aa0de63",
+        "title": "Chea Serey"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Leora_Klapper",
+        "hop": 7,
+        "hash": "2833c445e5229454407b1aa46b2b98a5b601e2bbc19f409b47989047b4489d64",
+        "title": "Leora Klapper"
+      }
+    ],
+    "timestamp": 1789440053.0278316,
+    "page": "/home/wubu/copy_government/research/wiki/pages/microcredit_inclusion.md"
+  },
+  "corporate_license_enforcement": {
+    "question": "corporate license enforcement intellectual property compliance revenue thresholds",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Intellectual_property_in_China",
+        "hop": 1,
+        "hash": "239c125fe7564d2b058e148a3c74a0e206b5a7a6badcae40eb31b79887de84d3",
+        "title": "Intellectual property in China"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Corporate_haven",
+        "hop": 1,
+        "hash": "6840735d4d89410e54b3777e1e2cbc4b1af2193c45fa9e61d9b97dc95ed37456",
+        "title": "Corporate haven"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States",
+        "hop": 1,
+        "hash": "13fc5b5b0894f240f3c76183f990268cabb2ba92673aee87e50dbb98f27e7837",
+        "title": "Sales taxes in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Value-added_tax",
+        "hop": 1,
+        "hash": "d9a4864c4651c79f8519abc3b1dc9ff9e32148e54f11cef8f3c3f6e81c5c1478",
+        "title": "Value-added tax"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Base_erosion_and_profit_shifting",
+        "hop": 1,
+        "hash": "3d4745a57ebab7a0c3ee2263f0653ef692f9dffe2f0e508f66929de489cfc3b3",
+        "title": "Base erosion and profit shifting"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Corporate_social_responsibility",
+        "hop": 2,
+        "hash": "c859470bd4a6bf7b4773b5df2cc66d659e20321c179ee0bd92c7b1d0d40a8c93",
+        "title": "Corporate social responsibility"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Flock_Safety",
+        "hop": 2,
+        "hash": "f5ede7277d56d7c8a46c3e8cd2b08b51d0cd1a09eb997fdc8c3a74ca6a0d2329",
+        "title": "Flock Safety"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Terms_of_service",
+        "hop": 2,
+        "hash": "051f044a6b3431ace5747fab5a7bb5cb09ac7e2d22f3509afcda76edef085dbc",
+        "title": "Terms of service"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Financial_regulation_in_India",
+        "hop": 2,
+        "hash": "269416437b1cf0ead0f19d797d3855884f788b15ec0a3d741333d898f462f0a9",
+        "title": "Financial regulation in India"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Office_of_Export_Enforcement",
+        "hop": 2,
+        "hash": "c3c900e91cb20380f44d65d2b74946de8b76b856bab557874452a1a6e69df1db",
+        "title": "Office of Export Enforcement"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Business_license",
+        "hop": 3,
+        "hash": "66b310dcd5db2c55556cabeb02ec0ea7284d175092c8ee6d6f76e28b216c92f4",
+        "title": "Business license"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Corporate_law",
+        "hop": 3,
+        "hash": "1788c86bf0b87f273b1bb64910af2d86ad93c0806f038ba88a43a7d40a3d8f64",
+        "title": "Corporate law"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Competition_%28economics%29",
+        "hop": 3,
+        "hash": "19e3161cdab1f5b7a8503fbf9e533f753c61bb57e1838d2f1ef4d93bbeb00435",
+        "title": "Competition (economics)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_media",
+        "hop": 4,
+        "hash": "f1521c7e090bcdf51ddf7d013fdd1e7dd80a2a4f97ea233d6b67925e4e6a75ed",
+        "title": "Social media"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Magomed_Musaev_%28businessman%29",
+        "hop": 4,
+        "hash": "21f7d95746b970a378525c5f4eae2a507cf625232821d60aa7139ef40a0697ca",
+        "title": "Magomed Musaev (businessman)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Business_ethics",
+        "hop": 4,
+        "hash": "c971b855ef482f32bacff31c4e4a1c7e31ae6c28650d74745d207a389366a0af",
+        "title": "Business ethics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_credit_system",
+        "hop": 4,
+        "hash": "054b67308854c366ef36839d56c422c432287163af1825552e29c86b99aac522",
+        "title": "Social credit system"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/University_technology_transfer_offices",
+        "hop": 5,
+        "hash": "4f9e59f199c2fa96cfbf2ccf1b1240a4179f8ab8e7fd377768ce0e03cec60a05",
+        "title": "University technology transfer offices"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Open-source_license",
+        "hop": 5,
+        "hash": "895cb0a3d9b40eade2795a21ab20566381f78fcf04fd573b8fe5b3cb0fe731c0",
+        "title": "Open-source license"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/International_Traffic_in_Arms_Regulations",
+        "hop": 6,
+        "hash": "ab8d160a643168a834962d6ad3635beeefc3798cc81644986f2fc8f233a0821a",
+        "title": "International Traffic in Arms Regulations"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/European_Union_Aviation_Safety_Agency",
+        "hop": 6,
+        "hash": "ac00f5c5794c15c5c71033e1e557e81d702ca6b03310cbedfc069941bedb97a4",
+        "title": "European Union Aviation Safety Agency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Global_governance",
+        "hop": 6,
+        "hash": "996038c5f1b0d17889b2efcfb3f5c6835e2bfd6764950590e3ed9dc9d1c99a2f",
+        "title": "Global governance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Law_enforcement_in_Ukraine",
+        "hop": 6,
+        "hash": "d84f7f9b67e02efe9aa0781442470224ce1167286dd0890224ffc296bc1df335",
+        "title": "Law enforcement in Ukraine"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/GNU_General_Public_License",
+        "hop": 7,
+        "hash": "1f4bcdc677e416204b2dd26c4ba838794e2d00fdf8e53922fd9a17b688f5a057",
+        "title": "GNU General Public License"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Xiaomi",
+        "hop": 7,
+        "hash": "4f50bf9ad44c831e6577fb765b89448520f148ffba41f66b40f22ea809f70902",
+        "title": "Xiaomi"
+      }
+    ],
+    "timestamp": 1789440724.9881575,
+    "page": "/home/wubu/copy_government/research/wiki/pages/corporate_license_enforcement.md"
+  },
+  "coin_stamping_methods": {
+    "question": "coin stamping pressing minting metal marking engraving physical modification",
+    "chain_length": 10,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/United_States_dollar",
+        "hop": 2,
+        "hash": "9aa405186c8def913fff1216619dc89ba13e0dd5e08a03d1a6a9756bf32ad7a7",
+        "title": "United States dollar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Money",
+        "hop": 2,
+        "hash": "0ce2900b81f0fb85c01f023d79dadc118d22a49055071adcb21250af8bd024b5",
+        "title": "Money"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Trillion-dollar_coin",
+        "hop": 2,
+        "hash": "9bafc30e3c60766805a3b4ea70e86e6cc27657f29bb3b8ecbbbd4c9624e4c18b",
+        "title": "Trillion-dollar coin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Stamp_act",
+        "hop": 2,
+        "hash": "eb0b274e611ec613def4b080f368ca27e3a29f4956e643921c0748561b96fb41",
+        "title": "Stamp act"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Error",
+        "hop": 2,
+        "hash": "0a2d198d70ec5451a52934aee075538b75856890350b18cca91cf6d0c0e4d7b9",
+        "title": "Error"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_coins",
+        "hop": 3,
+        "hash": "a98ea841ab83bf7b2363355a2aaaa7b9c5960897e38deb1fe59d09ed27aa79ff",
+        "title": "History of coins"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coinage_metals",
+        "hop": 3,
+        "hash": "79c455a98491c3bd5125c0e79d884bc3cd3b35d23247f57f25a44752f3c72c59",
+        "title": "Coinage metals"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_history",
+        "hop": 3,
+        "hash": "41a34c46e408cb4746c6c3b1f8ec159b10bb3145a2a926426a88eee54179eaff",
+        "title": "Economic history"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Design_competition",
+        "hop": 4,
+        "hash": "9f2bd7f6d347927922d954d94ee6a433bdf4b3220626a2abace3779586d7c27e",
+        "title": "Design competition"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_Security_debate_in_the_United_States",
+        "hop": 4,
+        "hash": "7b74d90b4b0afea89891b2cc8763afe12613698e1c0b8fde680f9fc4810c1104",
+        "title": "Social Security debate in the United States"
+      }
+    ],
+    "timestamp": 1789441952.0810714,
+    "page": "/home/wubu/copy_government/research/wiki/pages/coin_stamping_methods.md"
+  },
+  "global_organization_structure": {
+    "question": "global organization structure international cooperation entity formation legal frameworks",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country",
+        "hop": 1,
+        "hash": "e61f937129c77a0f001f0a47059d2a1064c6546f1ebe346c6fc6e24c7e996a57",
+        "title": "List of legal entity types by country"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Global_governance",
+        "hop": 1,
+        "hash": "fa7be763f385e8fda2fd8f96d232ffeb56bae12899b7202710fdb3b007cdcc23",
+        "title": "Global governance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/International_Labour_Organization",
+        "hop": 1,
+        "hash": "8f0fcc889411f8ee157a88510c96edd1465363ee1fcd76be451f0549bc4cee9f",
+        "title": "International Labour Organization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
+        "hop": 1,
+        "hash": "ed7cf4609ef8c19e330dedc2bb47903b27b1a8bcd474b719c22bdcc199118a34",
+        "title": "Regulation of artificial intelligence"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/BRICS",
+        "hop": 1,
+        "hash": "6471faf97024c8b79e099cbe4d5323f0578614d0e4ae796c5ca3827d15e6254f",
+        "title": "BRICS"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Organizational_structure",
+        "hop": 2,
+        "hash": "d2902f65b2d0936a392d5469146ba7010526fd64a23006323d33e0e45e8972b2",
+        "title": "Organizational structure"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Non-governmental_organization",
+        "hop": 2,
+        "hash": "72a1a24570066d6651de30881737bce2c85c49ef82d77d3633ec7aa21e5f44ef",
+        "title": "Non-governmental organization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Policy",
+        "hop": 2,
+        "hash": "129d2572ef4c44591ee8467b4e1bf3ba7ed563c8dc8355a746d7f6305c7b7acb",
+        "title": "Policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/World_Federalist_Movement/Institute_for_Global_Policy",
+        "hop": 2,
+        "hash": "073c30319a8855ca22f3486c9de83d44f180265ee9d01440ee4912839d206b33",
+        "title": "World Federalist Movement/Institute for Global Policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cellular_organizational_structure",
+        "hop": 3,
+        "hash": "0b284cdcbd09a88580f47a5ae76df39da39da4235836f3ac5e87f8159409836d",
+        "title": "Cellular organizational structure"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Complexity_economics",
+        "hop": 3,
+        "hash": "fcb4f6a219c75b2e5eee8e6ac3f8cfba374ec0ff62372082ae5869fa097203af",
+        "title": "Complexity economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Global_Peace_Index",
+        "hop": 3,
+        "hash": "508253f12538599b2144c4f4f57fdf108a5ceab96e999a23f6069a52b865d565",
+        "title": "Global Peace Index"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics_education",
+        "hop": 3,
+        "hash": "0bc7a43bc74da610ed8d9f7c3029606ecae6abdacea1582e77998a6325a9aed0",
+        "title": "Economics education"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_organization",
+        "hop": 4,
+        "hash": "693f57d78c1418ec5d27339c078a575cb8b57baa6bc4221da9fcb58d9bbc87e2",
+        "title": "Social organization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Global_Reporting_Initiative",
+        "hop": 4,
+        "hash": "989736bf98cbe2340c30f7f8c6f88f52f0c07479276bc74be5518887670dfde9",
+        "title": "Global Reporting Initiative"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_analysis_of_climate_change",
+        "hop": 4,
+        "hash": "4433f25cd04599bc70dec183216c10ffd55f93a7d466c80aaa1c617831e21b07",
+        "title": "Economic analysis of climate change"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_network",
+        "hop": 4,
+        "hash": "0a3766be6ca4a32147b96f8402e81607b908b654c6ff1d02cef8c37147a0bc7b",
+        "title": "Social network"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Effects_of_climate_change",
+        "hop": 4,
+        "hash": "aa4af41faa3b00834ae3f2972c287c979a63ba081f2cd3cd5c777d1aaaedee10",
+        "title": "Effects of climate change"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization",
+        "hop": 6,
+        "hash": "ddad595bd56216cf09799ea0592cac26b8211017a9ec5b9dc3c13b1cbed12271",
+        "title": "World Artificial Intelligence Cooperation Organization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation",
+        "hop": 6,
+        "hash": "a05012392ce27aca0d3d2f49ad9013ae9deab3e53a1c7f622c0d5507ef9abd8a",
+        "title": "Shanghai Cooperation Organisation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_Cooperation_Organization",
+        "hop": 6,
+        "hash": "d701c6e23b221b68583d4d66f850d4fa341e0e265b1f0bfff795b8ff84badb0f",
+        "title": "Economic Cooperation Organization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe",
+        "hop": 6,
+        "hash": "4877c6c8b12601c044ee06f7afff559f0ce65492c8405311dc520aa6e2420c1a",
+        "title": "Organization for Security and Co-operation in Europe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_structure",
+        "hop": 7,
+        "hash": "21cba1363e772c15603ba6f0ed3c6e1983dea6f5cf1bce9fd14aad8e6e72af1f",
+        "title": "Social structure"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/World_Intellectual_Property_Organization",
+        "hop": 7,
+        "hash": "f1067345db56d7d2d7b2845c47bb0157775771821563e2af27eef6e30a5750ed",
+        "title": "World Intellectual Property Organization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/International_Telecommunication_Union",
+        "hop": 7,
+        "hash": "4868eefa46473ab6de63e27f2e81ff6ef336a17baa3e6db4967bcc2759be3847",
+        "title": "International Telecommunication Union"
+      }
+    ],
+    "timestamp": 1789441952.3646293,
+    "page": "/home/wubu/copy_government/research/wiki/pages/global_organization_structure.md"
+  },
+  "global_low_denomination": {
+    "question": "low denomination coins global currencies penny equivalent centavo euro cent pence yen",
+    "chain_length": 15,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/United_States_dollar",
+        "hop": 2,
+        "hash": "89371fc591eae25f44cc1e6f1515ed06037068f771c81effc0c7d19063596a9f",
+        "title": "United States dollar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indonesian_rupiah",
+        "hop": 2,
+        "hash": "6c52bfc80cb35431eed519c28e6989e53cb926051c3c6f90d9560af96a218e8a",
+        "title": "Indonesian rupiah"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/European_Union",
+        "hop": 2,
+        "hash": "3d72322d879af8750f86294a859a6e88dda95b7101db540ee122307283a1ec4a",
+        "title": "European Union"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japanese_yen",
+        "hop": 2,
+        "hash": "3b152ed6a05eb31dcd72494d4e1ef87bcc7a238134d19469dc2bb667441bd6c2",
+        "title": "Japanese yen"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Monetary_policy_of_the_United_States",
+        "hop": 2,
+        "hash": "ff2b42942eff566d7ddae3aff938aa62b7c739750b9ddd62edd5e719afc11dc9",
+        "title": "Monetary policy of the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_India",
+        "hop": 3,
+        "hash": "397f33420503b8cb582ad94a06384c53d2395f7cf13c6d73d6fc919c0f67f538",
+        "title": "Economy of India"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/South_African_rand",
+        "hop": 3,
+        "hash": "6a51c6d8883ddef1b36d2183baafbabac56b7541f533427715101da644010f2d",
+        "title": "South African rand"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Elite",
+        "hop": 3,
+        "hash": "288ff9cccdb77e0cef62f4c24611b5a1fbb14d11904d32c53719610306fbca26",
+        "title": "Elite"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Reserve_currency",
+        "hop": 3,
+        "hash": "06117137a69abac52a7f9609fce2adfdedae1d9ad6aa552e4abf1ac4afb011dc",
+        "title": "Reserve currency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mexican_peso",
+        "hop": 3,
+        "hash": "67ce893c7518ddc44540a060e2ee3452c36179f5672a8af60dc3bb8b5070fa7c",
+        "title": "Mexican peso"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war",
+        "hop": 4,
+        "hash": "5897a16d41af79a1b15d57fe60f281524c28f6c57bb37f22b3f7a66820a92c17",
+        "title": "Economic impact of the 2026 Iran war"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_impact_of_the_COVID-19_pandemic_in_New_Zealand",
+        "hop": 4,
+        "hash": "72f23354e4401cf9e22ffc696e658fc78db53251b65e83a7ebaf2748d18da3a7",
+        "title": "Social impact of the COVID-19 pandemic in New Zealand"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sociology_of_religion",
+        "hop": 4,
+        "hash": "38dc821ad08a6b3b8cd7297747a6ecf8ba471f37d84a5439aafb594e469c7645",
+        "title": "Sociology of religion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teetotalism",
+        "hop": 4,
+        "hash": "116d77aa43b72ee15aa02ae3d64c1e0ab927c350a5438109cdb76a24c7251a82",
+        "title": "Teetotalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mainline_Protestant",
+        "hop": 4,
+        "hash": "c45d79c2f6b96a810bc7d28219970125dfc596b63fcb165cb095fa686759ddb9",
+        "title": "Mainline Protestant"
+      }
+    ],
+    "timestamp": 1789441953.032783,
+    "page": "/home/wubu/copy_government/research/wiki/pages/global_low_denomination.md"
+  },
+  "cooperative_lodge": {
+    "question": "cooperative society lodge local chapter mutual aid gathering organization",
+    "chain_length": 14,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Relief_Society",
+        "hop": 1,
+        "hash": "6915556e9db3d25e5622f9509b5fd4961f7b7e89f57c5addcf9d21edf6ce3c76",
+        "title": "History of the Relief Society"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Farmers%27_Alliance",
+        "hop": 1,
+        "hash": "f9ad7dd016b980c6ea7ffa98b27b0683f58899c32b22e09ce07f960edeef0298",
+        "title": "Farmers' Alliance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_North_American_ethnic_and_religious_fraternal_orders",
+        "hop": 1,
+        "hash": "7e55094d0a7c4d8ced2c7430af36f9a245694cd8bdd20c091f92df3666d00827",
+        "title": "List of North American ethnic and religious fraternal orders"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Scouting_America",
+        "hop": 1,
+        "hash": "c00532643696380bf49f78f228b92f9799b3f777c52185c6fef1c3ad796e65e5",
+        "title": "Scouting America"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Revolutions_of_1848",
+        "hop": 1,
+        "hash": "27b20f025b8b382e91eafd0570e5998e75b715e32cc9cff4d6ed92944c54fecc",
+        "title": "Revolutions of 1848"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cooperative",
+        "hop": 2,
+        "hash": "14ff7a407478d74d81fb5d88e66972610527e54939f44515d04c8c7d64b14e3e",
+        "title": "Cooperative"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Bengal_State_Co-Operative_Bank",
+        "hop": 2,
+        "hash": "33cbff49c5e7e516c14259a6cffedb0684d71fb4dd873f39326cb599cc4a5c71",
+        "title": "West Bengal State Co-Operative Bank"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Federalism_in_the_United_States",
+        "hop": 2,
+        "hash": "45ef172f2ccfb811f1a554a8939a0157154f465ea0cda2eb7a81ea9d7a1c6637",
+        "title": "Federalism in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+        "hop": 2,
+        "hash": "2875c371d03d1a6534b6d090ecb93176c3c5ce61be1a5b7986561782987d47f1",
+        "title": "Nelson Mandela"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_Workers_Cooperatives",
+        "hop": 2,
+        "hash": "fcd8fdef3ce0aaca2a92cf2c00723cd42aa58082ecdc10d9d105e2477a2689a8",
+        "title": "United Workers Cooperatives"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Business",
+        "hop": 3,
+        "hash": "6b3b7aeaf53f9419a6b658acb037642dc5eb0c5186beca530d2b3f96b6515fa2",
+        "title": "Business"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Order_of_the_Knights_of_St._Crispin",
+        "hop": 3,
+        "hash": "2743f75977916d4548f174d3610dc6913ed6af2f96ad1a9b75fb3f0103ec0d9f",
+        "title": "Order of the Knights of St. Crispin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Privately_held_company",
+        "hop": 3,
+        "hash": "df1ca28eaee457d1fb82157254376d229ebfea113465783d95eecef4ffd122af",
+        "title": "Privately held company"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country",
+        "hop": 3,
+        "hash": "4cd2b39149e88b05bbe63a8f44163b275b5dc8fee09454504730c1b6c9d4b61c",
+        "title": "List of legal entity types by country"
+      }
+    ],
+    "timestamp": 1789442510.6450343,
+    "page": "/home/wubu/copy_government/research/wiki/pages/cooperative_lodge.md"
+  },
+  "goodwill_history": {
+    "question": "Goodwill Industries history private equity buyout charitable thrift decline",
+    "chain_length": 10,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Foreign_policy_of_the_Eisenhower_administration",
+        "hop": 2,
+        "hash": "aeb67d08c8eb03e849f91aea4bfc4142e6476fe87c59b2991540bc23ca167ace",
+        "title": "Foreign policy of the Eisenhower administration"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Foreign_policy_of_the_Reagan_administration",
+        "hop": 2,
+        "hash": "c6a75d7f63ca0a041691668d3f64f7481a709a45e22028c339615534a8feff86",
+        "title": "Foreign policy of the Reagan administration"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunshine_Policy",
+        "hop": 2,
+        "hash": "c282664c39997e6a90ceb28d768dc381758b90551dde7ed8278e2c9e2abff5e5",
+        "title": "Sunshine Policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Government_of_KwaZulu-Natal",
+        "hop": 2,
+        "hash": "5fe24524475a9a1a0c04f77e06a33f125077ebddd4f71419069ee487b8dbed27",
+        "title": "Government of KwaZulu-Natal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy%27s_1962_goodwill_tour_of_India_and_Pakistan",
+        "hop": 2,
+        "hash": "45f0d0ba9f3228678700ae817e6d164598b2a8945742a9e8b1d09708158a8bd7",
+        "title": "Jacqueline Kennedy's 1962 goodwill tour of India and Pakistan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Goodwill_%28accounting%29",
+        "hop": 3,
+        "hash": "10a9ede743380554026f626d6a2973f7e48ba6d9b8deec468cbc1cb7fb4f3d25",
+        "title": "Goodwill (accounting)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Capital_%28economics%29",
+        "hop": 3,
+        "hash": "3a8eecf345e50a0225d8bfcc4299bfe812d91f077b6e6a0d22c49baab61a08f3",
+        "title": "Capital (economics)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Haakon_VIII",
+        "hop": 3,
+        "hash": "c2c743356822ce88361d202096c9e593ba3d7cc47864ed33cf6158a1a87139f7",
+        "title": "Haakon VIII"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Asset",
+        "hop": 3,
+        "hash": "d32f8098913170a6b03bc8dd41f45aa080e38f6ea99ae19bbf4316c1884a5bba",
+        "title": "Asset"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Earnings_quality",
+        "hop": 3,
+        "hash": "1893cf81f4b7e4d84683bc39170885e193dbc886b7614daac1357fa2eed19b19",
+        "title": "Earnings quality"
+      }
+    ],
+    "timestamp": 1789442511.450757,
+    "page": "/home/wubu/copy_government/research/wiki/pages/goodwill_history.md"
+  },
+  "purpose_tree": {
+    "question": "purpose tree mission tree branching progression paths meaning purpose-driven organization",
+    "chain_length": 15,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eastern_esotericism",
+        "hop": 1,
+        "hash": "384bf3153c07eb76c6103e9b36867c6cc15855c3bfb71faf3863caf4ade89681",
+        "title": "Eastern esotericism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nepal",
+        "hop": 1,
+        "hash": "7bd0d4936207ed98b1d518fbf6adfd1d8c4a23ea431b6dfd73c0018e48cbb5cf",
+        "title": "Nepal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith",
+        "hop": 1,
+        "hash": "61e4cc84c5c67fe81d06ca63e226a158a4faae2ef6a4adc3bcb1c43605af3eb1",
+        "title": "Joseph Smith"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chagga_states",
+        "hop": 1,
+        "hash": "504829e00248101c6bfc63e7fd42a8794c7aec54dafd3d5bb29d9a88ae8c5dfa",
+        "title": "Chagga states"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Advaita_Vedanta",
+        "hop": 1,
+        "hash": "8809c46be3bdc534d55088d4fbd0ed018224a9106f0668f4d66849fbf85a2e3b",
+        "title": "Advaita Vedanta"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Environmental_policy_of_India",
+        "hop": 2,
+        "hash": "176ec66c0affef1573b9e5d9dfd6ef1c3358ae6fe18283187e33c041a58bd9f7",
+        "title": "Environmental policy of India"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Diploknema_butyracea",
+        "hop": 2,
+        "hash": "27ab986350a2e41152ba12bc5976bf6dd3399af007a0361e9ca17bf8e431fa5c",
+        "title": "Diploknema butyracea"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Seal_of_Florida",
+        "hop": 2,
+        "hash": "b9410006ac5ab6b498bbab45bd04b6cc30e9cdf92d33d005c568e6433dd7bb26",
+        "title": "Seal of Florida"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Government_procurement_in_the_United_Kingdom",
+        "hop": 2,
+        "hash": "2528ed70d24b28eb3adf902e84796fe055dae630839f8772085763a8afbc0f25",
+        "title": "Government procurement in the United Kingdom"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Panmunjom_axe_murder_incident",
+        "hop": 2,
+        "hash": "801e13375b3a0caf6eacfc1d61e89d30abe8d8b1454b916668b5a0ae713e06d5",
+        "title": "Panmunjom axe murder incident"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/London_School_of_Economics",
+        "hop": 3,
+        "hash": "5e9a29739107f43a5c3ce3f09e0db5019c097429e729a9abb9479332d0ce7012",
+        "title": "London School of Economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dyson",
+        "hop": 3,
+        "hash": "80c89c0324575dfe6c6d9e914e65181eed4e3ce0a487c7c6267a1f6fa0771b3d",
+        "title": "Dyson"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bodhi_tree",
+        "hop": 3,
+        "hash": "0938396735f1a957ba667e5a263d24aba9e084c8e6b8c6117d662b2aa5540bc3",
+        "title": "Bodhi tree"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sideroxylon_spinosum",
+        "hop": 3,
+        "hash": "1795ba90d991ab6820c41b4f2a62ec4b0a14b8f69d18cd45b9c1e3b3c4dda322",
+        "title": "Sideroxylon spinosum"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Plant_with_Purpose",
+        "hop": 3,
+        "hash": "70fad26e49faa3b9ccecbc7432a7c59801585fd6bec4fef838b57fa727056653",
+        "title": "Plant with Purpose"
+      }
+    ],
+    "timestamp": 1789444493.4841592,
+    "page": "/home/wubu/copy_government/research/wiki/pages/purpose_tree.md"
+  },
+  "fulfillment_missions": {
+    "question": "fulfillment mission system tasks challenges rewards intrinsic motivation self-determination",
+    "chain_length": 14,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Board_of_Indian_Commissioners",
+        "hop": 2,
+        "hash": "ad38c5b2aa44687049dfe6b91a5f8d022fa2ff4aff7942bec756b0934731a58c",
+        "title": "Board of Indian Commissioners"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Canadian_peacekeeping",
+        "hop": 2,
+        "hash": "42b4a0fee39bd0a868a61410d1ade4d985617084c1fd192636492c5b9e8d0bb0",
+        "title": "Canadian peacekeeping"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_schemes_of_the_government_of_India",
+        "hop": 2,
+        "hash": "26fc7915fed2308c79b14133e063fd5e733ea2603f62352125d636680df64f16",
+        "title": "List of schemes of the government of India"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Foreign_policy_of_the_Clinton_administration",
+        "hop": 2,
+        "hash": "1b1d0c5838e606117d3891f99304c7d3b35e38d5b07a74277c217e0cd607f3f2",
+        "title": "Foreign policy of the Clinton administration"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/X_%28social_network%29",
+        "hop": 2,
+        "hash": "770675a64203ec2a97f1c6fa3eb96cf7ff1806250fb4348e6d9c00b34282d646",
+        "title": "X (social network)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Roy_Schoeman",
+        "hop": 3,
+        "hash": "e87cc6c6657c98225aa2177aa5be32a986d8769774d18f8b2b667ea4dca3f7f0",
+        "title": "Roy Schoeman"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Post-scarcity",
+        "hop": 3,
+        "hash": "472d256082a8acfa547f077e5212d4cc34f7dc4a02c9c26d201bf088c87a3d7e",
+        "title": "Post-scarcity"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Five-year_plans_of_the_Soviet_Union",
+        "hop": 3,
+        "hash": "1a0074c67ffe6e58b867626c637906c482de5a0d1b5f207a901e828242bd7848",
+        "title": "Five-year plans of the Soviet Union"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISRO",
+        "hop": 3,
+        "hash": "01b568771710dfffbfd466e86344bd883fe30e9b74d2fa923e2edbcfeb0e37e3",
+        "title": "ISRO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/National_Nutrition_Agency",
+        "hop": 3,
+        "hash": "0d26079a05a93a424e2138d09859125623c2de43358454d54df6325aa60c0c9c",
+        "title": "National Nutrition Agency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/80%2C000_Hours",
+        "hop": 4,
+        "hash": "2250618a85341b6805f62c81c50f464f14f43463db4ac59bae588af19b5b6aab",
+        "title": "80,000 Hours"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_risk_management",
+        "hop": 4,
+        "hash": "6f711e1e8757ce24102e143b752c550ab6b0056a5693c64ab582cc63c4dd0209",
+        "title": "Social risk management"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Catholic_social_teaching",
+        "hop": 4,
+        "hash": "d4d05adfe59212520ab3d4131db99bb020290d17906633eac1441dee629fda5e",
+        "title": "Catholic social teaching"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kural",
+        "hop": 4,
+        "hash": "c6b38610099b6c497de3121c51a836f76ce5544bd6cbad5699fd194d6f322d65",
+        "title": "Kural"
+      }
+    ],
+    "timestamp": 1789444493.4876206,
+    "page": "/home/wubu/copy_government/research/wiki/pages/fulfillment_missions.md"
+  },
+  "onboarding_gamification": {
+    "question": "onboarding gamification progression system purpose mission fulfillment engagement design",
+    "chain_length": 7,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gamification",
+        "hop": 2,
+        "hash": "d3ec6787bcd4c4068b217b28f234b5b8b90f7100afe477a14b6071026f5dfbd2",
+        "title": "Gamification"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Temu",
+        "hop": 2,
+        "hash": "c5186897c84acfcec7cc462eeaa583adc8f11a9f2393ec676802d42dfb793376",
+        "title": "Temu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Docebo",
+        "hop": 2,
+        "hash": "f92a350972f4bed4d0ee579198f6457355a309341f05be0398b95c2164a4175d",
+        "title": "Docebo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neobank",
+        "hop": 3,
+        "hash": "f5a709d1d8f6a2cd2ce17c618f22e057679c4b69943584ddf31c7dead4b0321e",
+        "title": "Neobank"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zeigarnik_effect",
+        "hop": 4,
+        "hash": "f91f9cc7cebb25ce58ee03c69d06d07d4b538f9a5ba57c89e4c7e7e61b54d3e7",
+        "title": "Zeigarnik effect"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Educational_software",
+        "hop": 4,
+        "hash": "727c9b6344469d0018433f689ba22eba88b2d2e1335e635931569ce86239d38c",
+        "title": "Educational software"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ingress_%28video_game%29",
+        "hop": 4,
+        "hash": "51b53900da912d879cdaaa9c9798117aa06bb2cb07ad5f8d96d89e053d4b6dd3",
+        "title": "Ingress (video game)"
+      }
+    ],
+    "timestamp": 1789444493.6835046,
+    "page": "/home/wubu/copy_government/research/wiki/pages/onboarding_gamification.md"
+  },
+  "communication_framework": {
+    "question": "communication framework internal external transparency reporting citizen engagement",
+    "chain_length": 20,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Civic_technology",
+        "hop": 1,
+        "hash": "f5379321e8b3d5681f762a87ae791ae1ebab36dfe6d5b498c7fb872226c290c8",
+        "title": "Civic technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/E-government",
+        "hop": 1,
+        "hash": "a19d19b935dedbb7aace29b3a935fc0048076630893f57a394595f7fcf2be5c2",
+        "title": "E-government"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Externality",
+        "hop": 1,
+        "hash": "869cd641b1cdddeedc1a7225bc12be8c88c17d93fa41675bcf40c5243caec747",
+        "title": "Externality"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Governance",
+        "hop": 1,
+        "hash": "eb39ea1ba2d34ad060c1765bebbe70e396e6e0d57f99e992178f84e8fc19ab30",
+        "title": "Governance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_media_use_in_politics",
+        "hop": 1,
+        "hash": "9767bd0d002d92f569df834096f139818bcf8d71bb527955afd921a2a1b538f3",
+        "title": "Social media use in politics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Development_communication",
+        "hop": 2,
+        "hash": "9bd3de36075de6599576081688781d2c49ce42e7cfee71b9a858d105378bd40f",
+        "title": "Development communication"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_policy",
+        "hop": 2,
+        "hash": "8b92083618b44b76d46ba8d6ffbd01ca318c8357b85c000b617b6b628ef76add",
+        "title": "Public policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ministry_of_Communication_and_Media",
+        "hop": 2,
+        "hash": "5f5e0fb971effdcad8b245bb059c72d685965af9574fd4f06505e35f34499f3a",
+        "title": "Ministry of Communication and Media"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Policy_network_analysis",
+        "hop": 2,
+        "hash": "32d82fc2900858822e3d1b638f0393d1be606267f4738f70840618d16a2927a8",
+        "title": "Policy network analysis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zachman_Framework",
+        "hop": 2,
+        "hash": "34abff3f597cb64978b36d6e41ea8ba5eebe11818bd806e7f8a08b8d53ff10ca",
+        "title": "Zachman Framework"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cynefin_framework",
+        "hop": 3,
+        "hash": "97537b7d408107d3357dac049eba8bdf282e5005e01f90e511fcd802297e5c33",
+        "title": "Cynefin framework"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics",
+        "hop": 3,
+        "hash": "ffab16587738b6a247163fb1063dd02e48e7b49135c4796e7477ce7a50d4c5fd",
+        "title": "Economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Java_Agent_Development_Framework",
+        "hop": 3,
+        "hash": "9d45761fc97d5e7db4703b1eaab37bc52c85bd7e56939d0a6561f7875c8fff75",
+        "title": "Java Agent Development Framework"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Visual_communication",
+        "hop": 3,
+        "hash": "5aa09eef1acb227d93f416eaa9f552233c4f45512166858668900c929eedd30e",
+        "title": "Visual communication"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Information_and_communications_technology",
+        "hop": 3,
+        "hash": "f314bf46301194036cd45dd4f569a60df51e4317abe83a907244de65f8a0cf3a",
+        "title": "Information and communications technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Communication",
+        "hop": 4,
+        "hash": "b616020a2a0c83d9ae7a31cadbe3aaa9cfc1893a04491479957a2b9fe74aca5e",
+        "title": "Communication"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_media",
+        "hop": 4,
+        "hash": "39c392ad4631a3963773ccb0a66a8a195da31c4054d45201c97c73577a88d67a",
+        "title": "Social media"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Means_of_communication",
+        "hop": 4,
+        "hash": "396d0d1305d2e7985f9d68f699b56355cf8f49ab5055fda761867f652a946b08",
+        "title": "Means of communication"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Telecommunications",
+        "hop": 4,
+        "hash": "4e4cdf49e332c7292dfae0b722c1f3039948dd0a348f34e451686d87362d7ff0",
+        "title": "Telecommunications"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Communication_design",
+        "hop": 5,
+        "hash": "6972304241614715c46995d66f1ac139515f1e2f2557ecf7ebf1ebd1657c9bca",
+        "title": "Communication design"
+      }
+    ],
+    "timestamp": 1789444660.3696983,
+    "page": "/home/wubu/copy_government/research/wiki/pages/communication_framework.md"
+  },
+  "doctrine_improvement": {
+    "question": "doctrine improvement policy refinement governance best practices adaptive governance",
+    "chain_length": 23,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Leadership",
+        "hop": 1,
+        "hash": "5821535b1912af6234edaf05a0eb6f9f5c57213b550d91241bea74f044e815ce",
+        "title": "Leadership"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Development_communication",
+        "hop": 1,
+        "hash": "2f3deb52933a952dde9b10a05d3fe853f30a8e495bf7132c824b6962477ac7c8",
+        "title": "Development communication"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fidel_Castro",
+        "hop": 1,
+        "hash": "38dd2920610c6bc4bf0f0daa11774392e069f64aefe2ca4e3bc1e2ff62049be1",
+        "title": "Fidel Castro"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_Tunisia_under_French_rule",
+        "hop": 1,
+        "hash": "fdda3bc3db4d5fd96cc651ffc610bade0321d1f41f4fb58f702e19f90e0ca827",
+        "title": "History of Tunisia under French rule"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fukuda_Doctrine",
+        "hop": 2,
+        "hash": "89a3bb2d2492f38f4f852307de887d20fd4d36ed224b99ec3d465ff51df0b83e",
+        "title": "Fukuda Doctrine"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dutch_Ethical_Policy",
+        "hop": 2,
+        "hash": "42147990babee9182051cdf902b24d2c7d4123176bc37359faeb4ddfa5e3db5b",
+        "title": "Dutch Ethical Policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_policy",
+        "hop": 2,
+        "hash": "55b9a410467db6af489ebcfd21347c762a6c740dc2d28a4a3ffdca6aa9427dfa",
+        "title": "Public policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Claus_Hjort_doctrine",
+        "hop": 2,
+        "hash": "82671c9ee77570888e40fc999241237f753fe4e5c56b4353505fb63a85408096",
+        "title": "Claus Hjort doctrine"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Artisans%27_and_Labourers%27_Dwellings_Improvement_Act_1875",
+        "hop": 2,
+        "hash": "9eb65afee637e37b1b9a1aa7de1530ce716c64434d22bc6d0ed3976350a94445",
+        "title": "Artisans' and Labourers' Dwellings Improvement Act 1875"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics",
+        "hop": 3,
+        "hash": "d815a1b40f24076197b9ed17d557c44fc6d7eea635923c1d6b76dc8ae41a4d76",
+        "title": "Economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Principles_of_Economics_%28Marshall_book%29",
+        "hop": 3,
+        "hash": "dc084699779e6d99bf8b0d4bb48d61452690457cacb216f340e15448bee5395a",
+        "title": "Principles of Economics (Marshall book)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Laissez-faire",
+        "hop": 3,
+        "hash": "b7bd85892e2165e34aa0dc752f2b262f36be7af4416ed1cd144a6dc0cc7fa3a9",
+        "title": "Laissez-faire"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neoclassical_economics",
+        "hop": 3,
+        "hash": "18f3771934c617c4f6d6ec883c1e3e82e31c3f070a20560ba9e41cde86f4f803",
+        "title": "Neoclassical economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economic_Sciences",
+        "hop": 3,
+        "hash": "1c20359a8c082704f571d7a1edfab10921ceb7f4cd625bdd0f2ec915d2e8d7b4",
+        "title": "List of Nobel Memorial Prize laureates in Economic Sciences"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Environmental_impact_assessment",
+        "hop": 4,
+        "hash": "aed0d6f28f39a8ff7f6293897aa8b680664fe81c5f01c0953d101e08ebc0f3d7",
+        "title": "Environmental impact assessment"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Auguste_Comte",
+        "hop": 4,
+        "hash": "0da55a9a217bd804e187138bf7f45602bdd47e81a3ea551ad502db9592fff940",
+        "title": "Auguste Comte"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Environmental%2C_social%2C_and_governance",
+        "hop": 4,
+        "hash": "93e7a61cbcc8eeb0a3bdb62e7193cea59b40f990a87cf9f04dc81d444a7acec1",
+        "title": "Environmental, social, and governance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Roosevelt_Corollary",
+        "hop": 4,
+        "hash": "53f7771ff58c08e7fa8ca4c394cc6fd01aa9243773d697943b805d92b9f55c13",
+        "title": "Roosevelt Corollary"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Effective_altruism",
+        "hop": 4,
+        "hash": "ea420b67babf96b74beecf832b140f0f4d2327168e05320f3904fabb48447366",
+        "title": "Effective altruism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Reverse_doctrine_of_equivalents",
+        "hop": 5,
+        "hash": "c3631e6facc87edcad82ef962d9bdd68e37bb36966359efe422791735215165e",
+        "title": "Reverse doctrine of equivalents"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wage%E2%80%93fund_doctrine",
+        "hop": 5,
+        "hash": "e9562ac684e2b11428c766fb274afeae3041d97ac23d5a75f3f0019795b8a65d",
+        "title": "Wage\u2013fund doctrine"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Phantom_Doctrine",
+        "hop": 5,
+        "hash": "21954cd1fe7a67ec240e69220406b68f3916f0ecf2f4530f26217af9ecc3c8e8",
+        "title": "Phantom Doctrine"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/National_Policing_Improvement_Agency",
+        "hop": 5,
+        "hash": "1aec4b70a92f81d493251caa1a8227d3d9ca20ef3e527e14e2b04a419ee150c1",
+        "title": "National Policing Improvement Agency"
+      }
+    ],
+    "timestamp": 1789444660.7994957,
+    "page": "/home/wubu/copy_government/research/wiki/pages/doctrine_improvement.md"
+  },
+  "sovereign_wealth_fund_deep": {
+    "question": "sovereign wealth fund management investment strategy Norway Singapore UAE",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sovereign_wealth_fund",
+        "hop": 1,
+        "hash": "3afd0d24d8a2bdf13a38a014beeadc9db2be7aef246be7fb1f08680f50565b98",
+        "title": "Sovereign wealth fund"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+        "hop": 1,
+        "hash": "6957ac0aeb563b8518bd6917f7281adebc1255dced2affab700560271001e718",
+        "title": "Abu Dhabi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_the_United_Arab_Emirates",
+        "hop": 1,
+        "hash": "cbd7cf109642a0130ae6057437fd1a2aa7bf5cd48b6aea514e0bb9605a19ddfc",
+        "title": "Economy of the United Arab Emirates"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dubai",
+        "hop": 1,
+        "hash": "9dbd1af6a858198a6f06c24fb9c3a6e8d1f45103093e83329c2ac65b53c1438a",
+        "title": "Dubai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abu_Dhabi_National_Oil_Company",
+        "hop": 1,
+        "hash": "1cb0951adf77e7b9331c4b40b28c6b97f20b782dcc09f657944e6f45bb9bb40d",
+        "title": "Abu Dhabi National Oil Company"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Temasek_Holdings",
+        "hop": 2,
+        "hash": "34e9d904adec15873a5a9b7c298a34afff0aa8be021fb04e2ec34a9ef5307080",
+        "title": "Temasek Holdings"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/CPP_Investments",
+        "hop": 2,
+        "hash": "405a1a7b5cb56c72780499f1407da5b198eff13d4b575b0213efa119c5af235c",
+        "title": "CPP Investments"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Government",
+        "hop": 2,
+        "hash": "012c9236924410da45c709d7d0a8eda45c7501bedd7123c7941ea248095f3abe",
+        "title": "Government"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Singapore",
+        "hop": 2,
+        "hash": "4d732d0b0f5d7d3bbad0d1f2e9d26343901d4eddadf53a4ca7704e23f25bf436",
+        "title": "Economy of Singapore"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2025_Mongolian_protests",
+        "hop": 2,
+        "hash": "c44b2a6bd2547ed0e703bbd4ad1782f83702577d4f6a05000fc7512b396cd3b4",
+        "title": "2025 Mongolian protests"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sainsbury%27s",
+        "hop": 3,
+        "hash": "153d294ca30c22829c280fc4c2574e65c9785b7a24bf6604aa2e2c4a19125483",
+        "title": "Sainsbury's"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adam_Smith",
+        "hop": 3,
+        "hash": "337177747611f34b503f53d22cf1ee65577db6a0fdd931d969b1e7f68cae3311",
+        "title": "Adam Smith"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Riady",
+        "hop": 3,
+        "hash": "3f3174877f35e716098184bf4842a0a7bb1a0ac12e59a5bdabe471b50226796d",
+        "title": "John Riady"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lawrence_Lau",
+        "hop": 3,
+        "hash": "f149f1592eae8dcf909399caf0b4d4c0e269322728bc94dc49b402be691c98cb",
+        "title": "Lawrence Lau"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_Security_debate_in_the_United_States",
+        "hop": 4,
+        "hash": "c9809b3f71d8872a30e3cabaeb765e1ad82e6c29cca1fc81d1439eb65336bf8c",
+        "title": "Social Security debate in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Six_Flags_Qiddiya_City",
+        "hop": 4,
+        "hash": "24dcf44e88e1d29472fdf130a16d6301715bb6ffae46c3aba287b2e3956ea462",
+        "title": "Six Flags Qiddiya City"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Corporate_social_responsibility",
+        "hop": 4,
+        "hash": "618bcd7327b24070f14ab43d544af12592daee5a5f6385a9d873834967526c6f",
+        "title": "Corporate social responsibility"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Deep_sea_mining",
+        "hop": 4,
+        "hash": "3d2592a9db00f7c30cd83ca6ed889142e97717bf63cfe3583487c839669cc706",
+        "title": "Deep sea mining"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_Chandler_%28businessman%29",
+        "hop": 4,
+        "hash": "c871268b48081264a2ee342f21d95b6ba1346be49d6cccf8834c728c1d259544",
+        "title": "Richard Chandler (businessman)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Celonis",
+        "hop": 5,
+        "hash": "6e150b2e16bc302631d7b38ec8e68e0b142cdc389f02fc8e1e8ba9251dc05e0b",
+        "title": "Celonis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/NextNav",
+        "hop": 5,
+        "hash": "fd2de3503af2281db983b451c3500ab658e621e746fda4f9eebd7ce4255ecb00",
+        "title": "NextNav"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council",
+        "hop": 6,
+        "hash": "c28663855880760b825760c9950e4d142d1a9c4470b19809db82abea59eb3283",
+        "title": "Gulf Cooperation Council"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Small_Island_Developing_States",
+        "hop": 6,
+        "hash": "02150900dae0b8f199770f9b00694eef9496f2513d04762e84a9556ea5dcaab3",
+        "title": "Small Island Developing States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+        "hop": 6,
+        "hash": "047be8259ea397d4e54aa0698d85f849ad4af09efb3a827612c90e441ac0adb8",
+        "title": "China\u2013Pakistan Economic Corridor"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Capital_control",
+        "hop": 6,
+        "hash": "d50b9a60f529870ca637f616e567e1570e40f60a5ff7275a49d78cb510e09340",
+        "title": "Capital control"
+      }
+    ],
+    "timestamp": 1789453563.8951452,
+    "page": "/home/wubu/copy_government/research/wiki/pages/sovereign_wealth_fund_deep.md"
+  },
+  "mmt_critiques_deep": {
+    "question": "Modern Monetary Theory critiques limitations inflation constraints sovereign currency",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Modern_Monetary_Theory",
+        "hop": 1,
+        "hash": "bc6b34fb4cdefb9e7be6fbd27759d7d8d2ba3474f96649d37cb3f046b1410b4a",
+        "title": "Modern Monetary Theory"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Money_creation",
+        "hop": 1,
+        "hash": "6f0e16674a712ebf3b57d04e67e86dc152dbf9f5bcb2543b0cee05032833c4e6",
+        "title": "Money creation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Milton_Friedman",
+        "hop": 1,
+        "hash": "212ed6dc5e2cca4ddae5482afc1fa13c2fcea36d58ddf20d7914095d99079b59",
+        "title": "Milton Friedman"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Euro_area_crisis",
+        "hop": 1,
+        "hash": "6c866c80acc644ff0e4d46aae1428b0104df12a523babb0c84b39cbf4f3a8d0b",
+        "title": "Euro area crisis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Glossary_of_economics",
+        "hop": 1,
+        "hash": "696553aa3a48e5e942fd8afe3386f8c8c049947ecca2035529d4561c1dd54db6",
+        "title": "Glossary of economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Keynesian_economics",
+        "hop": 2,
+        "hash": "779df4664b63120a2062e9925556e5fc146ea7bbd0c911057ad60c6068b0e834",
+        "title": "Keynesian economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Monetary_policy",
+        "hop": 2,
+        "hash": "bb20913836e724a56cb7ab4ecf4eeac33e4890cf0e88b79528904b0f07aacd17",
+        "title": "Monetary policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Austerity",
+        "hop": 2,
+        "hash": "3c0a8f63ac5494d2d989a22ab57f9144d4eb625c62d9555b7ea64c4968b89321",
+        "title": "Austerity"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Post-capitalism",
+        "hop": 2,
+        "hash": "5fd6cb853a7c5ce58426600e9fde560d96a0362f20baed806cb5e1688f0bfda4",
+        "title": "Post-capitalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium",
+        "hop": 2,
+        "hash": "11d31b585bacde79527512c1add2286d8748613a3eccbaea80b8ffe435124809",
+        "title": "Dynamic stochastic general equilibrium"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chicago_school_of_economics",
+        "hop": 3,
+        "hash": "9a1f7805b5d1f6205bab4bc21c33dfe41c59db711124b084188370031c9f61e4",
+        "title": "Chicago school of economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Classical_economics",
+        "hop": 3,
+        "hash": "cd07c90c764549f2802cb8fd62e62baf898e3021f9e5c46ecc6e1bb2f0883fe4",
+        "title": "Classical economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neoliberalism",
+        "hop": 3,
+        "hash": "f2b55a5902b7e0fcd4f1a63c1e9f4a72a95f9936f8028dc9e6c414bbb20e6d5a",
+        "title": "Neoliberalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Critique_of_work",
+        "hop": 3,
+        "hash": "10ea72cd007a3349987758ac525c6d2c95a6503c8d8f2a5543f8fd89d9e2b60f",
+        "title": "Critique of work"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Consumerism",
+        "hop": 4,
+        "hash": "53bd1d8d7f755b0cd5fe21218c54a115e531047853082285260e1e781b8f8a23",
+        "title": "Consumerism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Criticism_of_capitalism",
+        "hop": 4,
+        "hash": "c5c4e01aae3203077d6071c99901ea3193bababb274b5edf40646c456d30ffe7",
+        "title": "Criticism of capitalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Globalization",
+        "hop": 4,
+        "hash": "39cddf591e2160a96b5c190b40117d6690fc4d7aafae98e5df5b7c32fc7aaf54",
+        "title": "Globalization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Technocapitalism",
+        "hop": 5,
+        "hash": "60fa376397753f3058cf771474e791135587be6f3e602215202b37b9ebceec74",
+        "title": "Technocapitalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_capitalism",
+        "hop": 5,
+        "hash": "50fb7135b0a3dc11bc698c357aa17458db8ec22f5e9d9643a312a00f2a259eba",
+        "title": "History of capitalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shalom_Landau",
+        "hop": 5,
+        "hash": "a1b7fa5e427e3e5ffc32a4577371ec85ade61186512ff5072a57341f226652c7",
+        "title": "Shalom Landau"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement",
+        "hop": 6,
+        "hash": "374a50f337f825fbaa13f02cf2b10169cd978e42f764f57e04987b88e2344df3",
+        "title": "North American Free Trade Agreement"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_institutional_economics",
+        "hop": 6,
+        "hash": "c3ee9b798382a8bcd7a7d5254af114a436b76d8e3430ecf6d8465b6c82c00774",
+        "title": "New institutional economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Capitalism",
+        "hop": 6,
+        "hash": "b6b8c778fb6df0bcfded534d888a0999add70a1fa47dd0098c3eaaf939aad1f4",
+        "title": "Capitalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/System_of_National_Accounts",
+        "hop": 6,
+        "hash": "9174c1084bb6cb857ea58fee88fa41ac8d481499c1b98d1d70c711a8437d352a",
+        "title": "System of National Accounts"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
+        "hop": 7,
+        "hash": "70f107041f063749625c6b91c5d7fa46b2633ae9f695321a4a70180edb3cee0d",
+        "title": "Permian\u2013Triassic extinction event"
+      }
+    ],
+    "timestamp": 1789453564.0172553,
+    "page": "/home/wubu/copy_government/research/wiki/pages/mmt_critiques_deep.md"
+  },
+  "debt_free_economy_deep": {
+    "question": "debt-free economy chartalism neochartalism mutual credit endogenous money",
+    "chain_length": 18,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chartalism",
+        "hop": 1,
+        "hash": "27f53f379df026302d9e3af3fabc5c011061b534a8bff50e07c12eefaa0b164c",
+        "title": "Chartalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Government_debt",
+        "hop": 2,
+        "hash": "fe3be72b382589e375334a5002987438b4ba9ac58968991b1e6e975df0347e2c",
+        "title": "Government debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_Kingdom_national_debt",
+        "hop": 2,
+        "hash": "96e21c9df205a4e2e7f75b47db78b5ff70ecf57ceb154a9d009a5254d9f47219",
+        "title": "United Kingdom national debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis",
+        "hop": 2,
+        "hash": "d51680700fd81d78640e2392925746c9100fdb2de20983fceb7495fa49f219f4",
+        "title": "Greek government-debt crisis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+        "hop": 2,
+        "hash": "ce883fe7e830c632defafb2d025c81616eb00c9c9adfc580f6771e93e5b66d45",
+        "title": "Economy of the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/National_debt_of_the_United_States",
+        "hop": 2,
+        "hash": "a2de0ed0db06eca68e391ba2f9248b4ab3b20b9c31dd84b2a421f73b7d95bf30",
+        "title": "National debt of the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Canada",
+        "hop": 3,
+        "hash": "672e1d1bd5f8cbbea639ec740ed6cbff53a16650f932e3cb4d76b8fa93f5a3ac",
+        "title": "Economy of Canada"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shock_therapy_%28economics%29",
+        "hop": 3,
+        "hash": "6415c1d2cd893289b2528619c30abcc493d35c2366a843334b73f9b6d90f3e18",
+        "title": "Shock therapy (economics)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Australia",
+        "hop": 4,
+        "hash": "b0593d3995a5d75d2b1536012700f49faf76d0ae0c50eb7b4c5b0fbb973801ca",
+        "title": "Economy of Australia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Greece",
+        "hop": 5,
+        "hash": "bb4b8bd59989f55704485e0047bd1fe2188f5c7f664ad3549ee60723ad35627c",
+        "title": "Economy of Greece"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Ireland",
+        "hop": 5,
+        "hash": "7d615c240749ecbc97b1450b8650b6b0973c95f8121d6ca5fc2dd8ec7ae7acaa",
+        "title": "Economy of the Republic of Ireland"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Israel",
+        "hop": 5,
+        "hash": "4aad92cff2c4b635f18feb570ce99c1baf98863f2e626fe46ff8039eab641b35",
+        "title": "Economy of Israel"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Barbados",
+        "hop": 6,
+        "hash": "6b4851fceadec2b186023ca3ee4f5e63e3f9dffae91073e73529a3378682f35d",
+        "title": "Economy of Barbados"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Asia",
+        "hop": 6,
+        "hash": "d674eb8c4fc44b157cca8b46d74ca35d314aa1ed4143f17f428e07b6250bd627",
+        "title": "Economy of Asia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Algeria",
+        "hop": 6,
+        "hash": "60648a973793601794798e3886e9caead9c842891b87a00395d1845d514f0e40",
+        "title": "Economy of Algeria"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Vietnam",
+        "hop": 6,
+        "hash": "583e8b6ab5e72307593885e1d3ddb6bbc31dcd80c158a996a84011a6c10a613b",
+        "title": "Economy of Vietnam"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_North_Macedonia",
+        "hop": 6,
+        "hash": "3d68ce5cf5eef5732a4e24dbd220b13924e0a0400c0ea40e7c71fcaf771b8114",
+        "title": "Economy of North Macedonia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/PostCapitalism",
+        "hop": 7,
+        "hash": "6cb4c09c3ce1336e6ad5c78195f9342c9f8eb8a2fd2cd0d9eb7ecc080dc09f20",
+        "title": "PostCapitalism"
+      }
+    ],
+    "timestamp": 1789453602.6511486,
+    "page": "/home/wubu/copy_government/research/wiki/pages/debt_free_economy_deep.md"
+  },
+  "no_debt_monetary_debt": {
+    "question": "debt-free monetary system mutual credit complementary currency local currency",
+    "chain_length": 25,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Demurrage_currency",
+        "hop": 1,
+        "hash": "b10ef91b009fc260e110f8de8bff0781432828f59cadfef842fca91555d8408c",
+        "title": "Demurrage currency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic_and_Monetary_Union_of_the_European_Union",
+        "hop": 1,
+        "hash": "51b9ddc80afc76873ef8d7c4f62a48441576a68cb54dcba1d35dd1640343d1e4",
+        "title": "Economic and Monetary Union of the European Union"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Interest-free_economy",
+        "hop": 1,
+        "hash": "843d29ccd45fa2ff6cde7395aa760808f3b734eba3d9bfd792d53946ff44d371",
+        "title": "Interest-free economy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Community_Exchange_System",
+        "hop": 1,
+        "hash": "02bed56e2aa81e41657d2800b03ab1aebd48e28fec46a5e475f01ab66a0d4ac9",
+        "title": "Community Exchange System"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Barter",
+        "hop": 1,
+        "hash": "15a5f75225824019b983fe09a05b60a3a0395048ecb6af37f1fa4fec262e0be5",
+        "title": "Barter"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Government_debt",
+        "hop": 2,
+        "hash": "75bb73cf36fa37526cd3d656808d41cf5513e5ed38e04d7c2852107dba6dccd4",
+        "title": "Government debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_Kingdom_national_debt",
+        "hop": 2,
+        "hash": "b350c16c3c172f1c5ec36430997165e299f92eeb723da12d5de71b5ca1dc2cd7",
+        "title": "United Kingdom national debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Debt-to-GDP_ratio",
+        "hop": 2,
+        "hash": "dd038a212684c533dbaac0b4af9bdd42599e418d49ebd5892e907e5429b1a050",
+        "title": "Debt-to-GDP ratio"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/National_debt_of_the_United_States",
+        "hop": 2,
+        "hash": "5d1823c5d4e83260478fde0a2d689ec6dd748e608b636399884c4eb3e8f8ac30",
+        "title": "National debt of the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/National_debt_of_China",
+        "hop": 2,
+        "hash": "23abd49443b9d763601f10be3ead9dfd072a70e9e6482590c1864ba5a23de52a",
+        "title": "National debt of China"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/External_debt",
+        "hop": 3,
+        "hash": "fedddbcbe618a3d3d2f45b94f760421256fbf329720d6bc90ebcf700da09d0c3",
+        "title": "External debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Debt",
+        "hop": 3,
+        "hash": "7e4bbd0e9eeada133b49635a1666642bba2f9ca8fe1699b516bea9be50125c2f",
+        "title": "Debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Monetary_economics",
+        "hop": 3,
+        "hash": "4ed24d153b5a724dec2057e4d26c2c80eb18bbe8d232d19a9d090741cc6187ee",
+        "title": "Monetary economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Latin_American_debt_crisis",
+        "hop": 4,
+        "hash": "646c97fb31b58808ec5bc74525d076ff6cb5bb47cc8929bd35eca23325eba73f",
+        "title": "Latin American debt crisis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Debt_monetization",
+        "hop": 4,
+        "hash": "86ff746a9f0118c0a9a058d16379847f74668acd8ee78629c30dace74c72c4e2",
+        "title": "Debt monetization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_sovereign_debt_crises",
+        "hop": 4,
+        "hash": "7fd733abee1170b7a99671e4ecf2b149e05f2c8af7f53db15de29197bba7f26f",
+        "title": "List of sovereign debt crises"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Technical_debt",
+        "hop": 5,
+        "hash": "a948c9993858dbd09cfeb820f4e4659aaf15e94d397ae469ba320877129eef34",
+        "title": "Technical debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Euro_area_crisis",
+        "hop": 5,
+        "hash": "e3b435cc65b578bfead39a481e46d04228268c8f85edfac5cc2c890dcc3721b4",
+        "title": "Euro area crisis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Unsecured_debt",
+        "hop": 5,
+        "hash": "ff3c49df6dd2be1ce52857f3deba80ab020395bb0ea6b86e9311eff46d4944b7",
+        "title": "Unsecured debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Strike_Debt",
+        "hop": 5,
+        "hash": "83c9f32535754d3a344f57b77589e138ec2086550c9237607222a9fc8ed35382",
+        "title": "Strike Debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Canadian_public_debt",
+        "hop": 7,
+        "hash": "72348093321d0410a631e293917f7da513c9f2946543ebfdd386027cd4f462c4",
+        "title": "Canadian public debt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2011_United_States_debt-ceiling_crisis",
+        "hop": 7,
+        "hash": "8d7ab776e9e2aa873fa175af0538a3b01735e249c8f55a61c6eb65c4d27b224b",
+        "title": "2011 United States debt-ceiling crisis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Islamic_banking_and_finance",
+        "hop": 7,
+        "hash": "011d4738c7f315a9d22d3dae4a5609ecf98c92eea00f2fd8c50903dcbe736d49",
+        "title": "Islamic banking and finance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_bank",
+        "hop": 7,
+        "hash": "a82cdad73d6e9a102b17798ad782a932ad78fddfee274715534f5e55877a9d5f",
+        "title": "Central bank"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Glossary_of_economics",
+        "hop": 7,
+        "hash": "50865d048ae3bede2ff1ff17377252d9d29601383509d00f00bdd8d194362c6f",
+        "title": "Glossary of economics"
+      }
+    ],
+    "timestamp": 1789454056.4006078,
+    "page": "/home/wubu/copy_government/research/wiki/pages/no_debt_monetary_debt.md"
+  },
+  "coffer_treasury_deep": {
+    "question": "national treasury management coffer system public finance sovereign wealth fund",
+    "chain_length": 15,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/660_Fifth_Avenue",
+        "hop": 1,
+        "hash": "38dc9153815f0e58e9f9c3b919f8436885a95e80f5ee44b3ef19775866152d22",
+        "title": "660 Fifth Avenue"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Qing_dynasty",
+        "hop": 2,
+        "hash": "96e7eaf1756952eec8e3432ac1220d3c4689bb5565fa8f633ca628af611c84ad",
+        "title": "Qing dynasty"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Shinzo_Abe",
+        "hop": 2,
+        "hash": "d53f5dd76600c4dadc2674aa7b208c5ee63da4ead03b20363931ee02c70ada2e",
+        "title": "Assassination of Shinzo Abe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/British_Museum",
+        "hop": 2,
+        "hash": "6906daf9c824c92c7701f679cb5aa9b74f75895015d31c1eedc07c91de75b886",
+        "title": "British Museum"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Federal_Hall",
+        "hop": 2,
+        "hash": "69fded3117eebb1310071c9dba6947bd741ab02e1e67bdad92b7ea3ac4a56d8a",
+        "title": "Federal Hall"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+        "hop": 2,
+        "hash": "6e6c0b144b1ed9f30db807ee69d9381349eed316f36007a8ae5192e02302ab4e",
+        "title": "Buckingham Palace"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treviglio",
+        "hop": 3,
+        "hash": "ef78043ecb8689338f819a5c94cbd9d3e2f63aca3164ecd3959e37fbcbfd01f6",
+        "title": "Treviglio"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Historiography_of_Colonial_Spanish_America",
+        "hop": 3,
+        "hash": "19c34fb5dbfe19ba8edaa46326289d688c42435c15f2dae432aa68d54d9e28df",
+        "title": "Historiography of Colonial Spanish America"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/23_Wall_Street",
+        "hop": 3,
+        "hash": "181db9dd7b035e39cef1cfabdc6dd843f2318d6325f3f83a0fde22441373ac0c",
+        "title": "23 Wall Street"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas",
+        "hop": 4,
+        "hash": "ef06f752188f6540f7beb5ef3e94bc784cc4e01e8a3ab791ee27658d00dd642f",
+        "title": "Spanish colonization of the Americas"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+        "hop": 4,
+        "hash": "c5a00a80bf9be2d4594e291b06308b86955c6c46d15c04b52319fda4a914737f",
+        "title": "St Paul's Cathedral"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth",
+        "hop": 4,
+        "hash": "7f6244bbeced9a10a512b9f8d5a387a050daa9eff39b25caebb0ce1666aba1d8",
+        "title": "Polish\u2013Lithuanian Commonwealth"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Valley_Project",
+        "hop": 6,
+        "hash": "88612e685353e01b25aa9b55e0e4434ed99ad4b67aae3759ec58664709cf813e",
+        "title": "Central Valley Project"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Colonial_architecture_of_Brazil",
+        "hop": 7,
+        "hash": "b42b661ab501c212d43c43ac810359246e1051af2bb9a59130d6ab4da2bc0dcc",
+        "title": "Colonial architecture of Brazil"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_Advanced_Dungeons_%26_Dragons_2nd_edition_monsters",
+        "hop": 7,
+        "hash": "624300541606cefa6c5abd4d3ef1fc8f656872fa0ed9062eb85a52ef3bb2a35f",
+        "title": "List of Advanced Dungeons & Dragons 2nd edition monsters"
+      }
+    ],
+    "timestamp": 1789454093.2902734,
+    "page": "/home/wubu/copy_government/research/wiki/pages/coffer_treasury_deep.md"
+  },
+  "space_economics_deep": {
+    "question": "space economy space-faring civilization economics orbital manufacturing asteroid mining",
+    "chain_length": 19,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Asteroid_mining",
+        "hop": 1,
+        "hash": "4b47be6d557815a9a40cc195cd56917179e059351f8345f664b90661e308ca58",
+        "title": "Asteroid mining"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_science",
+        "hop": 1,
+        "hash": "6208ccb28281b16f72e8f844865c65a1d68be830d6123eba851d763e1803a5d1",
+        "title": "History of science"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Reaganomics",
+        "hop": 2,
+        "hash": "4aac88e0884cfbff75d5981e2de5e88a9547d9c2222ec0fd47211b9edf810419",
+        "title": "Reaganomics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Australian_Space_Agency",
+        "hop": 2,
+        "hash": "d6fcab2f62dde813e7f016980b100599749c10b638d1c9704d559f5ac4aa9a5b",
+        "title": "Australian Space Agency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/NASA",
+        "hop": 2,
+        "hash": "baa5cbd744f6db4e747fd719ce54c6e2203f01f3201ee4afa93ba0f7df1f4c35",
+        "title": "NASA"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics_of_fascism",
+        "hop": 2,
+        "hash": "a2af3dcd0779a4c87559b8f6d8e7a9cd6615a3a4e7b9385aa980fcc9b0715016",
+        "title": "Economics of fascism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neoliberalism",
+        "hop": 2,
+        "hash": "2cf454b656078680086e053c557928ab14958c39c48fc08d608762342ad6f0c2",
+        "title": "Neoliberalism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rural_economics",
+        "hop": 3,
+        "hash": "a0ca2f547133b19fe1caca3e335902377c250a49e2d3da498c943d9604468470",
+        "title": "Rural economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Institutional_economics",
+        "hop": 3,
+        "hash": "15b7e909212ecf50fb8e46beb2913ed231e003ee7acc79a16755c3d6e0d27b69",
+        "title": "Institutional economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ecological_economics",
+        "hop": 3,
+        "hash": "cfdab3dec71d755a2f446efae3661b68a132d10394eb6f8cd2bae53b6316cc3b",
+        "title": "Ecological economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Development_economics",
+        "hop": 3,
+        "hash": "417d31f30dd2e07d08c3244bd6ac0e34610f6c58c6e83b7513d3c6bbe53fa2d0",
+        "title": "Development economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Feminist_economics",
+        "hop": 3,
+        "hash": "34050d6d58db4ee2625d3681ec766521e8932e6fda29511292747381b6328565",
+        "title": "Feminist economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Deep_Adaptation",
+        "hop": 4,
+        "hash": "1911c11ff72b22b376c9157c29b5ce39fbb558781641de5d604fa831731649b5",
+        "title": "Deep Adaptation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Steady-state_economy",
+        "hop": 4,
+        "hash": "1d45111b41f31e9a17d5c819ec9fbdef5a0053b0d0ff4be75274f67a4eb41413",
+        "title": "Steady-state economy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Facebook",
+        "hop": 4,
+        "hash": "87d3fb2018ac3bd72960fb0467f841972669cb84aa8d02d1d4e2c0b0be31b810",
+        "title": "Facebook"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/ISRO",
+        "hop": 5,
+        "hash": "a00e4887e646148ab7021284ee09395bcbeb40bd29d4701ce055412c1938674d",
+        "title": "ISRO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/A_City_on_Mars",
+        "hop": 5,
+        "hash": "e137140602541bde072e8e9548a3fb01cf5ae6fce93ce5d01e8883c7b63fffab",
+        "title": "A City on Mars"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Technology",
+        "hop": 5,
+        "hash": "884527c311104bfc72a459c8c15fc4edf2655b6cd63dad0cd3f9f3cd9cea095b",
+        "title": "Technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Futures_studies",
+        "hop": 7,
+        "hash": "1744f5ddecef6c1c8f1223bde756b303dbbc606efda9093162c7c6969fdf6a46",
+        "title": "Futures studies"
+      }
+    ],
+    "timestamp": 1789454095.3110404,
+    "page": "/home/wubu/copy_government/research/wiki/pages/space_economics_deep.md"
+  },
+  "seymour_wins_gov_deep": {
+    "question": "Seymour Ponderables government library publishing knowledge preservation",
+    "chain_length": 15,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sixth_National_Government_of_New_Zealand",
+        "hop": 2,
+        "hash": "ff3b9d9a2743681803b377ab9be602815fc0bcbb8a3b0e0c0c88e0f98cbd3522",
+        "title": "Sixth National Government of New Zealand"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Criticism_of_Israel",
+        "hop": 2,
+        "hash": "888ee2ce7052d25668e10cb05bf9ebaba88984617492091a526c4470bc2c1219",
+        "title": "Criticism of Israel"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2023_New_Zealand_general_election",
+        "hop": 2,
+        "hash": "ad5c3b21e959b965b5e15f0086fe171801ed1ad3c31d9808dadeb037ccb992d9",
+        "title": "2023 New Zealand general election"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_%28United_States%29",
+        "hop": 2,
+        "hash": "ce42d2ce19cd31231a50f9874552cf731164b3f9a2caaa971887843f5a998452",
+        "title": "Democratic Party (United States)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Winston_Peters",
+        "hop": 2,
+        "hash": "c4a571f54773bdcc9317b9619e6379e1f61e6eb3f2d6e88be04530e038cf8d74",
+        "title": "Winston Peters"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates",
+        "hop": 3,
+        "hash": "465726c45bf9380d2ca1a32da34069927deb804ed6cf939cd67a60958ed2fa10",
+        "title": "List of Jewish Nobel laureates"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/George_W._Bush",
+        "hop": 3,
+        "hash": "c67be414ca692f9de04aedd6ed63d45b1fba08d126298ab2c01a4d619b9d3507",
+        "title": "George W. Bush"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/PwC_tax_scandal",
+        "hop": 3,
+        "hash": "c5a7de39210105a4d88929920db9ca5c699d6923addcec1bc0f0c885b8486c48",
+        "title": "PwC tax scandal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Austerity",
+        "hop": 3,
+        "hash": "eb60cbe08f287156ffb0e1c1722e62c2fcc08ed1dad1ef2572967e8a58274ad2",
+        "title": "Austerity"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moneyball%3A_The_Art_of_Winning_an_Unfair_Game",
+        "hop": 3,
+        "hash": "23e656b254708d15163bea159c86cb344bbd5771d16fcce13378cc008d460785",
+        "title": "Moneyball: The Art of Winning an Unfair Game"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gloria_Steinem",
+        "hop": 4,
+        "hash": "73429ea186d3462c9a34c8981805c5545d1a664d558b365b218de13a369781c4",
+        "title": "Gloria Steinem"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Andy_Burnham",
+        "hop": 4,
+        "hash": "cb31b591c56a9b1057d21e0b9efc60b4b54823d6d022fe599e90bd299bca654a",
+        "title": "Andy Burnham"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Conservatism_in_the_United_States",
+        "hop": 7,
+        "hash": "4b53506e7e4ead8507540150302aadde6f402077abbb95478cbbc739f82730b6",
+        "title": "Conservatism in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ida_B._Wells",
+        "hop": 7,
+        "hash": "a8bad5d780462e52f5a3a03d3957ff25f53d0951fea07a261d1d07a5224c6f37",
+        "title": "Ida B. Wells"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_Indiana",
+        "hop": 7,
+        "hash": "f20218860c26e4944de0baed0fc731c3f71e5e45ec152b01cb2cd8cc7cd81281",
+        "title": "History of Indiana"
+      }
+    ],
+    "timestamp": 1789454139.5061352,
+    "page": "/home/wubu/copy_government/research/wiki/pages/seymour_wins_gov_deep.md"
+  },
+  "self_sufficient_gov_deep": {
+    "question": "self-sufficient government municipal utilities public services cooperative ownership",
+    "chain_length": 18,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Solo_diving",
+        "hop": 2,
+        "hash": "85266319abf17fb93f6b447d92ba3fa4ed669223131cfd11676d38b5f76bb09c",
+        "title": "Solo diving"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Deep_South",
+        "hop": 2,
+        "hash": "44b19d51c406e65ea09b8065dd9cbced673c9a541828d69edeaa8b511008afc2",
+        "title": "Deep South"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Criticism_of_Israel",
+        "hop": 2,
+        "hash": "0c1ab8d63298baae8a3034a289611a40d8c63f86141110b16a50454a4bc5cd5a",
+        "title": "Criticism of Israel"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Energy_policy_of_the_United_Kingdom",
+        "hop": 2,
+        "hash": "d0efea3607219a64fdff85c2985f4487414c457602f3a983917d30b0162c501e",
+        "title": "Energy policy of the United Kingdom"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Keynesian_economics",
+        "hop": 2,
+        "hash": "bc7d9043bf5df7ba1b62eebbf9bdb1b3445e7661cef3c193bfa5bbe0b6b3ed50",
+        "title": "Keynesian economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Self-driving_car",
+        "hop": 3,
+        "hash": "7af4685eb9a4d3030e4402d319f1e64a31b8f9882bc8c33b0211b90a72f9eff4",
+        "title": "Self-driving car"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+        "hop": 3,
+        "hash": "8c12ebb1f7a0d9a51f751be578d50b873913cd35ffbe328d16524277661d5b1e",
+        "title": "Artificial intelligence"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neural_network_%28machine_learning%29",
+        "hop": 3,
+        "hash": "acc741f8c0181d880b720477e2e4ce81a2fc5436146d0cb06f9be0081b0f1588",
+        "title": "Neural network (machine learning)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_media",
+        "hop": 4,
+        "hash": "8a08d6fc0a29e7e42a3ac93e19e31b073d925ef833f27a12540f0a123cc72ebd",
+        "title": "Social media"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Autism",
+        "hop": 4,
+        "hash": "fb8f35f8e4d99b1df8054db47ecf38911f1fc736836099d4cbcb0a0c758d3f27",
+        "title": "Autism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mental_health",
+        "hop": 4,
+        "hash": "97c91dfd4fe404323905416cad5562c7c3c54e15fd2b30bb2ff4eacac1657e8f",
+        "title": "Mental health"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Technological_singularity",
+        "hop": 5,
+        "hash": "c8d2cc5a24076c33bd6846a2f4f62a4e0b0c90161e3cdd35395dec7f04b812e2",
+        "title": "Technological singularity"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Deep_Space_1",
+        "hop": 5,
+        "hash": "9d18c75103b647026908ede7c1e966d9fb543734994fd74967658a9a7b42b34b",
+        "title": "Deep Space 1"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Economy_of_Canada",
+        "hop": 7,
+        "hash": "d544bf33398ce4709b1b854fc792d19f94960990f33e30efa9dc03f2e216f733",
+        "title": "Economy of Canada"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Communism",
+        "hop": 7,
+        "hash": "917a7002d8ddffe72e330b9fcbfc93b5dcb3234642d891644ffb82c57f4226dc",
+        "title": "Communism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Healthcare_in_the_United_States",
+        "hop": 7,
+        "hash": "f687e3d720b2edbf0c4b3b464eb2c7e19b981c8825eef86d42790cdf0c275b99",
+        "title": "Healthcare in the United States"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Insurance",
+        "hop": 7,
+        "hash": "2a4d9bf0657e8f61228a630f098900158e73408d85b4c21b4b1c226653b0e864",
+        "title": "Insurance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wildfire",
+        "hop": 7,
+        "hash": "d4f0eda26cc45f0635bcdc29469e49fdf5f07e34133695aeb142d05c499b7c2b",
+        "title": "Wildfire"
+      }
+    ],
+    "timestamp": 1789454139.560768,
+    "page": "/home/wubu/copy_government/research/wiki/pages/self_sufficient_gov_deep.md"
+  },
+  "gov_org_citizen_deep": {
+    "question": "government organization sole citizen founder governance structure",
+    "chain_length": 19,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Citizen_science",
+        "hop": 5,
+        "hash": "04abf26e6709a9bfa0619f50d27bfc4ca13273adfd68ecc5bf22dcfac058ad02",
+        "title": "Citizen science"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Privacy_policy",
+        "hop": 5,
+        "hash": "cf1b25d3b7fe342db364801045ebfae7d3711c7aa4330eb248941985d2f7d2cb",
+        "title": "Privacy policy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Technology",
+        "hop": 5,
+        "hash": "94479ec516731790e9b46a4c1fb1d9cac563b5630e9cb7f36e6ddde2776ff37e",
+        "title": "Technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sovereign_citizen_movement",
+        "hop": 5,
+        "hash": "688c45be95568a6ae67a628bd9590dc051fde204011dbb9c029523a6e012c543",
+        "title": "Sovereign citizen movement"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+        "hop": 5,
+        "hash": "4c9730aa09bfd815ea896bffbdc3377d92ae2521e2bb9e31b1ac05bb47fa9b95",
+        "title": "World Wide Web"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Net_international_investment_position",
+        "hop": 6,
+        "hash": "beaddf0ce20d4880ebc97a114b31184ceaa8c07fe1965e5b926c85d53ebe6552",
+        "title": "Net international investment position"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council",
+        "hop": 6,
+        "hash": "b23b43dbf64a8eb3be3656e8450de866791458554c7b12b8ab1d3b100c1eeb74",
+        "title": "Gulf Cooperation Council"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/BIMSTEC",
+        "hop": 6,
+        "hash": "6a63c7a9249cc119e0257889dee99ef284c434757c6e99f8205e87733dab993a",
+        "title": "BIMSTEC"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cyprus%E2%80%93India_relations",
+        "hop": 6,
+        "hash": "73ac0d50d22f1668658ad21c3eacd9d967465bbeb1676d80a69306e2fa3d5c8b",
+        "title": "Cyprus\u2013India relations"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens",
+        "hop": 6,
+        "hash": "82fdba2af3b85408c8b0473d370088d3801689d5c89bd830e812f98712ddb933",
+        "title": "Visa requirements for Israeli citizens"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/NASA",
+        "hop": 7,
+        "hash": "2b1579b116eefbd49c7d2a3773515dc53d6ed8a5b3fc0da465174db5d8fb878c",
+        "title": "NASA"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arab_citizens_of_Israel",
+        "hop": 7,
+        "hash": "122d6febd94c55b60b39cc9d2f1f043e519c913da30f988ead63254127124e83",
+        "title": "Arab citizens of Israel"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Demis_Hassabis",
+        "hop": 7,
+        "hash": "a2e4dbe41d30423e2a8ed3fd62ef2af47acf7c2ed842a90b6fa715a3f5a7e225",
+        "title": "Demis Hassabis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Instagram",
+        "hop": 7,
+        "hash": "c5e308e3ee8e4e49c4f53e5840f99e4024ac4abc1c5fe8abd8415fd77bf35b91",
+        "title": "Instagram"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Non-governmental_organization",
+        "hop": 7,
+        "hash": "2f20f91c1097b3c989b78f525c16f18a4e347dd06f82601dfaf151ff23d4f4ce",
+        "title": "Non-governmental organization"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/History_of_democracy",
+        "hop": 7,
+        "hash": "a672baf8f838eed89bbabfde9467ececa2e52ccbfca19bbff901806dada29af7",
+        "title": "History of democracy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Philippine_University",
+        "hop": 7,
+        "hash": "550182244ea65a20af3c2dbf128a3b2358d5503013d0caa127d23a6a64d487a3",
+        "title": "Central Philippine University"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/World_government",
+        "hop": 7,
+        "hash": "09cd9582724ed3c62f6f1076614072233f70fe309f149f6cca56caa7a04e3473",
+        "title": "World government"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_contract",
+        "hop": 7,
+        "hash": "5114a95c464e5e4fe136d6696030b8207768b63a8dffc4c18d84c5fe462d18ce",
+        "title": "Social contract"
+      }
+    ],
+    "timestamp": 1789454168.7026105,
+    "page": "/home/wubu/copy_government/research/wiki/pages/gov_org_citizen_deep.md"
+  },
+  "angel_investor_trust_deep": {
+    "question": "angel investor trust structure equity-free capital gift economy patronage",
+    "chain_length": 15,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Islamic_banking_and_finance",
+        "hop": 1,
+        "hash": "f6164f6b8acabc34ff51b97eb260a290b45e2250c20cb8e5a7b4b8fcb52ec4e9",
+        "title": "Islamic banking and finance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_More",
+        "hop": 1,
+        "hash": "b9fbee679d06468ba6287288a7d81c94505f3aa24d7d5370bd984705f2038329",
+        "title": "Thomas More"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Financial_technology",
+        "hop": 3,
+        "hash": "4fc9866a5229bc66a9b6f9fbc8127c3f4238e3840dfb084a652aa1244a77c43f",
+        "title": "Financial technology"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Know_your_customer",
+        "hop": 3,
+        "hash": "4f7e0a71763d16cf6d996ec40dfe98cad6dfcacca421058ac73f0f0d912592b0",
+        "title": "Know your customer"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Investment",
+        "hop": 3,
+        "hash": "e2ff536aaa611cab49eeca7309cc27cf21a76c06f65e0abc84c6c5a001711fb5",
+        "title": "Investment"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jeff_Dean",
+        "hop": 3,
+        "hash": "aa70947fe38099b7f6ba1b24b36f9641267f19b8db8421c55070f78866743b3c",
+        "title": "Jeff Dean"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Credit_rating_agency",
+        "hop": 3,
+        "hash": "dd30aa20198b72c535612fd3e5e3f6f759e1e34f4f35df2430aaba2b5b43a4f0",
+        "title": "Credit rating agency"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Angel_investor",
+        "hop": 5,
+        "hash": "ecfab974fe9f88d7aae06923ab5b99aab35435fdc591366ae7d23e7c07eca690",
+        "title": "Angel investor"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sam_Altman",
+        "hop": 5,
+        "hash": "2d5577052615fc91a32c78c96afacbc015a0d6d925ec5adb0bd84afddebccbb4",
+        "title": "Sam Altman"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Venture_capital",
+        "hop": 5,
+        "hash": "0a7756f969229a2a88e690d90a3d34505c555253d1ae42a821ec1468dfbc4c24",
+        "title": "Venture capital"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Round_Capital",
+        "hop": 5,
+        "hash": "7df1b1661714a29e72f2c8e62ea031de2a30b15b8135090f70b853b13e9a7724",
+        "title": "First Round Capital"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/8th_BRICS_summit",
+        "hop": 6,
+        "hash": "4f448ba23f8264fff011f660c35af9f348b8d3d19e36ef8e0b2f726f965ff8e1",
+        "title": "8th BRICS summit"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/OpenAI",
+        "hop": 6,
+        "hash": "e7171528e5e594c519d5de48f620763208e504071ac0cca02ab1732b3054b2ca",
+        "title": "OpenAI"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2026_New_Year_Honours",
+        "hop": 6,
+        "hash": "1ddaf264b6446f00d5a4dded88b61dbd43f4cc82c039a8fc60f19bb95064a89f",
+        "title": "2026 New Year Honours"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2023_Azerbaijani_offensive_in_Nagorno-Karabakh",
+        "hop": 6,
+        "hash": "7b82b364978783ac172b092decaabfc85ca18c1921984545c5791a19c5e4e6e7",
+        "title": "2023 Azerbaijani offensive in Nagorno-Karabakh"
+      }
+    ],
+    "timestamp": 1789454169.0860858,
+    "page": "/home/wubu/copy_government/research/wiki/pages/angel_investor_trust_deep.md"
+  },
+  "dscr_real_estate_deep": {
+    "question": "DSCR debt service coverage ratio real estate lending bank requirements 2025 2026",
+    "chain_length": 1,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Commercial_mortgage",
+        "hop": 1,
+        "hash": "d31f8cca703e0322b8483ff5e13e3906b04157a98fa642cc720e4162d38a5eb9",
+        "title": "Commercial mortgage"
+      }
+    ],
+    "timestamp": 1789457181.4920204,
+    "page": "/home/wubu/copy_government/research/wiki/pages/dscr_real_estate_deep.md"
+  },
+  "loss_aversion_behavioral": {
+    "question": "loss aversion behavioral economics Kahneman Tversky prospect theory landlord",
+    "chain_length": 16,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Risk_aversion",
+        "hop": 2,
+        "hash": "0756ab02d914ba82597dea74f304a18d7a639af20672c8a85824f0b68a2d119e",
+        "title": "Risk aversion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Prospect_theory",
+        "hop": 2,
+        "hash": "ae305f5e7d53a179a9f4605cfdec1888202a901dffed9f0444e0baa9f7a9bf3c",
+        "title": "Prospect theory"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+        "hop": 2,
+        "hash": "c6ec6aa393294b83d6b32c204fda924c09065ad5bb8771fc4ae6088a49975d8b",
+        "title": "Behavioral economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Default_effect",
+        "hop": 2,
+        "hash": "a3be2d7ae753714d20bb5efd958821ed2cc772ac205e9b489cde6a734d196670",
+        "title": "Default effect"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_Thaler",
+        "hop": 2,
+        "hash": "e2a0dfb326b3ed09c05a347cf3172f894bcb4b3187849535378f1930a7cbca6f",
+        "title": "Richard Thaler"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Loss_aversion",
+        "hop": 3,
+        "hash": "7641e3deee0e4c6c6a6b1de803e56e0b32ab0b2412459ba303461efbb2840a20",
+        "title": "Loss aversion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Behavioral_law_and_economics",
+        "hop": 3,
+        "hash": "8a533b4dc40b9f50ac840e93598abde4d7468ebda7feab3067e5d8b5c91e5c41",
+        "title": "Behavioral law and economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Human_behavior",
+        "hop": 4,
+        "hash": "b78707b6ca4a46ba8f98e382043eb095e227bd119f4eb1a9fd3f0b74dff59ab7",
+        "title": "Human behavior"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Professional_practice_of_behavior_analysis",
+        "hop": 4,
+        "hash": "d86d38a7aff502e6d4d62292db48a95c0b5ba89c4f1837e1f374101dd682abee",
+        "title": "Professional practice of behavior analysis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aversion_therapy",
+        "hop": 5,
+        "hash": "05eafc2fb0b3c59f7fbf77c8d729a9ce33cdc3a9edf83a0c229e5a32e245b187",
+        "title": "Aversion therapy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Behavioural_sciences",
+        "hop": 5,
+        "hash": "f2b8dfab683ba5ab207c6add00e05790c4096271457d55491577c72e5c11c867",
+        "title": "Behavioural sciences"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Risk_aversion_%28psychology%29",
+        "hop": 5,
+        "hash": "983faf5073ad33fb45c8760f9b09fbfe96bc17e1723a2b3fb452159197147049",
+        "title": "Risk aversion (psychology)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inequity_aversion_in_animals",
+        "hop": 6,
+        "hash": "b3b75ecf9994c8757f739bc2c6f9f921a5048f49ffde0eb6dbf9b22359235365",
+        "title": "Inequity aversion in animals"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alfred_Adler",
+        "hop": 6,
+        "hash": "ee7cb4dbd87b6001a50f7d4891b771402914ff369cbe19f8d3c2f485c43c73ab",
+        "title": "Alfred Adler"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Prisoner%27s_dilemma",
+        "hop": 6,
+        "hash": "c0b1d6b46cbf11e3c344f2e27b2c0b2ceee3ba7710c31417d014f27f5f7b3cbb",
+        "title": "Prisoner's dilemma"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Psychoanalysis",
+        "hop": 6,
+        "hash": "17c24483e2cfac29224a46c86cec5e0d45246b255b8756a5160157813aa0563e",
+        "title": "Psychoanalysis"
+      }
+    ],
+    "timestamp": 1789457181.6263652,
+    "page": "/home/wubu/copy_government/research/wiki/pages/loss_aversion_behavioral.md"
+  },
+  "vacancy_economics": {
+    "question": "vacancy cost economics landlord behavior rent pricing loss aversion real estate",
+    "chain_length": 17,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Economics",
+        "hop": 2,
+        "hash": "77b77d9c38d1df8f61199a28b63ca6e2fc309227f5a75c0df6aef8f3a51746ca",
+        "title": "Economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vacancy_tax",
+        "hop": 2,
+        "hash": "f8062de70dff083ca2fd1f57be76d5e45ff0a8a8da06eee9b01cda728a257f6b",
+        "title": "Vacancy tax"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cheryl_Schonhardt-Bailey",
+        "hop": 2,
+        "hash": "508aa3c447d0327be91d803d97f225917f820cc1792ae0a34a0d6149b70eee06",
+        "title": "Cheryl Schonhardt-Bailey"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Macroeconomics",
+        "hop": 2,
+        "hash": "482df94dbc44f0bc0833c9696ec5faaf756bd4ff405312da8f158d27b677b70a",
+        "title": "Macroeconomics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_Keynesian_economics",
+        "hop": 2,
+        "hash": "e9ce8380de46492a398caa1a9c293bcb5d55b8061daace23f44984a1cfcf1e97",
+        "title": "New Keynesian economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Labour_economics",
+        "hop": 3,
+        "hash": "4e21850e5efc5590168a7f50fcbff758f5da44de7e075b6d80cb401d72470591",
+        "title": "Labour economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Socialist_economics",
+        "hop": 3,
+        "hash": "0a5dcefdb8f058b200ae78f7fabfa27c7ebf7c4ba42f8d798e7930d45a6235fb",
+        "title": "Socialist economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Real_estate_economics",
+        "hop": 3,
+        "hash": "54a9052268884c2014dd93960b1e12aa56326d76bce6e8b3ecc75b2aef47e445",
+        "title": "Real estate economics"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vacancy_chain",
+        "hop": 4,
+        "hash": "b45ef83e816220f02e0e240b15a19752f811216b371f417dbde1d5f7aafedb39",
+        "title": "Vacancy chain"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Active_labour_market_policies",
+        "hop": 4,
+        "hash": "96d9b4cf6514057e71fa02d05827f11a49d6bb2ab1cfcde7b8e094e1bbe83eae",
+        "title": "Active labour market policies"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rent_control",
+        "hop": 4,
+        "hash": "63ed71275174fa8187d4dc694dbdcb01330b1bc91630aa3e543b30bca85e278f",
+        "title": "Rent control"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Olivier_Blanchard",
+        "hop": 5,
+        "hash": "71746df10ca915b92d52bc07f5ed7449dbbb357727c63fa94f84921510bad3e0",
+        "title": "Olivier Blanchard"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsinghua_University",
+        "hop": 5,
+        "hash": "fad1c87cbe9d4afc193e0179c3a73f2fcf2255ca41f0874409b768d3c49d3a54",
+        "title": "Tsinghua University"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rental_vacancy_rate",
+        "hop": 5,
+        "hash": "e1e7dac6c0c22783a460748d1a6d2552d0a1e06a24801d0b0c9044c77bec401a",
+        "title": "Rental vacancy rate"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Masaaki_Shirakawa",
+        "hop": 6,
+        "hash": "68d2c797fbd0590c07ef81206df8c8b61fd1184605959fc1ff3c5f0c1b7451d2",
+        "title": "Masaaki Shirakawa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Communism",
+        "hop": 6,
+        "hash": "81c47604b97af1c34f26cc10c7dd55eddb3c547eaddb7a445a15be80684c7b1d",
+        "title": "Communism"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwesi_Botchwey",
+        "hop": 6,
+        "hash": "02b8bcb7a10e987695b1ab8f59900a7e2db5a6b4c4daf0ae0276dfe49e988c04",
+        "title": "Kwesi Botchwey"
+      }
+    ],
+    "timestamp": 1789457181.6470835,
+    "page": "/home/wubu/copy_government/research/wiki/pages/vacancy_economics.md"
+  }
+}

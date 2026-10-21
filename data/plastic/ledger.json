@@ -1,0 +1,14 @@
+{
+  "chain": [
+    {
+      "serial": "PL-WB-26-0001-C-0001",
+      "wid": "WB-26-0001-C",
+      "description": "Filing of GOV-30: The Dual-Token System",
+      "plastic_type": "LDPE",
+      "grams": 5,
+      "timestamp": 1789431824.4655893,
+      "hash": "4000ef06af9a85c5d03c18492d840df93e319380998a84b437cdbdc805ebe205"
+    }
+  ],
+  "root": "GENESIS"
+}

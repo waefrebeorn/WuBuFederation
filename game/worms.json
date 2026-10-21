@@ -1,0 +1,26 @@
+{
+  "WB-26-0001-C": {
+    "wid": "WB-26-0001-C",
+    "points": 60,
+    "tokens": 52,
+    "coop_acts": 2,
+    "skin": "default",
+    "login_streak": 0,
+    "last_login": 0,
+    "powers": [],
+    "joined": 1789436239.090363,
+    "achievements": [
+      "level_10",
+      "level_50",
+      "rich_buyer",
+      "first_gift",
+      "first_feed",
+      "first_login"
+    ],
+    "spent": 2500,
+    "nest": null,
+    "duels_won": 0,
+    "races_won": 0,
+    "evolution": null
+  }
+}

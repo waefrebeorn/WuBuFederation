@@ -1,0 +1,17 @@
+# The seven organs are their own repositories. This repo holds the
+# FEDERATION LAYER they all read: the registry (single source of truth),
+# the federation tools, the research corpus, the game data, and every
+# generated index. The organs are checked out beside it, not inside it.
+wubugov/
+wubucitizen/
+wuburesearch/
+wubuecon/
+wubuintel/
+wubucore/
+__pycache__/
+*.pyc
+*.gpg
+*.asc
+keys/*.priv
+keys/*.secret
+.env

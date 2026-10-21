@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "topic": "population_decline",
+      "file": "pages/population_decline.md",
+      "sources": 12,
+      "question": "population decline progeny death loop birth rate collapse anthropology",
+      "timestamp": 1789432174.858621
+    },
+    {
+      "topic": "base_economy",
+      "file": "pages/base_economy.md",
+      "sources": 11,
+      "question": "basic economy level one homeless entry bottom level jobs education",
+      "timestamp": 1789432194.1974394
+    },
+    {
+      "topic": "token_banking",
+      "file": "pages/token_banking.md",
+      "sources": 15,
+      "question": "token ledger public ledger banking cooperation global finance",
+      "timestamp": 1789432207.1697211
+    },
+    {
+      "topic": "identity_onboarding",
+      "file": "pages/identity_onboarding.md",
+      "sources": 20,
+      "question": "identity onboarding process citizenship call to action engagement",
+      "timestamp": 1789432218.5680096
+    },
+    {
+      "topic": "religious_cooperation",
+      "file": "pages/religious_cooperation.md",
+      "sources": 25,
+      "question": "religious entities cooperation government secular interfaith dialogue",
+      "timestamp": 1789432470.5355039
+    },
+    {
+      "topic": "call_to_action",
+      "file": "pages/call_to_action.md",
+      "sources": 25,
+      "question": "call to action public engagement participation motivation design",
+      "timestamp": 1789432479.0791512
+    },
+    {
+      "topic": "anthropological_preservation",
+      "file": "pages/anthropological_preservation.md",
+      "sources": 10,
+      "question": "anthropology cultural preservation meme propagation intergenerational transmission",
+      "timestamp": 1789432496.1584191
+    },
+    {
+      "topic": "government_api",
+      "file": "pages/government_api.md",
+      "sources": 25,
+      "question": "government API standards interoperability e-government digital identity cross-border",
+      "timestamp": 1789432752.7721756
+    },
+    {
+      "topic": "pseudoscience_engagement",
+      "file": "pages/pseudoscience_engagement.md",
+      "sources": 13,
+      "question": "pseudoscience engagement mystical whimsy transparency public participation design",
+      "timestamp": 1789432833.515631
+    },
+    {
+      "topic": "gov_api_standards",
+      "file": "pages/gov_api_standards.md",
+      "sources": 25,
+      "question": "government API standards interoperability digital identity cross-border e-government",
+      "timestamp": 1789437002.0827422
+    },
+    {
+      "topic": "token_ledger_proof",
+      "file": "pages/token_ledger_proof.md",
+      "sources": 19,
+      "question": "token ledger proof of work blockchain consensus mechanism verification",
+      "timestamp": 1789437126.2627256
+    },
+    {
+      "topic": "banking_cooperation_tech",
+      "file": "pages/banking_cooperation_tech.md",
+      "sources": 21,
+      "question": "banking API cooperation technical specification ISO 20022 CBDC interoperability",
+      "timestamp": 1789437126.76244
+    },
+    {
+      "topic": "onboarding_optimization",
+      "file": "pages/onboarding_optimization.md",
+      "sources": 18,
+      "question": "onboarding optimization user experience first-time user retention engagement design",
+      "timestamp": 1789437218.5089927
+    },
+    {
+      "topic": "timeline_improvement",
+      "file": "pages/timeline_improvement.md",
+      "sources": 18,
+      "question": "historical timeline multi-perspective anthropology intergenerational overlap civilizations",
+      "timestamp": 1789437218.8515403
+    },
+    {
+      "topic": "treasury_management",
+      "file": "pages/treasury_management.md",
+      "sources": 25,
+      "question": "national treasury management sovereign wealth funds public banking development finance",
+      "timestamp": 1789440050.3442514
+    },
+    {
+      "topic": "microcredit_inclusion",
+      "file": "pages/microcredit_inclusion.md",
+      "sources": 13,
+      "question": "microcredit financial inclusion mobile money unbanked underserved communities",
+      "timestamp": 1789440053.0273347
+    },
+    {
+      "topic": "corporate_license_enforcement",
+      "file": "pages/corporate_license_enforcement.md",
+      "sources": 25,
+      "question": "corporate license enforcement intellectual property compliance revenue thresholds",
+      "timestamp": 1789440724.9871752
+    },
+    {
+      "topic": "coin_stamping_methods",
+      "file": "pages/coin_stamping_methods.md",
+      "sources": 10,
+      "question": "coin stamping pressing minting metal marking engraving physical modification",
+      "timestamp": 1789441952.0801864
+    },
+    {
+      "topic": "global_organization_structure",
+      "file": "pages/global_organization_structure.md",
+      "sources": 25,
+      "question": "global organization structure international cooperation entity formation legal frameworks",
+      "timestamp": 1789441952.364174
+    },
+    {
+      "topic": "global_low_denomination",
+      "file": "pages/global_low_denomination.md",
+      "sources": 15,
+      "question": "low denomination coins global currencies penny equivalent centavo euro cent pence yen",
+      "timestamp": 1789441953.0322852
+    },
+    {
+      "topic": "cooperative_lodge",
+      "file": "pages/cooperative_lodge.md",
+      "sources": 14,
+      "question": "cooperative society lodge local chapter mutual aid gathering organization",
+      "timestamp": 1789442510.64408
+    },
+    {
+      "topic": "goodwill_history",
+      "file": "pages/goodwill_history.md",
+      "sources": 10,
+      "question": "Goodwill Industries history private equity buyout charitable thrift decline",
+      "timestamp": 1789442511.4501078
+    },
+    {
+      "topic": "purpose_tree",
+      "file": "pages/purpose_tree.md",
+      "sources": 15,
+      "question": "purpose tree mission tree branching progression paths meaning purpose-driven organization",
+      "timestamp": 1789444493.4830248
+    },
+    {
+      "topic": "fulfillment_missions",
+      "file": "pages/fulfillment_missions.md",
+      "sources": 14,
+      "question": "fulfillment mission system tasks challenges rewards intrinsic motivation self-determination",
+      "timestamp": 1789444493.4870503
+    },
+    {
+      "topic": "onboarding_gamification",
+      "file": "pages/onboarding_gamification.md",
+      "sources": 7,
+      "question": "onboarding gamification progression system purpose mission fulfillment engagement design",
+      "timestamp": 1789444493.682923
+    },
+    {
+      "topic": "communication_framework",
+      "file": "pages/communication_framework.md",
+      "sources": 20,
+      "question": "communication framework internal external transparency reporting citizen engagement",
+      "timestamp": 1789444660.369111
+    },
+    {
+      "topic": "doctrine_improvement",
+      "file": "pages/doctrine_improvement.md",
+      "sources": 23,
+      "question": "doctrine improvement policy refinement governance best practices adaptive governance",
+      "timestamp": 1789444660.7987916
+    },
+    {
+      "topic": "sovereign_wealth_fund_deep",
+      "file": "pages/sovereign_wealth_fund_deep.md",
+      "sources": 25,
+      "question": "sovereign wealth fund management investment strategy Norway Singapore UAE",
+      "timestamp": 1789453563.893811
+    },
+    {
+      "topic": "mmt_critiques_deep",
+      "file": "pages/mmt_critiques_deep.md",
+      "sources": 25,
+      "question": "Modern Monetary Theory critiques limitations inflation constraints sovereign currency",
+      "timestamp": 1789453564.0166557
+    },
+    {
+      "topic": "debt_free_economy_deep",
+      "file": "pages/debt_free_economy_deep.md",
+      "sources": 18,
+      "question": "debt-free economy chartalism neochartalism mutual credit endogenous money",
+      "timestamp": 1789453602.649462
+    },
+    {
+      "topic": "no_debt_monetary_debt",
+      "file": "pages/no_debt_monetary_debt.md",
+      "sources": 25,
+      "question": "debt-free monetary system mutual credit complementary currency local currency",
+      "timestamp": 1789454056.3999887
+    },
+    {
+      "topic": "coffer_treasury_deep",
+      "file": "pages/coffer_treasury_deep.md",
+      "sources": 15,
+      "question": "national treasury management coffer system public finance sovereign wealth fund",
+      "timestamp": 1789454093.28948
+    },
+    {
+      "topic": "space_economics_deep",
+      "file": "pages/space_economics_deep.md",
+      "sources": 19,
+      "question": "space economy space-faring civilization economics orbital manufacturing asteroid mining",
+      "timestamp": 1789454095.310317
+    },
+    {
+      "topic": "seymour_wins_gov_deep",
+      "file": "pages/seymour_wins_gov_deep.md",
+      "sources": 15,
+      "question": "Seymour Ponderables government library publishing knowledge preservation",
+      "timestamp": 1789454139.5054152
+    },
+    {
+      "topic": "self_sufficient_gov_deep",
+      "file": "pages/self_sufficient_gov_deep.md",
+      "sources": 18,
+      "question": "self-sufficient government municipal utilities public services cooperative ownership",
+      "timestamp": 1789454139.559947
+    },
+    {
+      "topic": "gov_org_citizen_deep",
+      "file": "pages/gov_org_citizen_deep.md",
+      "sources": 19,
+      "question": "government organization sole citizen founder governance structure",
+      "timestamp": 1789454168.7018788
+    },
+    {
+      "topic": "angel_investor_trust_deep",
+      "file": "pages/angel_investor_trust_deep.md",
+      "sources": 15,
+      "question": "angel investor trust structure equity-free capital gift economy patronage",
+      "timestamp": 1789454169.0852764
+    },
+    {
+      "topic": "dscr_real_estate_deep",
+      "file": "pages/dscr_real_estate_deep.md",
+      "sources": 1,
+      "question": "DSCR debt service coverage ratio real estate lending bank requirements 2025 2026",
+      "timestamp": 1789457181.4906738
+    },
+    {
+      "topic": "loss_aversion_behavioral",
+      "file": "pages/loss_aversion_behavioral.md",
+      "sources": 16,
+      "question": "loss aversion behavioral economics Kahneman Tversky prospect theory landlord",
+      "timestamp": 1789457181.6253374
+    },
+    {
+      "topic": "vacancy_economics",
+      "file": "pages/vacancy_economics.md",
+      "sources": 17,
+      "question": "vacancy cost economics landlord behavior rent pricing loss aversion real estate",
+      "timestamp": 1789457181.6463027
+    }
+  ]
+}

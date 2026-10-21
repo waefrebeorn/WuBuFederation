@@ -1,0 +1,14 @@
+{
+  "schema": "wubu-federation-registry-v1",
+  "organs": [
+    {"organ": "state",      "repo": "wubugov",     "division": "GOV", "name": "WuBuGov — the State",       "role": "the constitution, doctrines, indexes"},
+    {"organ": "record",     "repo": "wubutimeline", "division": "TL", "name": "WuBuTimeline — the Record", "role": "THE HISTORY: civilizations, views, forces, gap events, chain"},
+    {"organ": "bureau",     "repo": "wubuintel",   "division": "WBI", "name": "WuBuIntel — the Bureau",    "role": "vigilance, WBI-1 reports, watchlist"},
+    {"organ": "mind",       "repo": "wuburesearch","division": "RND", "name": "WuBuResearch — the Mind",   "role": "research, invention, math proofs"},
+    {"organ": "registry",   "repo": "wubucitizen", "division": "REG", "name": "WuBuCitizen — the Registry", "role": "citizenship, WIDs, scores"},
+    {"organ": "ledger",     "repo": "wubuecon",    "division": "ECO", "name": "WuBuEconomics — the Ledger", "role": "money, land, inflation, greed"},
+    {"organ": "hands",      "repo": "wubucore",    "division": "CORE","name": "WuBuCore — the Hands",      "role": "C11 tools, tests, audit gates"}
+  ],
+  "filing_rule": "every doctrine ships a tool; every audit ships a tool; the Bureau files; the State indexes; the Hands stay honest",
+  "generated_by": "govgen.py — the registry is the single source of truth; all indexes are generated, never hand-maintained"
+}

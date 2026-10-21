@@ -1,0 +1,135 @@
+{
+  "schema": "wubu-forces-v1",
+  "title": "THE FORCES — the seven drives that mash up the timeline",
+  "note": "Wrath, War, Greed, Identity, Classism, Wealth Dynamic, Agism. Seven forces, no clean tracks: each feeds the others, all tangled at once. The mashy mishy is the point — history is not seven lines, it is one braid.",
+  "forces": [
+    {
+      "force": 1,
+      "name": "WRATH",
+      "engine": "injustice felt as fire",
+      "shape": "eruption: build, flash, ash, rebuild",
+      "feeds": ["War", "Identity", "Classism"],
+      "fed_by": ["Greed", "Classism", "Agism"],
+      "moments": [
+        "The Ionian Revolt (499–493 BCE) — Greek cities burn Sardis; Persia answers with Marathon",
+        "The Persian sack of Athens (480 BCE) — Xerxes burns the city, rage answered with rage",
+        "The Peasants' Revolt (1381) — poll tax lights England",
+        "The French Revolution (1789) — the storming of the Bastille",
+        "The Haitian Revolution (1791) — the enslaved rise",
+        "The Paris Commune (1871)",
+        "The Arab Spring (2011) — a fruit-seller's self-immolation ignites a region"
+      ],
+      "marker": "Every revolution is wrath arriving on schedule."
+    },
+    {
+      "force": 2,
+      "name": "WAR",
+      "engine": "organized violence as policy",
+      "shape": "front: states define themselves at the line",
+      "feeds": ["Greed", "Wealth Dynamic", "Identity"],
+      "fed_by": ["Wrath", "Greed", "Identity"],
+      "moments": [
+        "The Bronze Age collapse (c. 1200 BCE) — the Sea Peoples",
+        "The Peloponnesian War (431–404 BCE)",
+        "The Mongol conquests (1206–1368) — largest contiguous empire",
+        "The Thirty Years' War (1618–1648)",
+        "The World Wars (1914–1945) — industrial war",
+        "Total war's echo: the Cold War (1947–1991)"
+      ],
+      "marker": "States make war; war makes states."
+    },
+    {
+      "force": 3,
+      "name": "GREED",
+      "engine": "capture without contribution",
+      "shape": "accumulation: the hoard that outgrows the holder",
+      "feeds": ["Classism", "Wrath", "Wealth Dynamic"],
+      "fed_by": ["War", "Wealth Dynamic", "Identity"],
+      "moments": [
+        "The latifundia of Rome — estates swallow the small farms",
+        "The South Sea Bubble (1720) — paper greed",
+        "The East India Company — corporate extraction as empire",
+        "The Robber Barons (1870–1900)",
+        "The 2008 financial crisis — leverage as greed's purest form",
+        "The Greed Index of this space (ECO-8) — greed located, filed, spotlighted"
+      ],
+      "marker": "Greed is the engine the space measures, not preaches against."
+    },
+    {
+      "force": 4,
+      "name": "IDENTITY",
+      "engine": "the line between us and them",
+      "shape": "border: who counts, drawn and redrawn",
+      "feeds": ["War", "Wrath", "Classism"],
+      "fed_by": ["War", "Agism", "Wealth Dynamic"],
+      "moments": [
+        "The Persian Wars — Greek vs barbarian, identity forged in fire",
+        "The Jewish diaspora — identity carried without land",
+        "The Crusades — Christendom vs Dar al-Islam",
+        "The Reformation — belief splits the west",
+        "Nation-states (1789–1945) — the nation as identity engine",
+        "Identity politics (1960s–now) — the line drawn smaller"
+      ],
+      "marker": "Identity decides who the war is fought for, and who is looted."
+    },
+    {
+      "force": 5,
+      "name": "CLASSISM",
+      "engine": "rank enforced as nature",
+      "shape": "pyramid: someone is always below",
+      "feeds": ["Wrath", "Identity", "Agism"],
+      "fed_by": ["Greed", "Wealth Dynamic", "War"],
+      "moments": [
+        "Caste in the Vedic world — rank as cosmic order",
+        "The patrician-plebeian struggle in Rome",
+        "Serfdom in Europe — the tied laborer",
+        "The Three Estates — clergy, nobility, everyone else",
+        "The plantation system — race fused to rank",
+        "The industrial proletariat — class as the engine of modern politics"
+      ],
+      "marker": "Classism is greed wearing a costume of nature."
+    },
+    {
+      "force": 6,
+      "name": "WEALTH DYNAMIC",
+      "engine": "value moving, or refusing to move",
+      "shape": "current: flows, dams, floods, and dry beds",
+      "feeds": ["Classism", "Greed", "Identity"],
+      "fed_by": ["War", "Greed", "Agism"],
+      "moments": [
+        "Cowrie shells — money before the state",
+        "The Lydian coin (c. 600 BCE) — value stamped",
+        "The Silk Roads — value in transit",
+        "The Atlantic system — wealth on the back of the enslaved",
+        "The penny — the space's anchor: weight, honesty, no reserve",
+        "The W Token — the old penny stamped, value becoming trust"
+      ],
+      "marker": "Every other force leaves its footprint in the flow of value."
+    },
+    {
+      "force": 7,
+      "name": "AGISM",
+      "engine": "age as rank and rhythm",
+      "shape": "generation: elders hold, youth storm, the cycle turns",
+      "feeds": ["Identity", "Wrath", "Wealth Dynamic"],
+      "fed_by": ["Classism", "War", "Greed"],
+      "moments": [
+        "The gerontocracy of ancient Sparta — elders rule by design",
+        "The Zhou Mandate — the old dynasty loses Heaven's favor",
+        "Khaldun's cycle (1377) — asabiyyah decays over three generations: founders, heirs, wastrels",
+        "The 1960s youth revolt — the young against the old order",
+        "The Boomer-Millennial standoff — age as a class line",
+        "The Architect Doctrine (GOV-21) — the founder files for their own exit before dementia"
+      ],
+      "marker": "Khaldun proved it: dynasties die of their own generations."
+    }
+  ],
+  "the_braid": [
+    "Bronze Age collapse (c. 1200 BCE): WAR (Sea Peoples) + IDENTITY (migration) + WEALTH DYNAMIC (trade dies) — the first mash",
+    "Roman decline: GREED (tax farming) + CLASSISM (patrician vs plebeian) + WRATH (revolts) + WAR (frontiers fail)",
+    "The Crusades: IDENTITY (faith) + WAR (holy war) + GREED (plunder and trade) — the cross and the coin",
+    "The Atlantic world: GREED (extraction) + CLASSISM (race as rank) + WEALTH DYNAMIC (chattel as capital) + IDENTITY (who is human)",
+    "The Long 19th Century: WAR (Napoleon to 1914) + CLASSISM (proletariat) + WEALTH DYNAMIC (industrial capital) + IDENTITY (nations)",
+    "The Present: AGISM (generation war) + IDENTITY (identity politics) + WEALTH DYNAMIC (inequality) + WRATH (populism) + GREED (the Index watches)"
+  ]
+}

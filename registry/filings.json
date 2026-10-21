@@ -1,0 +1,1804 @@
+{
+  "schema": "wubu-filings-v1",
+  "filings": [
+    {
+      "id": "AUD-1",
+      "file": "wubugov/docs/audit-triple-da.md",
+      "repo": "wubugov",
+      "title": "Triple Devil's Advocate Audit Methodology",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "AUD-2",
+      "repo": "wuburesearch",
+      "title": "Triple-DA Audit 2 (AUD-2 annotation)",
+      "status": "cited",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": null,
+      "evidence": "PROJECT_TIMELINE.md"
+    },
+    {
+      "id": "AUD-3",
+      "file": "wubugov/ADVERSARIAL_AUDIT.md",
+      "repo": "wubugov",
+      "title": "Adversarial Audit",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "CER-1",
+      "file": "wubucitizen/ceremonies/template.md",
+      "repo": "wubucitizen",
+      "title": "Ceremony Template",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-1",
+      "file": "wubuecon/docs/precedents.md",
+      "repo": "wubuecon",
+      "title": "Precedents",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-2",
+      "file": "wubuecon/docs/penny-comeback.md",
+      "repo": "wubuecon",
+      "title": "Penny Comeback",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-3",
+      "file": "wubuecon/docs/economic-doctrine.md",
+      "repo": "wubuecon",
+      "title": "Economic Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-4",
+      "file": "wubuecon/docs/land-question.md",
+      "repo": "wubuecon",
+      "title": "Land Question",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-5",
+      "file": "wubuecon/docs/inflation-everything.md",
+      "repo": "wubuecon",
+      "title": "Inflation Everything",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-6",
+      "file": "wubuecon/docs/nexus-doctrine.md",
+      "repo": "wubuecon",
+      "title": "Nexus Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-7",
+      "file": "wubuecon/docs/newell-doctrine.md",
+      "repo": "wubuecon",
+      "title": "Newell Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-8",
+      "file": "wubuecon/docs/greed-index.md",
+      "repo": "wubuecon",
+      "title": "Greed Index",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "ECO-9",
+      "file": "wubuecon/docs/research-log.md",
+      "repo": "wubuecon",
+      "title": "Research Log",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-1",
+      "file": "wubugov/docs/nature-of-government.md",
+      "repo": "wubugov",
+      "title": "The Nature of Government",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-11",
+        "GOV-2"
+      ]
+    },
+    {
+      "id": "GOV-2",
+      "file": "wubugov/docs/adaptation-not-dissolution.md",
+      "repo": "wubugov",
+      "title": "Adaptation Not Dissolution",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-1",
+        "GOV-34"
+      ]
+    },
+    {
+      "id": "GOV-3",
+      "file": "wubugov/docs/human-centered-doctrine.md",
+      "repo": "wubugov",
+      "title": "Human-Centered Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-6"
+      ]
+    },
+    {
+      "id": "GOV-4",
+      "file": "wubugov/docs/digital-government-doctrine.md",
+      "repo": "wubugov",
+      "title": "Digital Government Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-5",
+      "file": "wubugov/docs/user-doctrine.md",
+      "repo": "wubugov",
+      "title": "User Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-6",
+      "file": "wubugov/docs/integration-doctrine.md",
+      "repo": "wubugov",
+      "title": "Integration Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-3"
+      ]
+    },
+    {
+      "id": "GOV-7",
+      "file": "wubugov/docs/china-model-doctrine.md",
+      "repo": "wubugov",
+      "title": "China Model Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-8",
+      "file": "wubugov/docs/agi-system-doctrine.md",
+      "repo": "wubugov",
+      "title": "AGI System Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-9",
+      "file": "wubugov/docs/ratchet-doctrine.md",
+      "repo": "wubugov",
+      "title": "Ratchet Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-21"
+      ]
+    },
+    {
+      "id": "GOV-10",
+      "file": "wubugov/docs/two-tongue-doctrine.md",
+      "repo": "wubugov",
+      "title": "Two-Tongue Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-11",
+      "file": "wubugov/docs/organization-doctrine.md",
+      "repo": "wubugov",
+      "title": "Organization Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-1",
+        "GOV-12",
+        "GOV-13",
+        "GOV-14",
+        "GOV-15",
+        "GOV-16",
+        "GOV-17"
+      ]
+    },
+    {
+      "id": "GOV-12",
+      "file": "wubugov/docs/dispatch-doctrine.md",
+      "repo": "wubugov",
+      "title": "Dispatch Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-13",
+      "file": "wubugov/docs/treaty-doctrine.md",
+      "repo": "wubugov",
+      "title": "Treaty Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-14",
+      "file": "wubugov/docs/mint-doctrine.md",
+      "repo": "wubugov",
+      "title": "The Mint Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-19",
+        "GOV-48"
+      ]
+    },
+    {
+      "id": "GOV-15",
+      "file": "wubugov/docs/ship-doctrine.md",
+      "repo": "wubugov",
+      "title": "Ship Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-16",
+      "file": "wubugov/docs/archive-doctrine.md",
+      "repo": "wubugov",
+      "title": "Archive Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-17",
+      "file": "wubugov/docs/vote-doctrine.md",
+      "repo": "wubugov",
+      "title": "Vote Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-64"
+      ]
+    },
+    {
+      "id": "GOV-18",
+      "file": "wubugov/docs/registry-doctrine.md",
+      "repo": "wubugov",
+      "title": "Registry Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-19",
+      "file": "wubugov/docs/w-token-doctrine.md",
+      "repo": "wubugov",
+      "title": "W Token Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-14",
+        "GOV-28",
+        "GOV-30",
+        "GOV-48"
+      ]
+    },
+    {
+      "id": "GOV-20",
+      "file": "wubugov/docs/criticism-audit.md",
+      "repo": "wubugov",
+      "title": "Criticism Audit",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-47"
+      ]
+    },
+    {
+      "id": "GOV-21",
+      "file": "wubugov/docs/architect-doctrine.md",
+      "repo": "wubugov",
+      "title": "Architect Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-22",
+      "file": "wubugov/docs/timeline-doctrine.md",
+      "repo": "wubugov",
+      "title": "Timeline Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-23",
+      "file": "wubugov/docs/views-doctrine.md",
+      "repo": "wubugov",
+      "title": "Views Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-24",
+      "file": "wubugov/docs/forces-doctrine.md",
+      "repo": "wubugov",
+      "title": "Forces Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-25",
+      "file": "wubugov/docs/first-ones-doctrine.md",
+      "repo": "wubugov",
+      "title": "First Ones Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-26",
+      "file": "wubugov/docs/education-efficacy-doctrine.md",
+      "repo": "wubugov",
+      "title": "Education Efficacy Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-27",
+      "file": "wubugov/docs/gap-events-doctrine.md",
+      "repo": "wubugov",
+      "title": "Gap Events Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-28",
+      "file": "wubugov/docs/w-token-nature-doctrine.md",
+      "repo": "wubugov",
+      "title": "W Token Nature Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-19"
+      ]
+    },
+    {
+      "id": "GOV-29",
+      "file": "wubugov/docs/reflective-moment.md",
+      "repo": "wubugov",
+      "title": "Reflective Moment",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-30",
+      "file": "wubugov/docs/dual-token-doctrine.md",
+      "repo": "wubugov",
+      "title": "Dual-Token Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-19",
+        "GOV-48"
+      ]
+    },
+    {
+      "id": "GOV-31",
+      "file": "wubugov/docs/federation-doctrine.md",
+      "repo": "wubugov",
+      "title": "Federation Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-32",
+      "file": "wubugov/docs/progeny-doctrine.md",
+      "repo": "wubugov",
+      "title": "Progeny Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-33"
+      ]
+    },
+    {
+      "id": "GOV-33",
+      "file": "wubugov/docs/base-economy.md",
+      "repo": "wubugov",
+      "title": "Base Economy",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-32",
+        "GOV-51"
+      ]
+    },
+    {
+      "id": "GOV-34",
+      "file": "wubugov/docs/constitutional-hardline.md",
+      "repo": "wubugov",
+      "title": "Constitutional Hardline",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-2",
+        "GOV-64"
+      ]
+    },
+    {
+      "id": "GOV-35",
+      "file": "wubugov/docs/accommodationist-doctrine.md",
+      "repo": "wubugov",
+      "title": "Accommodationist Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-36",
+      "file": "wubugov/docs/engagement-doctrine.md",
+      "repo": "wubugov",
+      "title": "Engagement Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-37",
+      "file": "wubugov/docs/identity-doctrine.md",
+      "repo": "wubugov",
+      "title": "Identity Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-40"
+      ]
+    },
+    {
+      "id": "GOV-38",
+      "file": "wubugov/docs/onboarding-doctrine.md",
+      "repo": "wubugov",
+      "title": "Onboarding Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-39",
+      "file": "wubugov/docs/interoperability-doctrine.md",
+      "repo": "wubugov",
+      "title": "Interoperability Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-40",
+      "file": "wubugov/docs/whimsical-transparency.md",
+      "repo": "wubugov",
+      "title": "Whimsical Transparency",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-37"
+      ]
+    },
+    {
+      "id": "GOV-41",
+      "file": "wubugov/docs/fast-track-trap.md",
+      "repo": "wubugov",
+      "title": "Fast Track Trap",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-42",
+        "GOV-63"
+      ]
+    },
+    {
+      "id": "GOV-42",
+      "file": "wubugov/docs/honey-trap.md",
+      "repo": "wubugov",
+      "title": "Honey Trap",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-41",
+        "GOV-51"
+      ]
+    },
+    {
+      "id": "GOV-43",
+      "file": "wubugov/docs/quick-start.md",
+      "repo": "wubugov",
+      "title": "Quick Start",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-44",
+      "file": "wubugov/docs/multi-perspective-timeline.md",
+      "repo": "wubugov",
+      "title": "Multi-Perspective Timeline",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-45",
+      "file": "wubugov/docs/national-treasury-bridge.md",
+      "repo": "wubugov",
+      "title": "National Treasury Bridge",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-46",
+      "file": "wubugov/docs/inclusion-engine.md",
+      "repo": "wubugov",
+      "title": "Inclusion Engine",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-47",
+      "file": "wubugov/docs/enforcement-doctrine.md",
+      "repo": "wubugov",
+      "title": "Enforcement Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-13"
+      ]
+    },
+    {
+      "id": "GOV-48",
+      "file": "wubugov/docs/w-mint.md",
+      "repo": "wubugov",
+      "title": "The W Mint",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-14",
+        "GOV-19",
+        "GOV-30"
+      ]
+    },
+    {
+      "id": "GOV-49",
+      "file": "wubugov/docs/global-organization.md",
+      "repo": "wubugov",
+      "title": "Global Organization",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-50",
+      "file": "wubugov/docs/lodge-system.md",
+      "repo": "wubugov",
+      "title": "Lodge System",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-51"
+      ]
+    },
+    {
+      "id": "GOV-51",
+      "file": "wubugov/docs/purpose-tree.md",
+      "repo": "wubugov",
+      "title": "The Purpose Tree",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-42",
+        "GOV-50"
+      ]
+    },
+    {
+      "id": "GOV-53",
+      "file": "wubugov/docs/communication-framework.md",
+      "repo": "wubugov",
+      "title": "Communication Framework",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-54",
+      "file": "wubugov/docs/brand-identity.md",
+      "repo": "wubugov",
+      "title": "Brand Identity",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-55",
+      "file": "wubugov/docs/docket-system.md",
+      "repo": "wubugov",
+      "title": "Docket System",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-56",
+      "file": "wubugov/docs/meek-inheritance.md",
+      "repo": "wubugov",
+      "title": "Meek Inheritance",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-57",
+      "repo": "wubugov",
+      "file": "wubugov/docs/reserved-gov-57.md",
+      "title": "Reserved (GOV-57)",
+      "status": "reserved",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-58",
+      "repo": "wubugov",
+      "file": "wubugov/docs/reserved-gov-58.md",
+      "title": "Reserved (GOV-58)",
+      "status": "reserved",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-59",
+      "repo": "wubugov",
+      "file": "wubugov/docs/reserved-gov-59.md",
+      "title": "Reserved (GOV-59)",
+      "status": "reserved",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-60",
+      "file": "wubugov/docs/doctrine-improvements.md",
+      "repo": "wubugov",
+      "title": "Doctrine Improvements",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-61",
+      "repo": "wubugov",
+      "file": "wubugov/docs/reserved-gov-61.md",
+      "title": "Reserved (GOV-61)",
+      "status": "reserved",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-62",
+      "repo": "wubugov",
+      "file": "wubugov/docs/reserved-gov-62.md",
+      "title": "Reserved (GOV-62)",
+      "status": "reserved",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-63",
+      "file": "wubugov/docs/anti-meta-gaming.md",
+      "repo": "wubugov",
+      "title": "Anti-Meta-Gaming",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-41",
+        "GOV-42"
+      ]
+    },
+    {
+      "id": "GOV-64",
+      "file": "wubugov/docs/legal-foundation.md",
+      "repo": "wubugov",
+      "title": "Legal Foundation",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-34"
+      ]
+    },
+    {
+      "id": "GOV-65",
+      "file": "wubugov/docs/zero-debt-doctrine.md",
+      "repo": "wubugov",
+      "title": "Zero Debt Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-45"
+      ]
+    },
+    {
+      "id": "GOV-66",
+      "file": "wubugov/docs/7-magic-keys.md",
+      "repo": "wubugov",
+      "title": "7 Magic Keys",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-7"
+      ]
+    },
+    {
+      "id": "GOV-67",
+      "file": "wubugov/docs/cloudflare-setup.md",
+      "repo": "wubugov",
+      "title": "Cloudflare Setup",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-68",
+      "file": "wubugov/docs/email-system.md",
+      "repo": "wubugov",
+      "title": "Email System",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-69",
+      "file": "wubugov/docs/github-org.md",
+      "repo": "wubugov",
+      "title": "GitHub Organization",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-70",
+      "file": "wubugov/docs/profitability.md",
+      "repo": "wubugov",
+      "title": "Profitability",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "GOV-71",
+      "file": "wubugov/docs/vacancy-principle.md",
+      "repo": "wubugov",
+      "title": "The Vacancy Principle \u2014 Behavioral Economics of Pricing and Humility",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-33",
+        "GOV-51"
+      ]
+    },
+    {
+      "id": "GOV-72",
+      "file": "wubugov/docs/intentional-contradictions.md",
+      "repo": "wubugov",
+      "title": "The Intentional Contradictions Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-2",
+        "GOV-34",
+        "GOV-63"
+      ]
+    },
+    {
+      "id": "GOV-73",
+      "file": "wubugov/docs/failure-taxonomy.md",
+      "repo": "wubugov",
+      "title": "The Failure Taxonomy \u2014 Lessons from Collapsed Systems",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-17",
+        "GOV-47",
+        "GOV-50",
+        "GOV-63",
+        "GOV-64"
+      ]
+    },
+    {
+      "id": "GOV-74",
+      "file": "wubugov/docs/recursive-improvement.md",
+      "repo": "wubugov",
+      "title": "The Recursive Improvement Doctrine",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-17",
+        "GOV-30",
+        "GOV-47",
+        "GOV-63"
+      ]
+    },
+    {
+      "id": "GOV-75",
+      "file": "wubugov/docs/regulatory-capture-defense.md",
+      "repo": "wubugov",
+      "title": "The Regulatory Capture Defense \u2014 Avoiding the Anthropic Model",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-47",
+        "GOV-63",
+        "GOV-72"
+      ]
+    },
+    {
+      "id": "GOV-76",
+      "file": "wubugov/docs/doom-loop-defense.md",
+      "repo": "wubugov",
+      "title": "The Doom Loop \u2014 Coordinated Fear Campaigns and WuBuGov Immunity",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-40",
+        "GOV-63",
+        "GOV-75"
+      ]
+    },
+    {
+      "id": "GOV-77",
+      "repo": "wubugov",
+      "file": "wubugov/docs/integrity-doctrine.md",
+      "title": "The Integrity Doctrine \u2014 the Seal and the Gates",
+      "status": "filed",
+      "tools": [
+        "govgen"
+      ],
+      "cross": [
+        "GOV-18",
+        "RND-3",
+        "GOV-63"
+      ]
+    },
+    {
+      "id": "REG-1",
+      "file": "wubucitizen/docs/citizenship.md",
+      "repo": "wubucitizen",
+      "title": "Citizenship",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "REG-2",
+      "file": "wubucitizen/docs/penny-score.md",
+      "repo": "wubucitizen",
+      "title": "Penny Score",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "REG-3",
+      "file": "wubucitizen/docs/society-map.md",
+      "repo": "wubucitizen",
+      "title": "Society Map",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "REG-4",
+      "file": "wubucitizen/docs/wbi1-schema.md",
+      "repo": "wubucitizen",
+      "title": "WBI-1 Schema",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "REG-5",
+      "file": "wubucitizen/docs/wid-capacity-audit.md",
+      "repo": "wubucitizen",
+      "title": "WID Capacity Audit",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "REG-6",
+      "file": "wubucitizen/docs/wid-issuance-sla.md",
+      "repo": "wubucitizen",
+      "title": "WID Issuance SLA",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "REG-7",
+      "file": "wubucitizen/docs/wid.md",
+      "repo": "wubucitizen",
+      "title": "WID",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-0.1",
+      "repo": "wuburesearch",
+      "title": "R&D Organization",
+      "status": "filed",
+      "tools": [],
+      "cross": [],
+      "file": "wuburesearch/docs/organization.md"
+    },
+    {
+      "id": "RND-1",
+      "file": "wuburesearch/docs/scoring.md",
+      "repo": "wuburesearch",
+      "title": "Scoring",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-2",
+      "file": "wuburesearch/docs/security.md",
+      "repo": "wuburesearch",
+      "title": "Security",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-3",
+      "repo": "wuburesearch",
+      "title": "WuBu Cryptography (PennyChain, Provenance Penny)",
+      "status": "filed",
+      "tools": [
+        "pennychain"
+      ],
+      "cross": [],
+      "file": "wuburesearch/docs/wubu-cryptography.md"
+    },
+    {
+      "id": "RND-4",
+      "repo": "wuburesearch",
+      "title": "Penny Tracking (lifecycle)",
+      "status": "filed",
+      "tools": [],
+      "cross": [],
+      "file": "wuburesearch/docs/penny-tracking.md"
+    },
+    {
+      "id": "RND-5",
+      "file": "wuburesearch/docs/currency-legality.md",
+      "repo": "wuburesearch",
+      "title": "Currency Legality",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-6",
+      "file": "wuburesearch/docs/penny-standard.md",
+      "repo": "wuburesearch",
+      "title": "Penny Standard",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-7",
+      "repo": "wuburesearch",
+      "title": "The Copper Class / Pre-Penny Standard",
+      "status": "filed",
+      "tools": [],
+      "cross": [],
+      "file": "wuburesearch/docs/copper-class.md"
+    },
+    {
+      "id": "RND-10",
+      "repo": "wubuecon",
+      "title": "Economic Doctrine (cross-file from WuBuEconomics ECO-3)",
+      "status": "cross-file",
+      "tools": [
+        "status_loop"
+      ],
+      "cross": [],
+      "file": "wubuecon/docs/economic-doctrine.md"
+    },
+    {
+      "id": "RND-11",
+      "repo": "wubuecon",
+      "title": "Land Question (cross-file from WuBuEconomics ECO-4)",
+      "status": "cross-file",
+      "tools": [
+        "vacant_lot"
+      ],
+      "cross": [],
+      "file": "wubuecon/docs/land-question.md"
+    },
+    {
+      "id": "RND-12",
+      "repo": "wubuecon",
+      "title": "Inflation of Everything (cross-file from WuBuEconomics ECO-5)",
+      "status": "cross-file",
+      "tools": [
+        "lifespan_loop"
+      ],
+      "cross": [],
+      "file": "wubuecon/docs/inflation-everything.md"
+    },
+    {
+      "id": "RND-13",
+      "repo": "wubuecon",
+      "title": "Nexus Doctrine (cross-file from WuBuEconomics ECO-6)",
+      "status": "cross-file",
+      "tools": [
+        "numbing"
+      ],
+      "cross": [],
+      "file": "wubuecon/docs/nexus-doctrine.md"
+    },
+    {
+      "id": "RND-15",
+      "repo": "wuburesearch",
+      "title": "Kevin Bacon Method + Frontier Epistemology (via GOV-2)",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-16",
+      "repo": "wuburesearch",
+      "title": "Penny Day (the event protocol)",
+      "status": "filed",
+      "tools": [],
+      "cross": [],
+      "file": "wuburesearch/docs/penny-day.md"
+    },
+    {
+      "id": "RND-17",
+      "file": "wuburesearch/docs/world-model.md",
+      "repo": "wuburesearch",
+      "title": "World Model",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-18",
+      "repo": "wuburesearch",
+      "title": "The Mirror Problem (via GOV-3)",
+      "status": "log-filed",
+      "tools": [
+        "mirror_score"
+      ],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-19",
+      "repo": "wuburesearch",
+      "title": "AI Ethics & Asimov (WuBu Laws of Tools)",
+      "status": "filed",
+      "tools": [
+        "wubu_laws"
+      ],
+      "cross": [],
+      "file": "wuburesearch/docs/ai-ethics-asimov.md"
+    },
+    {
+      "id": "RND-20",
+      "repo": "wuburesearch",
+      "title": "The Language Doctrine (plain language)",
+      "status": "log-filed",
+      "tools": [
+        "plain_lang"
+      ],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-21",
+      "repo": "wuburesearch",
+      "title": "Language Unification (7-step research)",
+      "status": "filed",
+      "tools": [],
+      "cross": [],
+      "file": "wuburesearch/docs/language-unification.md"
+    },
+    {
+      "id": "RND-22",
+      "repo": "wuburesearch",
+      "title": "The STE Discipline (Simplified Technical English)",
+      "status": "log-filed",
+      "tools": [
+        "plain_lang"
+      ],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-23",
+      "repo": "wuburesearch",
+      "title": "WuBu Score Expansion: Crew + Compass C11",
+      "status": "log-filed",
+      "tools": [
+        "crew_score",
+        "compass_score"
+      ],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-24",
+      "repo": "wuburesearch",
+      "title": "The W Token Ceremony (via GOV-19)",
+      "status": "log-filed",
+      "tools": [
+        "w_token"
+      ],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-25",
+      "repo": "wuburesearch",
+      "title": "Kevin Bacon 7-step verification of HISTORY/VIEWS/FORCES data",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-26",
+      "repo": "wuburesearch",
+      "title": "Triple-DA of THE VIEWS: worldview criticisms + Empty Center fix",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-27",
+      "repo": "wuburesearch",
+      "title": "Full research pass on gaps: 8 new worldviews (36\u219244 splinters), Mali fix",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-28",
+      "repo": "wuburesearch",
+      "title": "Gap-event research: 10 events in 4 gap types (GOV-27)",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-29",
+      "repo": "wuburesearch",
+      "title": "Triple-DA of GAP EVENTS: EV-10 Rome-Han 166 CE fix, EV-6/EV-3/EV-7 overclaims",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-30",
+      "repo": "wuburesearch",
+      "title": "Timeline critic-audit: British Empire\u21921997, Minoan\u21921100, Egypt/Sumer, Mongols, religions",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-31",
+      "repo": "wuburesearch",
+      "title": "100-correction deep audit: stale numbers, GAP EVENTS, doctrine language",
+      "status": "cited",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": null,
+      "evidence": "PROJECT_TIMELINE.md"
+    },
+    {
+      "id": "RND-32",
+      "repo": "wuburesearch",
+      "title": "Swiss open-government research (EMBAG) + world comparison + W token doctrine",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-33",
+      "repo": "wuburesearch",
+      "title": "Timeline scouring pass: 10 civilizations, 10 events, 3 gap events (35->45 civs)",
+      "status": "log-filed",
+      "tools": [
+        "wubu_scour"
+      ],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-34",
+      "repo": "wuburesearch",
+      "title": "Great scouring pass: 35->79 civilizations, corpus built, organizer built, 4 gap events",
+      "status": "log-filed",
+      "tools": [
+        "wubu_scour",
+        "wubu_organize"
+      ],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-35",
+      "repo": "wuburesearch",
+      "title": "Distiller migration (unstable->stable, genesis stack) + v1 order-#1 research + docs PDF",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-36",
+      "repo": "wuburesearch",
+      "title": "Stream transcribed (Qwen3-ASR-1.7B, 96k chars): who WaefreBeorn is \u2014 profile filed",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-37",
+      "repo": "wuburesearch",
+      "title": "v0.5 beta archived (7.3GB SHA256-verified) + cohesive-update design (registry, code-only)",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-38",
+      "repo": "wuburesearch",
+      "title": "CM4 revival: update-gap report, SOTA micro-models 2026, A72 kernel design, fork plan",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-39",
+      "repo": "wuburesearch",
+      "title": "distiller-c11: C11 e-ink SDK port, 5/5 tests + 3.13ms bench verified on CM4",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-40",
+      "repo": "wuburesearch",
+      "title": "Both devices backed up (SHA256-verified) + speed/codebase/model-availability comparisons",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-41",
+      "repo": "wuburesearch",
+      "title": "Complete Distiller device path reimplemented in C11 (11 modules, 11/11 tests on CM4), pushed to GitHub",
+      "status": "log-filed",
+      "tools": [],
+      "cross": [],
+      "file": null,
+      "record": "wuburesearch/docs/research-log.md"
+    },
+    {
+      "id": "RND-42",
+      "repo": "wuburesearch",
+      "file": "wuburesearch/docs/plastic-token-rnd.md",
+      "title": "Plastic Token System (collection, compression, mint)",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-43",
+      "repo": "wuburesearch",
+      "file": "wuburesearch/docs/banking-interoperability.md",
+      "title": "Banking Interoperability",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-44",
+      "repo": "wuburesearch",
+      "file": "wuburesearch/docs/api-interoperability.md",
+      "title": "API Interoperability",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-45",
+      "repo": "wuburesearch",
+      "file": "wuburesearch/docs/proof-of-cooperation.md",
+      "title": "Proof of Cooperation",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-52",
+      "file": "wuburesearch/docs/research-log.md",
+      "repo": "wuburesearch",
+      "title": "Research Log",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-ANT",
+      "file": "research/wiki/pages/anthropological_preservation.md",
+      "repo": "research",
+      "title": "Anthropological Preservation Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-BCT",
+      "file": "research/wiki/pages/banking_cooperation_tech.md",
+      "repo": "research",
+      "title": "Banking Cooperation Tech Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-BSE",
+      "file": "research/wiki/pages/base_economy.md",
+      "repo": "research",
+      "title": "Base Economy Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-CLE",
+      "file": "research/wiki/pages/corporate_license_enforcement.md",
+      "repo": "research",
+      "title": "Corporate License Enforcement Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-CMF",
+      "file": "research/wiki/pages/communication_framework.md",
+      "repo": "research",
+      "title": "Communication Framework Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-CPL",
+      "file": "research/wiki/pages/cooperative_lodge.md",
+      "repo": "research",
+      "title": "Cooperative Lodge Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-CSM",
+      "file": "research/wiki/pages/coin_stamping_methods.md",
+      "repo": "research",
+      "title": "Coin Stamping Methods Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-CTA",
+      "file": "research/wiki/pages/call_to_action.md",
+      "repo": "research",
+      "title": "Call to Action Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-DFE",
+      "file": "research/wiki/pages/debt_free_economy_deep.md",
+      "repo": "research",
+      "title": "Debt-Free Economy Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-DOI",
+      "file": "research/wiki/pages/doctrine_improvement.md",
+      "repo": "research",
+      "title": "Doctrine Improvement Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-DSCR",
+      "file": "research/wiki/pages/dscr_real_estate_deep.md",
+      "repo": "research",
+      "title": "DSCR Real Estate Lending Research",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-71"
+      ]
+    },
+    {
+      "id": "RND-FUL",
+      "file": "research/wiki/pages/fulfillment_missions.md",
+      "repo": "research",
+      "title": "Fulfillment Missions Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-GAS",
+      "file": "research/wiki/pages/gov_api_standards.md",
+      "repo": "research",
+      "title": "Government API Standards Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-GOA",
+      "file": "research/wiki/pages/government_api.md",
+      "repo": "research",
+      "title": "Government API Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-GOS",
+      "file": "research/wiki/pages/global_organization_structure.md",
+      "repo": "research",
+      "title": "Global Organization Structure Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-GWH",
+      "file": "research/wiki/pages/goodwill_history.md",
+      "repo": "research",
+      "title": "Goodwill History Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-IDO",
+      "file": "research/wiki/pages/identity_onboarding.md",
+      "repo": "research",
+      "title": "Identity Onboarding Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-LOS",
+      "file": "research/wiki/pages/loss_aversion_behavioral.md",
+      "repo": "research",
+      "title": "Loss Aversion Behavioral Economics Research",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-71"
+      ]
+    },
+    {
+      "id": "RND-MCI",
+      "file": "research/wiki/pages/microcredit_inclusion.md",
+      "repo": "research",
+      "title": "Microcredit Inclusion Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-MMT",
+      "file": "research/wiki/pages/mmt_critiques_deep.md",
+      "repo": "research",
+      "title": "MMT Critiques Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-NDM",
+      "file": "research/wiki/pages/no_debt_monetary_debt.md",
+      "repo": "research",
+      "title": "No-Debt Monetary Systems",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-OBG",
+      "file": "research/wiki/pages/onboarding_gamification.md",
+      "repo": "research",
+      "title": "Onboarding Gamification Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-OBO",
+      "file": "research/wiki/pages/onboarding_optimization.md",
+      "repo": "research",
+      "title": "Onboarding Optimization Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-POP",
+      "file": "research/wiki/pages/population_decline.md",
+      "repo": "research",
+      "title": "Population Decline Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-PPT",
+      "file": "research/wiki/pages/purpose_tree.md",
+      "repo": "research",
+      "title": "Purpose Tree Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-PSE",
+      "file": "research/wiki/pages/pseudoscience_engagement.md",
+      "repo": "research",
+      "title": "Pseudoscience Engagement Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-REC",
+      "file": "research/wiki/pages/religious_cooperation.md",
+      "repo": "research",
+      "title": "Religious Cooperation Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-SPC",
+      "file": "research/wiki/pages/space_economics_deep.md",
+      "repo": "research",
+      "title": "Space Economics Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-SSG",
+      "file": "research/wiki/pages/self_sufficient_gov_deep.md",
+      "repo": "research",
+      "title": "Self-Sufficient Government Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-SWF",
+      "file": "research/wiki/pages/sovereign_wealth_fund_deep.md",
+      "repo": "research",
+      "title": "Sovereign Wealth Fund Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-TKB",
+      "file": "research/wiki/pages/token_banking.md",
+      "repo": "research",
+      "title": "Token Banking Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-TLI",
+      "file": "research/wiki/pages/timeline_improvement.md",
+      "repo": "research",
+      "title": "Timeline Improvement Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-TLP",
+      "file": "research/wiki/pages/token_ledger_proof.md",
+      "repo": "research",
+      "title": "Token Ledger Proof Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-TRM",
+      "file": "research/wiki/pages/treasury_management.md",
+      "repo": "research",
+      "title": "Treasury Management Research",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "RND-VAC",
+      "file": "research/wiki/pages/vacancy_economics.md",
+      "repo": "research",
+      "title": "Vacancy Economics Deep Research",
+      "status": "filed",
+      "tools": [],
+      "cross": [
+        "GOV-71"
+      ]
+    },
+    {
+      "id": "WBI-1",
+      "file": "wubuintel/REPORTING.md",
+      "repo": "wubuintel",
+      "title": "Vigilance Report (Form WBI-1)",
+      "status": "filed",
+      "tools": [],
+      "cross": []
+    },
+    {
+      "id": "WBI-2",
+      "file": "wubuintel/DOCTRINE.md",
+      "repo": "wubuintel",
+      "title": "Bureau Doctrine (charter)",
+      "status": "charter",
+      "tools": [],
+      "cross": []
+    }
+  ],
+  "retired": [
+    {
+      "id": "RND-8",
+      "reason": "was the Precedents cross-file label; renumbered to ECO-1",
+      "used_in": [
+        "wubugov/docs/audit-triple-da.md",
+        "docs/audit-triple-da.md",
+        "wubugov/docs/registry-doctrine.md",
+        "GAPS_REPORT.md"
+      ]
+    },
+    {
+      "id": "RND-9",
+      "reason": "was the Penny Comeback cross-file label; renumbered to ECO-2",
+      "used_in": [
+        "wubugov/docs/registry-doctrine.md",
+        "GAPS_REPORT.md"
+      ]
+    },
+    {
+      "id": "RND-14",
+      "reason": "was the Newell Doctrine cross-file label; renumbered to ECO-7",
+      "used_in": [
+        "wubugov/docs/audit-triple-da.md",
+        "docs/audit-triple-da.md",
+        "wubugov/docs/registry-doctrine.md",
+        "GAPS_REPORT.md"
+      ]
+    },
+    {
+      "id": "GOV-52",
+      "reason": "registry slip \u2014 doctrine-improvements.md declares GOV-60 and GOV-53 cites it as GOV-60; renumbered to GOV-60",
+      "used_in": [
+        "wubugov/DEEP-REVIEW-GOV-3-53.md",
+        "wubugov/INDEX.md",
+        "INDEX.md"
+      ]
+    }
+  ]
+}

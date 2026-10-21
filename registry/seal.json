@@ -1,0 +1,780 @@
+{
+  "schema": "wubu-corpus-seal-v1",
+  "sealed": "2026-10-21",
+  "documents": 153,
+  "root": "b0b2ec2706a7873e0e610e1817270a9aa959e3737f7eea37e96a72f2a6e12d9c",
+  "prev_root": "f6f6258ca1b60a4403d149c536c9089de08d269ec6622e13d78030e36154b740",
+  "reason": "GOV-77 filed: the Integrity Doctrine",
+  "entries": [
+    {
+      "id": "RND-ANT",
+      "file": "research/wiki/pages/anthropological_preservation.md",
+      "sha256": "c29cbb03ecc0d506cfdc8c5d349f4beff6f0b9d8014306ca949f7140e21bcac7"
+    },
+    {
+      "id": "RND-BCT",
+      "file": "research/wiki/pages/banking_cooperation_tech.md",
+      "sha256": "83469c100fc9b699d153d5fecc33e135a33c631c0acb9d155097f83ebfd981aa"
+    },
+    {
+      "id": "RND-BSE",
+      "file": "research/wiki/pages/base_economy.md",
+      "sha256": "1527ec3d08667aad9b8f52827fe86730b8c640dfbe24da0b9097004432aece79"
+    },
+    {
+      "id": "RND-CTA",
+      "file": "research/wiki/pages/call_to_action.md",
+      "sha256": "89633204d080359fdc538fd3afbc2a116214b9ad7ef1cb39cf39cd3fed26f26a"
+    },
+    {
+      "id": "RND-CSM",
+      "file": "research/wiki/pages/coin_stamping_methods.md",
+      "sha256": "b400c04cf5d04ee179497955f68e6e8d4297ce5b7d7fab9d4fba3d286e628b46"
+    },
+    {
+      "id": "RND-CMF",
+      "file": "research/wiki/pages/communication_framework.md",
+      "sha256": "21b7e1d987f861f5806551ef943f7a60a1dd6daf3157ce55db251a31a6aec19d"
+    },
+    {
+      "id": "RND-CPL",
+      "file": "research/wiki/pages/cooperative_lodge.md",
+      "sha256": "7fab857af9577d71842a8f7691307e65409fa5cf4cde54b5791e94ad2b384688"
+    },
+    {
+      "id": "RND-CLE",
+      "file": "research/wiki/pages/corporate_license_enforcement.md",
+      "sha256": "2ba1814aee4da5a8dcfb7178b80bd91b0b0342cd2c47f45e63e5285642001e19"
+    },
+    {
+      "id": "RND-DFE",
+      "file": "research/wiki/pages/debt_free_economy_deep.md",
+      "sha256": "56c4b84e6d46af424a7999d2ad16d07e26d2f59f0a0aba4b879e0162a1e33a86"
+    },
+    {
+      "id": "RND-DOI",
+      "file": "research/wiki/pages/doctrine_improvement.md",
+      "sha256": "2fd79660c5413de38aafedc0f9e58de128bfdfb7c1fdd9e8dca390e67447973e"
+    },
+    {
+      "id": "RND-DSCR",
+      "file": "research/wiki/pages/dscr_real_estate_deep.md",
+      "sha256": "e965fbc73f1a759f4635cf5e83c839512c33dc76ab8b6fc8308aa6f91ecd74c8"
+    },
+    {
+      "id": "RND-FUL",
+      "file": "research/wiki/pages/fulfillment_missions.md",
+      "sha256": "bb808466fe7f25741e457b2d1fcff06a40a2aa81e3250ccb0b522f52ddd4cb41"
+    },
+    {
+      "id": "RND-GOS",
+      "file": "research/wiki/pages/global_organization_structure.md",
+      "sha256": "d02ddf9e83c03229a273f5dc212feed794c48749ff6f11d9765cadbf8c23e28b"
+    },
+    {
+      "id": "RND-GWH",
+      "file": "research/wiki/pages/goodwill_history.md",
+      "sha256": "8b32d94fd0823086c83900e2cb522791b2c02ec0ce0a0402dac3e31afe625523"
+    },
+    {
+      "id": "RND-GAS",
+      "file": "research/wiki/pages/gov_api_standards.md",
+      "sha256": "273800b5354afc2850a5023fdb74c678b0ea5f274dcd1440f762e6d5028b5a95"
+    },
+    {
+      "id": "RND-GOA",
+      "file": "research/wiki/pages/government_api.md",
+      "sha256": "fb611bb86bec9a435e708c37ff99075b77baeb6bdcef8f461787fc9f9e4ae1a2"
+    },
+    {
+      "id": "RND-IDO",
+      "file": "research/wiki/pages/identity_onboarding.md",
+      "sha256": "79b4fe1ad63f3300a40c9bae16fe7c32243757019dd6c9f397cb9df80a696b13"
+    },
+    {
+      "id": "RND-LOS",
+      "file": "research/wiki/pages/loss_aversion_behavioral.md",
+      "sha256": "96381120dea17f4cdef250ad6ad273c6fd7d9354cc39fe67f7477aab0f897a24"
+    },
+    {
+      "id": "RND-MCI",
+      "file": "research/wiki/pages/microcredit_inclusion.md",
+      "sha256": "1917626ed7ffea797ae5bb712abdd86ce846f467ce8b615ef917dc36398ce65b"
+    },
+    {
+      "id": "RND-MMT",
+      "file": "research/wiki/pages/mmt_critiques_deep.md",
+      "sha256": "419aa1e1b9b79d7d0b8bf9f3c4e92d0fcd1644a01e6938d37fb73fa9b65af344"
+    },
+    {
+      "id": "RND-NDM",
+      "file": "research/wiki/pages/no_debt_monetary_debt.md",
+      "sha256": "eae3398d0e0054bcea5aae3f8d665982f65b4b6e8f51301d2434b1004c20295b"
+    },
+    {
+      "id": "RND-OBG",
+      "file": "research/wiki/pages/onboarding_gamification.md",
+      "sha256": "48b681c8fc6bed5d14fa6318a61c66e602322e9fd155669e913ad7b962cd418b"
+    },
+    {
+      "id": "RND-OBO",
+      "file": "research/wiki/pages/onboarding_optimization.md",
+      "sha256": "4f8e7afb49b1cc106cdf964540b4885778f91ae5bf0adc7721b098f1fc54d595"
+    },
+    {
+      "id": "RND-POP",
+      "file": "research/wiki/pages/population_decline.md",
+      "sha256": "13b78b16f7ff878f77739ee9791ee5ccd9b571d921c43af3f11e10a7c2c5965e"
+    },
+    {
+      "id": "RND-PSE",
+      "file": "research/wiki/pages/pseudoscience_engagement.md",
+      "sha256": "323275ff7c1f0c68423109f838fcc59085ed06a0cc092721a771802321d38998"
+    },
+    {
+      "id": "RND-PPT",
+      "file": "research/wiki/pages/purpose_tree.md",
+      "sha256": "4c56c1a2c9475d91c5dfa5796fb82b355037182e04ca4b4c6aec9663edebe965"
+    },
+    {
+      "id": "RND-REC",
+      "file": "research/wiki/pages/religious_cooperation.md",
+      "sha256": "d8a83f1882cdca4ef435883dab40f8248b6899ebd2ace87d0cf107affc87b2b7"
+    },
+    {
+      "id": "RND-SSG",
+      "file": "research/wiki/pages/self_sufficient_gov_deep.md",
+      "sha256": "37248cd87285ce64e77bcb47b47bf73a999dc88e29fc7907ebe992ad797e8ebe"
+    },
+    {
+      "id": "RND-SWF",
+      "file": "research/wiki/pages/sovereign_wealth_fund_deep.md",
+      "sha256": "010e88f7f4660720c748db0080d47e3821b6fdf86220d558f1d3010a3b0d1840"
+    },
+    {
+      "id": "RND-SPC",
+      "file": "research/wiki/pages/space_economics_deep.md",
+      "sha256": "4cd8c94d77a95f43da15cf53e22354f3e8034fa3b415798579e523ba9700ad3c"
+    },
+    {
+      "id": "RND-TLI",
+      "file": "research/wiki/pages/timeline_improvement.md",
+      "sha256": "b663540344deaf63cff7979f9fc2cc8b2cbc1d2e1c9b929f1a9c3545503d3b97"
+    },
+    {
+      "id": "RND-TKB",
+      "file": "research/wiki/pages/token_banking.md",
+      "sha256": "f02cbdc1039668d0ec98dbc992f3d5143bd6318e52cb183e05438b375248a15e"
+    },
+    {
+      "id": "RND-TLP",
+      "file": "research/wiki/pages/token_ledger_proof.md",
+      "sha256": "37c3d8c08d1aa35125b4b8f33c56daca2bf7d5bdfd364a974b6b80cb60b57956"
+    },
+    {
+      "id": "RND-TRM",
+      "file": "research/wiki/pages/treasury_management.md",
+      "sha256": "1f378b670d743f6d04646361f89606d17b4016a479f55199f852827882cc3067"
+    },
+    {
+      "id": "RND-VAC",
+      "file": "research/wiki/pages/vacancy_economics.md",
+      "sha256": "02a942c874cb66c731a4cebd2fc4964fba2920386793b3ee1fa38b956f977c63"
+    },
+    {
+      "id": "CER-1",
+      "file": "wubucitizen/ceremonies/template.md",
+      "sha256": "db9eb9b7520d6f619860de22731890d482c8ae92847e5f36942f809ee5b668d7"
+    },
+    {
+      "id": "REG-1",
+      "file": "wubucitizen/docs/citizenship.md",
+      "sha256": "b09a95634f5d38b0c647e71c530ee483ed16a68eee2c501785ccc2a6165d1fcf"
+    },
+    {
+      "id": "REG-2",
+      "file": "wubucitizen/docs/penny-score.md",
+      "sha256": "df00978457d9862fde36061835420d727860d07f7b75893e564af575e3844d0f"
+    },
+    {
+      "id": "REG-3",
+      "file": "wubucitizen/docs/society-map.md",
+      "sha256": "59fec9a9b3f6a0afce83e2c39a2e267e77a3462677cc7a7c9195209aadcb8692"
+    },
+    {
+      "id": "REG-4",
+      "file": "wubucitizen/docs/wbi1-schema.md",
+      "sha256": "6c45fc868c837a24861c23c2c007e1293cae2b446a2c7c8bfcf3fa1c16907b04"
+    },
+    {
+      "id": "REG-5",
+      "file": "wubucitizen/docs/wid-capacity-audit.md",
+      "sha256": "6530453945a7e438f6a77deae1e66ec666e2ad138c4795fa58df6b2a4bb560e7"
+    },
+    {
+      "id": "REG-6",
+      "file": "wubucitizen/docs/wid-issuance-sla.md",
+      "sha256": "8100b043a5ad3642c0b42f24d7dfbc576d4e499dd52b935459c51132bd35ee8d"
+    },
+    {
+      "id": "REG-7",
+      "file": "wubucitizen/docs/wid.md",
+      "sha256": "140d971203df1b751620de6a03f0dae6b35c8b83bd0bacfd4c0bec811e5d71a2"
+    },
+    {
+      "id": "ECO-3",
+      "file": "wubuecon/docs/economic-doctrine.md",
+      "sha256": "8c63925f338f4cc37251c9d9ac1dd0adfdf81ba4645cd025ac36a44fe9ec636e"
+    },
+    {
+      "id": "RND-10",
+      "file": "wubuecon/docs/economic-doctrine.md",
+      "sha256": "8c63925f338f4cc37251c9d9ac1dd0adfdf81ba4645cd025ac36a44fe9ec636e"
+    },
+    {
+      "id": "ECO-8",
+      "file": "wubuecon/docs/greed-index.md",
+      "sha256": "0e98383c64ecb35b6d67fb1d6a4679645b0749d5e53dce8653bdf81392e3a4a4"
+    },
+    {
+      "id": "ECO-5",
+      "file": "wubuecon/docs/inflation-everything.md",
+      "sha256": "67e66f95a22288b866e3af1e2a4a1fbccfb6ed0b2c1bb3add62bad8c6c128e1a"
+    },
+    {
+      "id": "RND-12",
+      "file": "wubuecon/docs/inflation-everything.md",
+      "sha256": "67e66f95a22288b866e3af1e2a4a1fbccfb6ed0b2c1bb3add62bad8c6c128e1a"
+    },
+    {
+      "id": "ECO-4",
+      "file": "wubuecon/docs/land-question.md",
+      "sha256": "fd1c906438f88624a71bd81a591070800f62f451b9bd95583e5abd6b4be06c03"
+    },
+    {
+      "id": "RND-11",
+      "file": "wubuecon/docs/land-question.md",
+      "sha256": "fd1c906438f88624a71bd81a591070800f62f451b9bd95583e5abd6b4be06c03"
+    },
+    {
+      "id": "ECO-7",
+      "file": "wubuecon/docs/newell-doctrine.md",
+      "sha256": "e31e1d35e5a53a50085352839e3577c5c78105eb565193605332f84449c0954f"
+    },
+    {
+      "id": "ECO-6",
+      "file": "wubuecon/docs/nexus-doctrine.md",
+      "sha256": "136c5c1453dacb73fcff5f733e1fbc71887bf17cf4b4b642e8f1d8ddd503d29d"
+    },
+    {
+      "id": "RND-13",
+      "file": "wubuecon/docs/nexus-doctrine.md",
+      "sha256": "136c5c1453dacb73fcff5f733e1fbc71887bf17cf4b4b642e8f1d8ddd503d29d"
+    },
+    {
+      "id": "ECO-2",
+      "file": "wubuecon/docs/penny-comeback.md",
+      "sha256": "4f645c7f587dbfb3f019f98c156ebf5ce7798aa4e47a6b003eb2a1b10db12cec"
+    },
+    {
+      "id": "ECO-1",
+      "file": "wubuecon/docs/precedents.md",
+      "sha256": "3656caa2bb36faed8902fcf330cb5227d48b5126c6be4e312203cb29f83e3ab0"
+    },
+    {
+      "id": "ECO-9",
+      "file": "wubuecon/docs/research-log.md",
+      "sha256": "a2bd675f916e0e19a3f4e46af4b9b798e7d53085d9355e6868984af67501f2f1"
+    },
+    {
+      "id": "AUD-3",
+      "file": "wubugov/ADVERSARIAL_AUDIT.md",
+      "sha256": "9e6f3284be2b1fa8985d06a245c00db0f0e45ff0962d3f6c5820e6259487270f"
+    },
+    {
+      "id": "GOV-66",
+      "file": "wubugov/docs/7-magic-keys.md",
+      "sha256": "1d237bcd4ca9d86ab793ae200cf3b11751eb71194e8ef37815b5adb9409ba4ba"
+    },
+    {
+      "id": "GOV-35",
+      "file": "wubugov/docs/accommodationist-doctrine.md",
+      "sha256": "753c208606c145282345f3244fa3a4d4aebc949ad77d337ec1342ad965fca6c9"
+    },
+    {
+      "id": "GOV-2",
+      "file": "wubugov/docs/adaptation-not-dissolution.md",
+      "sha256": "4f6ff1ef179d48c17b4e2f0f7d8d0f17349fb0e41ce46c9b518a650141a76f9b"
+    },
+    {
+      "id": "GOV-8",
+      "file": "wubugov/docs/agi-system-doctrine.md",
+      "sha256": "9a7bd8fbc078fd48616ac1f305a9c7d3fbb05725b71f3afb9ad82ef2608061d8"
+    },
+    {
+      "id": "GOV-63",
+      "file": "wubugov/docs/anti-meta-gaming.md",
+      "sha256": "ca1721a024b92c9cb5e0212907665018918d1e7826aec805045a2549a35bd5fb"
+    },
+    {
+      "id": "GOV-21",
+      "file": "wubugov/docs/architect-doctrine.md",
+      "sha256": "9aec4ae1600afcf5fd44c55a416f3069c9c826c705cca565f364af43f3c170aa"
+    },
+    {
+      "id": "GOV-16",
+      "file": "wubugov/docs/archive-doctrine.md",
+      "sha256": "8a57e7422e20569c118c21a9372a465c9fb2576582440b7dde67be5d0c0ea953"
+    },
+    {
+      "id": "AUD-1",
+      "file": "wubugov/docs/audit-triple-da.md",
+      "sha256": "5cba1b61ef38f940d3fa69698dbc222c5a8dc9f6f1690e093fa8ccb0891db2e6"
+    },
+    {
+      "id": "GOV-33",
+      "file": "wubugov/docs/base-economy.md",
+      "sha256": "89ea1bc3b5cfe258c51b179a92b61657bad2bd794293c93b0dcbddc9d9f99741"
+    },
+    {
+      "id": "GOV-54",
+      "file": "wubugov/docs/brand-identity.md",
+      "sha256": "d1a80904959c6f7a12f4c75f285781e7040ddbbbb00603bea471a45227851849"
+    },
+    {
+      "id": "GOV-7",
+      "file": "wubugov/docs/china-model-doctrine.md",
+      "sha256": "190d9e308b5d996d8e4d1c7befcb91bf6b591564129dc9d8aef6739321dace44"
+    },
+    {
+      "id": "GOV-67",
+      "file": "wubugov/docs/cloudflare-setup.md",
+      "sha256": "2c96f6457c1d38a1508184bac24d54bcc3eaa278e251313ae36e10a3f863f8e0"
+    },
+    {
+      "id": "GOV-53",
+      "file": "wubugov/docs/communication-framework.md",
+      "sha256": "d6efcedd512031e23ad2ad0ef342a75b02cfe0c3dabad580fb417e7ac9b1ae2d"
+    },
+    {
+      "id": "GOV-34",
+      "file": "wubugov/docs/constitutional-hardline.md",
+      "sha256": "daf296819a55f213a74e91f5fae5990e85debf75bf7531d7c50543e2686c4a46"
+    },
+    {
+      "id": "GOV-20",
+      "file": "wubugov/docs/criticism-audit.md",
+      "sha256": "05deb97afcc37debf76b85a2b37c84ae78695d9047fb47d813b10633cb221794"
+    },
+    {
+      "id": "GOV-4",
+      "file": "wubugov/docs/digital-government-doctrine.md",
+      "sha256": "22637b0d649b9badcea978205f3de887c08f3ac72109b9ea89d9998a074e3f00"
+    },
+    {
+      "id": "GOV-12",
+      "file": "wubugov/docs/dispatch-doctrine.md",
+      "sha256": "bea919615bda67c7176eecbb328551becaea54bab02a866fff6daa95f905d9c6"
+    },
+    {
+      "id": "GOV-55",
+      "file": "wubugov/docs/docket-system.md",
+      "sha256": "fff420470c3b0b7e592ab3a0c753d29a4b9edc7ee7e4422f1c85949200726d4e"
+    },
+    {
+      "id": "GOV-60",
+      "file": "wubugov/docs/doctrine-improvements.md",
+      "sha256": "8d6c5c45b24b2556b3c62f4dc93eb5ca42565933a47c43e29ae6a69583c9a10a"
+    },
+    {
+      "id": "GOV-76",
+      "file": "wubugov/docs/doom-loop-defense.md",
+      "sha256": "499f892794d951d29b11311614256405de6a34be0ae0b0e3d4b93fdcf6029c8f"
+    },
+    {
+      "id": "GOV-30",
+      "file": "wubugov/docs/dual-token-doctrine.md",
+      "sha256": "f47299e31e23722baa05139a0341674d3a59d54d8a342582cd3d40a2a3f24242"
+    },
+    {
+      "id": "GOV-26",
+      "file": "wubugov/docs/education-efficacy-doctrine.md",
+      "sha256": "1a3e0f5e4b4171d7a054bc812395a4ab09ae4139d0aed8152b6f849adedcd93f"
+    },
+    {
+      "id": "GOV-68",
+      "file": "wubugov/docs/email-system.md",
+      "sha256": "1848adfb08c366e40f582f7969d4fa3993fae07c7f3707a670ae2c3cb8d4ecff"
+    },
+    {
+      "id": "GOV-47",
+      "file": "wubugov/docs/enforcement-doctrine.md",
+      "sha256": "dac99b9b2e846cff5b8d2cf60e366bff2ac323a6aaae41eb326a7c26d2344605"
+    },
+    {
+      "id": "GOV-36",
+      "file": "wubugov/docs/engagement-doctrine.md",
+      "sha256": "b0ad02d0d6d9f27f23e36b3cb60473e41d2a97c1b5c5674883e85725cb4d2af0"
+    },
+    {
+      "id": "GOV-73",
+      "file": "wubugov/docs/failure-taxonomy.md",
+      "sha256": "15b361fda60ad6ca3f73833c2177cf37dfe3dab762e8705058c6650df9d654f7"
+    },
+    {
+      "id": "GOV-41",
+      "file": "wubugov/docs/fast-track-trap.md",
+      "sha256": "577881533de7fed0067b0529bd190c3fafa97e275417244f6a287e58e3cf2f76"
+    },
+    {
+      "id": "GOV-31",
+      "file": "wubugov/docs/federation-doctrine.md",
+      "sha256": "72ecd2830997f417cbfaac4d9f021dbdc52c22a16e502f34d2f096df33edca15"
+    },
+    {
+      "id": "GOV-25",
+      "file": "wubugov/docs/first-ones-doctrine.md",
+      "sha256": "98676fdc390b42ae870e3d445ba02f2a16f11284cc721f2e4d874ffc986bb3c4"
+    },
+    {
+      "id": "GOV-24",
+      "file": "wubugov/docs/forces-doctrine.md",
+      "sha256": "e1d079e91fb1fe7d09345faad949f581795a289023e113ecae04bc1193f5c391"
+    },
+    {
+      "id": "GOV-27",
+      "file": "wubugov/docs/gap-events-doctrine.md",
+      "sha256": "08d3c15a31cebd6ab38405fca7c06d93b76e36f086609293072ce279cf17e547"
+    },
+    {
+      "id": "GOV-69",
+      "file": "wubugov/docs/github-org.md",
+      "sha256": "03840930f784f9f91888d1ec7bf941d3de3c37efca30d34cf1c3f858df755db1"
+    },
+    {
+      "id": "GOV-49",
+      "file": "wubugov/docs/global-organization.md",
+      "sha256": "f78551b4bb230eb8c68a2227911a19f8cd3d84a50afd06a8db111543c5d36875"
+    },
+    {
+      "id": "GOV-42",
+      "file": "wubugov/docs/honey-trap.md",
+      "sha256": "5c01edaf03869049c72156abc9fbb470f6792a0fed8a65bac39e69e8e4fe9018"
+    },
+    {
+      "id": "GOV-3",
+      "file": "wubugov/docs/human-centered-doctrine.md",
+      "sha256": "5f73a231452a95e923e09da93198804bab6e8bfa8f08b2c60212d81ed362808c"
+    },
+    {
+      "id": "GOV-37",
+      "file": "wubugov/docs/identity-doctrine.md",
+      "sha256": "8a8489a5e960d6947143e41726f6f137a4ce4b0164328e105a9afe46d38bde9d"
+    },
+    {
+      "id": "GOV-46",
+      "file": "wubugov/docs/inclusion-engine.md",
+      "sha256": "89e7d504abdb176813ca33420a949b379f2f03f6a9c47290b0389cf46b52b4a9"
+    },
+    {
+      "id": "GOV-6",
+      "file": "wubugov/docs/integration-doctrine.md",
+      "sha256": "9e053fa900715a53287094b4191976666c5694baf51deef251ce094bff330220"
+    },
+    {
+      "id": "GOV-77",
+      "file": "wubugov/docs/integrity-doctrine.md",
+      "sha256": "0e126427ace9bedcf9bae1b9a79918106d15a39987e2cad932ac37eb83f3b5be"
+    },
+    {
+      "id": "GOV-72",
+      "file": "wubugov/docs/intentional-contradictions.md",
+      "sha256": "d6f6d74bb4ed723d5e637de0a3ae18237682d3b74b0b93eadc6b9020e1da8f52"
+    },
+    {
+      "id": "GOV-39",
+      "file": "wubugov/docs/interoperability-doctrine.md",
+      "sha256": "3e84ab2073d300e9971c579f6689a3120031bf1a4e8473c96e3746647b1f97d9"
+    },
+    {
+      "id": "GOV-64",
+      "file": "wubugov/docs/legal-foundation.md",
+      "sha256": "7718da32c20689f852c5f55994384564cf527bd4bd1adfe1ff26d9a7108bbb1c"
+    },
+    {
+      "id": "GOV-50",
+      "file": "wubugov/docs/lodge-system.md",
+      "sha256": "78b98bed5582d7363080ce65823fb30cdaaf729a36e4bb09769b30401719a39b"
+    },
+    {
+      "id": "GOV-56",
+      "file": "wubugov/docs/meek-inheritance.md",
+      "sha256": "a9b6a3b11fbb746a02fba4346623cbbf8701c93efcb27d01bd99c166efee3482"
+    },
+    {
+      "id": "GOV-14",
+      "file": "wubugov/docs/mint-doctrine.md",
+      "sha256": "a5aa71d455b2e67643e6a7765e86462f7540eb381b2535206ecccf3e63648a71"
+    },
+    {
+      "id": "GOV-44",
+      "file": "wubugov/docs/multi-perspective-timeline.md",
+      "sha256": "c6185b3929ad774f6a8509a4f24a5f3494a1dcc33dc9c49eba3ee6bf2b7f4866"
+    },
+    {
+      "id": "GOV-45",
+      "file": "wubugov/docs/national-treasury-bridge.md",
+      "sha256": "23bb2ba32984359b041a2e034b784215db28798ad5a3be38bf85317f5db56d16"
+    },
+    {
+      "id": "GOV-1",
+      "file": "wubugov/docs/nature-of-government.md",
+      "sha256": "8ba98bafb55d9856d0cdb07d229317180a311af81b47ea621af2f07a047f09ee"
+    },
+    {
+      "id": "GOV-38",
+      "file": "wubugov/docs/onboarding-doctrine.md",
+      "sha256": "4163f88f3fedad8d84cdb41fb2746a1e183c0aa05649f40993ff512fd3fa6154"
+    },
+    {
+      "id": "GOV-11",
+      "file": "wubugov/docs/organization-doctrine.md",
+      "sha256": "8138e8a71b3dd6820fae25b30c3bcb005b81c50c22bff41a98e9e37aa57b641c"
+    },
+    {
+      "id": "GOV-70",
+      "file": "wubugov/docs/profitability.md",
+      "sha256": "fc801ed121d462bec7c2021b988050dc9bfcd5ff7a94f76dc062d26021ecf07a"
+    },
+    {
+      "id": "GOV-32",
+      "file": "wubugov/docs/progeny-doctrine.md",
+      "sha256": "e53c37d1d9d0f0d36c56b5bed7c38aa7e0faad7e987990502e32f1786ba1e8c7"
+    },
+    {
+      "id": "GOV-51",
+      "file": "wubugov/docs/purpose-tree.md",
+      "sha256": "4753cd04aa45f5ce7cfc6a4fea02822b34e1ce000ec4a65404d599d797a51234"
+    },
+    {
+      "id": "GOV-43",
+      "file": "wubugov/docs/quick-start.md",
+      "sha256": "70c1652e9b4d28b0deda444366bd3cf847e6234695f0c8c7fb7a3bc7ba1b1a63"
+    },
+    {
+      "id": "GOV-9",
+      "file": "wubugov/docs/ratchet-doctrine.md",
+      "sha256": "b2d82d9bf275cd019a66f2417345379348ec8b07ccac70eb4fd3a137f6c715c3"
+    },
+    {
+      "id": "GOV-74",
+      "file": "wubugov/docs/recursive-improvement.md",
+      "sha256": "3e705f1cf49637f4f476af2368ca1b83b0ed20b8d14340f4fa3652e58188cb32"
+    },
+    {
+      "id": "GOV-29",
+      "file": "wubugov/docs/reflective-moment.md",
+      "sha256": "20fe2f6bff113b91effcd77e2dcdb6c9232895e0190e30d87f94a35134268aa9"
+    },
+    {
+      "id": "GOV-18",
+      "file": "wubugov/docs/registry-doctrine.md",
+      "sha256": "1bbceb43799681d745d80e5989c2fea6fcd3808478b5facbece0a40784ff7af0"
+    },
+    {
+      "id": "GOV-75",
+      "file": "wubugov/docs/regulatory-capture-defense.md",
+      "sha256": "68207b69e206588678661c491c5b7d5aaa69af7f060af0989b2be06b8333b5e2"
+    },
+    {
+      "id": "GOV-57",
+      "file": "wubugov/docs/reserved-gov-57.md",
+      "sha256": "29d7dfe574c1dc829fc93943df3373bec48562e356d9f80441fd1785229441db"
+    },
+    {
+      "id": "GOV-58",
+      "file": "wubugov/docs/reserved-gov-58.md",
+      "sha256": "0cf3909ef29209486fed4539afef5ab7ffe9278de795c386b0a8776fcec69f50"
+    },
+    {
+      "id": "GOV-59",
+      "file": "wubugov/docs/reserved-gov-59.md",
+      "sha256": "4c40f6c3779bcfbabc9ab36d3a4453ebba1c5267899b5b9dfbf0cd03e7798c20"
+    },
+    {
+      "id": "GOV-61",
+      "file": "wubugov/docs/reserved-gov-61.md",
+      "sha256": "3c477b1f96619c1a18e99b1585e1cc52751df3752549236ad5934946bb98e4bb"
+    },
+    {
+      "id": "GOV-62",
+      "file": "wubugov/docs/reserved-gov-62.md",
+      "sha256": "9e42417c0ec493822294ca4e0166f304804e496fc458ef5d879a4387dcfe2392"
+    },
+    {
+      "id": "GOV-15",
+      "file": "wubugov/docs/ship-doctrine.md",
+      "sha256": "2fcb25120fb96122aa71681e680f87668d40dd9ee1e72a92e1e1851100ef3f2f"
+    },
+    {
+      "id": "GOV-22",
+      "file": "wubugov/docs/timeline-doctrine.md",
+      "sha256": "86ade4c4a45cc75a6b3b8a84378e00f15230d677e8c96a0a21d3402ff36f650d"
+    },
+    {
+      "id": "GOV-13",
+      "file": "wubugov/docs/treaty-doctrine.md",
+      "sha256": "5c7604f41c7c8f41daa3a7f82c00cfef55d155f9d8d3bdbfce52cc6541218a21"
+    },
+    {
+      "id": "GOV-10",
+      "file": "wubugov/docs/two-tongue-doctrine.md",
+      "sha256": "fbfea7bf278b6a9a92e7d3de654f25c868808df22f8ba1e1a2f4f79a500db885"
+    },
+    {
+      "id": "GOV-5",
+      "file": "wubugov/docs/user-doctrine.md",
+      "sha256": "e6c52c74b5bb36f2d32c3ad0d8112ed094cf4ca2b0c521dd8da4acf25d4c1734"
+    },
+    {
+      "id": "GOV-71",
+      "file": "wubugov/docs/vacancy-principle.md",
+      "sha256": "8776dad3cc846b0c67ae337213574be0560d6583ca853d94ec3a6691b521d223"
+    },
+    {
+      "id": "GOV-23",
+      "file": "wubugov/docs/views-doctrine.md",
+      "sha256": "c16442345ab08ec8f71d817dc3a9089aa4cf6433eeadb314952a7b4508ba9062"
+    },
+    {
+      "id": "GOV-17",
+      "file": "wubugov/docs/vote-doctrine.md",
+      "sha256": "d5d03e584e5fa14521227491e8bab4dc4e0c3d426ed304527b49dfc30a35223e"
+    },
+    {
+      "id": "GOV-48",
+      "file": "wubugov/docs/w-mint.md",
+      "sha256": "a0a00dab5225b1654a44ba8c0e0e1770404fa6d47d4fa8cc2d074e3ac6af43a6"
+    },
+    {
+      "id": "GOV-19",
+      "file": "wubugov/docs/w-token-doctrine.md",
+      "sha256": "0bfd9f0ee5e6b65b14bd0962a56b57a9708ae7b9137a9df81ab403e2a0992870"
+    },
+    {
+      "id": "GOV-28",
+      "file": "wubugov/docs/w-token-nature-doctrine.md",
+      "sha256": "95539ed78994c083d0e12704aff0509e18a30356532a938033832252448d2ee8"
+    },
+    {
+      "id": "GOV-40",
+      "file": "wubugov/docs/whimsical-transparency.md",
+      "sha256": "166fde87a13c6fce76ac0079f4ec9536d6b30b81258af3fdaacb44307f3ec847"
+    },
+    {
+      "id": "GOV-65",
+      "file": "wubugov/docs/zero-debt-doctrine.md",
+      "sha256": "33c92c196f2a469286478ddfd43eec1559f4e61f189c4270cff1ea35babd72d4"
+    },
+    {
+      "id": "WBI-2",
+      "file": "wubuintel/DOCTRINE.md",
+      "sha256": "4bb7970bf151f52e48bd742bd7d933f13c5353e721146b3614d25d36573fda68"
+    },
+    {
+      "id": "WBI-1",
+      "file": "wubuintel/REPORTING.md",
+      "sha256": "34208704d4d8369b4b5ae9323cac7d280928c24bc247e52afe5af572dff0b323"
+    },
+    {
+      "id": "RND-19",
+      "file": "wuburesearch/docs/ai-ethics-asimov.md",
+      "sha256": "e9a2088c6c2d635320e909cd4aa105caeb0e1ca74562c02d31a9a0765466c41c"
+    },
+    {
+      "id": "RND-44",
+      "file": "wuburesearch/docs/api-interoperability.md",
+      "sha256": "3784c26d88b816db518a3a20b9ebe397b0e0a4149d00f32c0ec79d4aa20d48db"
+    },
+    {
+      "id": "RND-43",
+      "file": "wuburesearch/docs/banking-interoperability.md",
+      "sha256": "bcb37f32cabca15e750db80c71786f1a6b63c4baa8b77bf6ebc8af3fe189faf0"
+    },
+    {
+      "id": "RND-7",
+      "file": "wuburesearch/docs/copper-class.md",
+      "sha256": "f11651c305912b7c5c4779b438259d83ba6741915291628a62171e0e95467c19"
+    },
+    {
+      "id": "RND-5",
+      "file": "wuburesearch/docs/currency-legality.md",
+      "sha256": "1e4500f7eaf7cad75581dcecfd725a6546f893cf7ae3e285be428f9a3ff3c83c"
+    },
+    {
+      "id": "RND-21",
+      "file": "wuburesearch/docs/language-unification.md",
+      "sha256": "02b692173d7963d98a8e3b2d909dbbb42052370719e9775beaf35c4b00041de7"
+    },
+    {
+      "id": "RND-0.1",
+      "file": "wuburesearch/docs/organization.md",
+      "sha256": "599123eb91d223cb101869e4d4d649ea44670ad0e08123ec42e93e19506f856e"
+    },
+    {
+      "id": "RND-16",
+      "file": "wuburesearch/docs/penny-day.md",
+      "sha256": "3cfdd4df6a193f3e71f9843e80f0f8a635a21a307890a9f881d6a7a0bbb5370d"
+    },
+    {
+      "id": "RND-6",
+      "file": "wuburesearch/docs/penny-standard.md",
+      "sha256": "63c2cc0d40e0f4b299842965e2dcb78f8ad7de1da0f67178154ae15b4ab68a10"
+    },
+    {
+      "id": "RND-4",
+      "file": "wuburesearch/docs/penny-tracking.md",
+      "sha256": "bec9c8a8880250d1ec5c6211c208c5e2c974e84f755253c8a3a0800285568ec0"
+    },
+    {
+      "id": "RND-42",
+      "file": "wuburesearch/docs/plastic-token-rnd.md",
+      "sha256": "4fae81c61b684bed96431345a413db034e8faa2bd2da7ba3ab00345de52cf24d"
+    },
+    {
+      "id": "RND-45",
+      "file": "wuburesearch/docs/proof-of-cooperation.md",
+      "sha256": "4446c04aa773ec3e05a7752059c75f0a6c94728cc5f17652ec8da10be64fe5a3"
+    },
+    {
+      "id": "RND-52",
+      "file": "wuburesearch/docs/research-log.md",
+      "sha256": "280196834f23f2600e83d6ec4960c277123f64b28e59bdad2e8afdce982d4b47"
+    },
+    {
+      "id": "RND-1",
+      "file": "wuburesearch/docs/scoring.md",
+      "sha256": "27cda3fd00a7a531d6bcfd2f56b8b053e56f7fdba82c207b5dc4872e8543bdf4"
+    },
+    {
+      "id": "RND-2",
+      "file": "wuburesearch/docs/security.md",
+      "sha256": "3c6c23b502498dcd48e5940dc343cdff0409e7ba8193b0a03c793c5910e5e06d"
+    },
+    {
+      "id": "RND-17",
+      "file": "wuburesearch/docs/world-model.md",
+      "sha256": "af72398087681af390efb210645d77835b9e2c1e7beeaa1bbbbaf9752db6495c"
+    },
+    {
+      "id": "RND-3",
+      "file": "wuburesearch/docs/wubu-cryptography.md",
+      "sha256": "646b0ef7e8aaa3790f2875ec76bfdc5673207aa7913c755d37a84f7992104aa0"
+    }
+  ],
+  "registry": {
+    "filings.json": "de0e35f50c0c12d473e2abdcdca15780a35085f0577c554aa43258e017e5d884",
+    "tools.json": "f5e8dc3a013f0d70e1cb9eb73c1b664775f87224ea49730f3ef76f62be4f79ce",
+    "divisions.json": "ddfd1b9be1add084beb570cf1b03ceac391c77a5d27ec5485b724ad04d4dc831"
+  }
+}

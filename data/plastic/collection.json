@@ -1,0 +1,18 @@
+{
+  "types": {
+    "LDPE": {
+      "grams": 0.0,
+      "items": 1
+    },
+    "HDPE": {
+      "grams": 15.0,
+      "items": 1
+    },
+    "PET": {
+      "grams": 10.0,
+      "items": 1
+    }
+  },
+  "total_grams": 25.0,
+  "total_items": 3
+}
