@@ -2,9 +2,9 @@
   "schema": "wubu-corpus-seal-v1",
   "sealed": "2026-10-21",
   "documents": 154,
-  "root": "59a20bd855d8ecde7186e94124a150917384314f316a8344538f176cb956ac23",
-  "prev_root": "fa183c947e428afd60b8551b33b53fae59d2b01a1b073f1ec2191cb115599228",
-  "reason": "RND-53: figure annotated as a pre-filing snapshot",
+  "root": "3841fb2791161769440cdd617358406b98dcc5017f7f19aad73467d92699938d",
+  "prev_root": "59a20bd855d8ecde7186e94124a150917384314f316a8344538f176cb956ac23",
+  "reason": "GOV-77 and RND-53 pass both language gates; STE pass applied",
   "entries": [
     {
       "id": "RND-ANT",
@@ -484,7 +484,7 @@
     {
       "id": "GOV-77",
       "file": "wubugov/docs/integrity-doctrine.md",
-      "sha256": "0e126427ace9bedcf9bae1b9a79918106d15a39987e2cad932ac37eb83f3b5be"
+      "sha256": "ff8a583fe5b35ffc0c2f0b44ec2c8e1a602077642ba2f384535580f3be1b42c5"
     },
     {
       "id": "GOV-72",
@@ -764,7 +764,7 @@
     {
       "id": "RND-53",
       "file": "wuburesearch/docs/teach-gap.md",
-      "sha256": "ca5d113f3aa0415a8a7e355afdee2c4fc743f3620fbe8e5e3fe594b8e61a09ef"
+      "sha256": "780e781d72735832774975766d1171a34ed4a82858e92b7f8e4f70efd20f8e2a"
     },
     {
       "id": "RND-17",
