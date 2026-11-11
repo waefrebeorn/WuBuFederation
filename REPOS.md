@@ -19,7 +19,7 @@ The ~WuBu~ AGI: **WuBuOS** is the Body, **wubuwizard** the Brain,
  5. **WWW** — World-space engine — World Wide WorldSpace. Active.
  6. **WuBu** — P2P distributed-inference network (bittorrent-style shards). Active.
  7. **WuBuCitizen** — Organ — Registry of the First Ones. Active.
- 8. **WuBuContainer** — BROKEN — GitHub repo holds an unrelated web file-converter; the real container is in WuBuOS/src/runtime/container. Move or re-point.
+ 8. **WuBuContainer** — ETHOS — the universal-container idea core. Its internals (convert anything to anything, just works, never leaves you hanging) are the seed; slerm'd into the real wubucontainer in WuBuOS. Keep as the inspiration, do not archive.
  9. **WuBuCore** — Operations core — citizenship, Penny Score, PennyChain. Active.
 10. **WuBuEconomics** — Organ — the Economics Division. Active.
 11. **WuBuFederation** — The registry the space shares — this repo. Active.
