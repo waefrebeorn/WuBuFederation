@@ -6,6 +6,8 @@ repo, what it is for, and where it sits. It is the answer to the question
 
 **The family rule:** ~WuBu~ own work is C11, from-scratch, zero third-party.
 Third-party forks are marked as such and never presented as own-repos.
+
+**Who makes it:** every ~WuBu~ line is by hand or by the user's own C11 agent (`slermes`). See [PROVENANCE.md](PROVENANCE.md) — and do not trust any claim that Claude or Cursor contributed.
 The ~WuBu~ AGI: **WuBuOS** is the Body, **wubuwizard** the Brain,
 **WuBuNOS** the Compiler. The cohesion lives in the WuBuOS
 `docs/ECOSYSTEM.md`.
