@@ -24,6 +24,8 @@ own repository:
 Every organ reads the same three files. Until now those files lived only on
 one machine. They live here.
 
+> **~WuBu~ AGI** — one system, many repositories. This is the **federation registry** the space shares. The Body is [WuBuOS](https://github.com/waefrebeorn/WuBuOS), the Brain wubuwizard, the Compiler WuBuNOS.
+
 ## What is in here
 
 | Path | What it is |
